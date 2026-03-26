@@ -1,0 +1,1001 @@
+customer_id,signup_date,region,plan,contract_type,monthly_fee_,tenure_months,payment_method,products_held,usage_gbmo,support_contacts_6m,complaints_raised,payment_failures_12m,nps_score_010,acquisition_channel,age_band,gender,paperless_billing,auto_renewal,churn_prob_score,churned_1yes,churn_date,churn_reason,high_risk_flag,revenue_per_product,tenure_band,predicted_churn_prob,predicted_churn
+UK00001,2021-07-15 00:00:00.000000,London,Standard,Month-to-Month,19.99,36,Credit Card,1,10.7,2,2,0,3,Phone,35-44,F,No,Yes,0.79,1,2024-10-29 00:00:00.000000,Moved abroad,1,19.99,25-36m,0.8794532,1
+UK00002,2020-10-17 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,55,Direct Debit,3,3.2,0,0,0,4,Referral,45-54,F,No,Yes,0.31,0,,,0,3.33,37m+,0.16685249,0
+UK00003,2021-05-18 00:00:00.000000,East Midlands,Premium,1-Year,39.99,47,Credit Card,1,72.7,2,1,3,8,Phone,35-44,M,Yes,No,0.22,0,,,0,39.99,37m+,0.49982494,0
+UK00004,2023-06-08 00:00:00.000000,London,Premium,1-Year,39.99,22,Credit Card,4,9.4,1,3,0,5,Online,45-54,M,Yes,No,0.26,0,,,0,9.9975,13-24m,0.06176832,0
+UK00005,2021-07-06 00:00:00.000000,North East,Basic,Month-to-Month,9.99,41,PayPal,4,0.6,0,0,1,7,Online,25-34,Prefer not to say,No,Yes,0.37,0,,,0,2.4975,37m+,0.11865279,0
+UK00006,2021-09-20 00:00:00.000000,London,Premium,2-Year,39.99,21,Bank Transfer,1,36.0,1,0,0,7,Referral,18-24,F,No,No,0.02,0,,,0,39.99,13-24m,0.030762887,0
+UK00007,2021-03-03 00:00:00.000000,North West,Standard,2-Year,19.99,34,Credit Card,5,6.7,4,2,0,9,Online,65+,F,Yes,No,0.2,0,,,0,3.9979999999999998,25-36m,0.07192996,0
+UK00008,2020-07-03 00:00:00.000000,North West,Basic,Month-to-Month,9.99,40,Bank Transfer,5,1.4,4,0,0,5,In-Store,25-34,F,Yes,No,0.47,0,,,0,1.998,37m+,0.13844089,0
+UK00009,2020-05-09 00:00:00.000000,Scotland,Standard,2-Year,19.99,70,Credit Card,3,17.3,1,1,0,8,Online,45-54,M,Yes,Yes,0.02,0,,,0,6.663333333333333,37m+,0.04601538,0
+UK00010,2024-05-14 00:00:00.000000,South East,Standard,2-Year,19.99,5,Bank Transfer,2,8.1,0,0,0,2,Phone,35-44,F,No,Yes,0.49,1,2026-02-12 00:00:00.000000,Poor service quality,0,9.995,0-6m,0.8698883,1
+UK00011,2023-04-27 00:00:00.000000,South West,Standard,1-Year,19.99,7,Direct Debit,1,15.0,0,1,1,10,In-Store,25-34,M,Yes,No,0.28,0,,,0,19.99,7-12m,0.13056545,0
+UK00012,2020-05-19 00:00:00.000000,London,Premium,2-Year,39.99,70,Bank Transfer,2,54.3,0,0,0,10,Online,18-24,M,No,No,0.02,0,,,0,19.995,37m+,0.015843844,0
+UK00013,2020-04-24 00:00:00.000000,Wales,Enterprise,1-Year,79.99,72,Credit Card,2,23.9,0,3,0,7,In-Store,55-64,F,Yes,Yes,0.14,0,,,0,39.995,37m+,0.18627015,0
+UK00014,2022-08-30 00:00:00.000000,London,Basic,Month-to-Month,9.99,31,Direct Debit,5,2.3,0,0,0,10,Phone,25-34,M,No,Yes,0.27,1,2024-01-18 00:00:00.000000,No longer needed,0,1.998,25-36m,0.21998332,0
+UK00015,2025-04-02 00:00:00.000000,South East,Basic,Month-to-Month,9.99,10,Credit Card,5,2.7,5,0,0,8,Online,25-34,M,No,Yes,0.59,0,,,0,1.998,7-12m,0.3078781,0
+UK00016,2021-11-22 00:00:00.000000,Scotland,Standard,2-Year,19.99,14,Direct Debit,1,25.9,3,1,0,3,Phone,25-34,F,No,No,0.44,1,2025-02-23 00:00:00.000000,Price too high,1,19.99,13-24m,0.81232697,1
+UK00017,2021-12-25 00:00:00.000000,South East,Standard,Month-to-Month,19.99,1,Direct Debit,3,9.3,0,0,0,3,Referral,45-54,M,Yes,Yes,0.7,1,2026-02-23 00:00:00.000000,Payment issues,0,6.663333333333333,0-6m,0.911752,1
+UK00018,2021-08-21 00:00:00.000000,South East,Basic,Month-to-Month,9.99,14,PayPal,4,2.7,5,1,2,7,Partner,55-64,F,Yes,Yes,0.79,1,2025-07-17 00:00:00.000000,No longer needed,0,2.4975,13-24m,0.7559546,1
+UK00019,2022-04-10 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,32,Credit Card,1,16.2,1,0,0,9,Referral,25-34,M,Yes,No,0.21,0,,,0,19.99,25-36m,0.068708844,0
+UK00020,2021-10-10 00:00:00.000000,Scotland,Premium,Month-to-Month,39.99,36,Credit Card,5,92.9,1,0,1,7,Partner,25-34,M,No,No,0.27,0,,,0,7.998,25-36m,0.07144414,0
+UK00021,2020-10-12 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,66,Credit Card,2,18.7,0,1,0,10,In-Store,65+,F,No,Yes,0.17,0,,,0,9.995,37m+,0.18451104,0
+UK00022,2020-10-19 00:00:00.000000,South East,Standard,Month-to-Month,19.99,53,Direct Debit,5,8.6,0,0,2,8,Online,35-44,M,No,Yes,0.15,0,,,0,3.9979999999999998,37m+,0.05400634,0
+UK00023,2021-01-12 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,60,Direct Debit,5,13.2,1,2,1,8,Phone,18-24,Prefer not to say,Yes,No,0.33,1,2022-05-31 00:00:00.000000,Price too high,0,3.9979999999999998,37m+,0.47194716,0
+UK00024,2021-09-05 00:00:00.000000,Wales,Basic,1-Year,9.99,10,Credit Card,5,3.6,0,1,0,9,Phone,55-64,F,Yes,No,0.32,1,2026-02-17 00:00:00.000000,Competitor offer,0,1.998,7-12m,0.7258022,1
+UK00025,2024-05-06 00:00:00.000000,North East,Standard,1-Year,19.99,16,PayPal,5,18.4,5,0,2,9,In-Store,55-64,M,Yes,No,0.28,0,,,0,3.9979999999999998,13-24m,0.123014934,0
+UK00026,2021-11-01 00:00:00.000000,South West,Premium,2-Year,39.99,36,Credit Card,2,25.5,0,0,0,7,Referral,18-24,M,No,Yes,0.02,0,,,0,19.995,25-36m,0.021777144,0
+UK00027,2020-05-30 00:00:00.000000,North West,Basic,1-Year,9.99,70,Credit Card,4,6.1,1,1,2,2,Online,35-44,F,No,Yes,0.52,1,2023-07-15 00:00:00.000000,Poor service quality,1,2.4975,37m+,0.8348899,1
+UK00028,2021-11-22 00:00:00.000000,South East,Basic,1-Year,9.99,52,Direct Debit,2,3.4,5,0,2,9,Online,35-44,F,Yes,Yes,0.42,1,2023-10-16 00:00:00.000000,Price too high,0,4.995,37m+,0.7600894,1
+UK00029,2021-04-17 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,49,Credit Card,4,0.1,0,0,0,10,Online,65+,M,Yes,Yes,0.13,0,,,0,4.9975,37m+,0.12908451,0
+UK00030,2023-09-16 00:00:00.000000,London,Basic,1-Year,9.99,17,Direct Debit,2,1.4,1,0,0,3,Phone,25-34,F,No,Yes,0.56,0,,,0,4.995,13-24m,0.40856844,0
+UK00031,2021-12-29 00:00:00.000000,Yorkshire,Enterprise,Month-to-Month,79.99,49,PayPal,1,103.4,2,1,0,8,Referral,35-44,M,No,No,0.13,1,2025-10-31 00:00:00.000000,Poor service quality,0,79.99,37m+,0.68082905,1
+UK00032,2023-12-17 00:00:00.000000,South West,Premium,Month-to-Month,39.99,14,Credit Card,4,27.0,2,0,1,6,Referral,35-44,F,No,No,0.31,0,,,0,9.9975,13-24m,0.1677264,0
+UK00033,2023-01-17 00:00:00.000000,Scotland,Basic,2-Year,9.99,36,Credit Card,4,1.7,1,1,0,5,Referral,35-44,F,No,Yes,0.24,0,,,0,2.4975,25-36m,0.06831266,0
+UK00034,2020-07-28 00:00:00.000000,South East,Basic,1-Year,9.99,53,Credit Card,4,3.0,2,0,1,9,In-Store,25-34,F,No,No,0.18,0,,,0,2.4975,37m+,0.05239919,0
+UK00035,2020-05-24 00:00:00.000000,Wales,Standard,Month-to-Month,19.99,71,PayPal,3,8.0,1,0,1,8,Online,25-34,F,No,Yes,0.13,0,,,0,6.663333333333333,37m+,0.14960691,0
+UK00036,2022-12-16 00:00:00.000000,North West,Basic,Month-to-Month,9.99,39,Credit Card,3,5.3,0,0,0,7,Referral,35-44,F,No,No,0.21,0,,,0,3.33,37m+,0.25102067,0
+UK00037,2023-06-20 00:00:00.000000,Scotland,Standard,2-Year,19.99,33,Bank Transfer,1,15.2,1,0,0,7,Online,25-34,F,No,Yes,0.06,0,,,0,19.99,25-36m,0.012916095,0
+UK00038,2020-08-03 00:00:00.000000,North East,Standard,2-Year,19.99,39,Bank Transfer,3,13.1,1,0,2,10,Online,25-34,F,Yes,Yes,0.02,0,,,0,6.663333333333333,37m+,0.045427375,0
+UK00039,2020-09-06 00:00:00.000000,London,Basic,1-Year,9.99,58,PayPal,1,0.8,0,1,0,7,Phone,45-54,F,No,Yes,0.3,0,,,0,9.99,37m+,0.47076946,0
+UK00040,2022-10-10 00:00:00.000000,North East,Standard,Month-to-Month,19.99,19,Credit Card,3,14.6,2,1,2,4,Phone,45-54,Prefer not to say,No,No,0.51,1,2024-10-10 00:00:00.000000,Payment issues,0,6.663333333333333,13-24m,0.7525348,1
+UK00041,2024-08-03 00:00:00.000000,East Midlands,Premium,Month-to-Month,39.99,4,PayPal,5,57.8,2,0,1,10,In-Store,45-54,F,Yes,No,0.44,0,,,0,7.998,0-6m,0.12586167,0
+UK00042,2021-02-13 00:00:00.000000,London,Standard,Month-to-Month,19.99,45,Direct Debit,1,4.9,3,0,0,6,In-Store,45-54,M,Yes,No,0.43,1,2023-03-07 00:00:00.000000,Unknown,0,19.99,37m+,0.730901,1
+UK00043,2020-11-21 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,1,Credit Card,4,5.5,0,0,0,7,In-Store,65+,M,No,Yes,0.33,1,2026-03-14 00:00:00.000000,Competitor offer,0,4.9975,0-6m,0.7929254,1
+UK00044,2020-04-27 00:00:00.000000,London,Basic,Month-to-Month,9.99,71,Direct Debit,2,3.0,5,2,0,6,Online,65+,M,No,No,0.77,0,,,0,4.995,37m+,0.5223681,1
+UK00045,2020-05-07 00:00:00.000000,South East,Enterprise,Month-to-Month,79.99,71,Credit Card,5,102.6,1,2,1,4,Referral,25-34,M,No,No,0.33,0,,,0,15.998,37m+,0.14824656,0
+UK00046,2020-12-24 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,43,Direct Debit,4,22.5,4,1,3,7,Online,55-64,M,No,No,0.42,1,2023-07-19 00:00:00.000000,Competitor offer,0,4.9975,37m+,0.85401756,1
+UK00047,2020-09-29 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,43,Credit Card,4,4.9,0,2,0,9,Referral,25-34,F,No,Yes,0.12,0,,,0,2.4975,37m+,0.08482,0
+UK00048,2022-01-30 00:00:00.000000,South West,Premium,2-Year,39.99,49,Direct Debit,4,80.8,3,0,0,8,Online,25-34,M,Yes,Yes,0.02,0,,,0,9.9975,37m+,0.014098733,0
+UK00049,2021-04-07 00:00:00.000000,North East,Premium,Month-to-Month,39.99,6,Credit Card,3,8.5,1,0,0,1,Phone,35-44,F,No,Yes,0.55,1,2026-03-07 00:00:00.000000,Poor service quality,0,13.33,0-6m,0.89980507,1
+UK00050,2020-09-24 00:00:00.000000,London,Basic,2-Year,9.99,60,Direct Debit,2,1.9,0,2,3,8,In-Store,25-34,F,Yes,No,0.36,0,,,0,4.995,37m+,0.36770743,0
+UK00051,2022-05-26 00:00:00.000000,North West,Basic,1-Year,9.99,46,Bank Transfer,3,6.0,0,1,0,10,Partner,45-54,F,No,Yes,0.02,0,,,0,3.33,37m+,0.15573214,0
+UK00052,2022-01-16 00:00:00.000000,East Midlands,Standard,1-Year,19.99,33,PayPal,2,12.6,2,2,0,8,Online,35-44,M,No,No,0.3,0,,,0,9.995,25-36m,0.107796796,0
+UK00053,2020-06-14 00:00:00.000000,London,Basic,2-Year,9.99,70,Credit Card,5,3.8,4,1,0,6,Referral,55-64,M,Yes,Yes,0.28,0,,,0,1.998,37m+,0.15320279,0
+UK00054,2020-08-28 00:00:00.000000,West Midlands,Basic,2-Year,9.99,51,Direct Debit,3,1.5,0,0,0,9,Phone,45-54,F,No,Yes,0.02,0,,,0,3.33,37m+,0.027467946,0
+UK00055,2020-04-24 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,72,Bank Transfer,1,10.2,2,0,0,8,Online,35-44,M,Yes,No,0.17,0,,,0,19.99,37m+,0.11680176,0
+UK00056,2020-06-02 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,70,Direct Debit,2,36.0,3,1,1,8,Partner,18-24,M,No,No,0.29,0,,,0,19.995,37m+,0.22953951,0
+UK00057,2020-07-26 00:00:00.000000,London,Premium,1-Year,39.99,48,Direct Debit,3,84.8,0,0,2,10,Phone,45-54,M,No,Yes,0.02,0,,,0,13.33,37m+,0.1324595,0
+UK00058,2020-04-24 00:00:00.000000,London,Premium,Month-to-Month,39.99,71,Credit Card,2,31.8,1,0,2,4,Partner,65+,F,Yes,Yes,0.31,0,,,0,19.995,37m+,0.19381024,0
+UK00059,2022-05-05 00:00:00.000000,London,Basic,1-Year,9.99,31,Direct Debit,3,3.0,0,1,0,0,Online,35-44,Prefer not to say,Yes,No,0.54,1,2023-10-07 00:00:00.000000,Price too high,1,3.33,25-36m,0.7575411,1
+UK00060,2021-01-07 00:00:00.000000,North West,Standard,1-Year,19.99,14,Credit Card,1,5.2,3,0,0,10,Phone,35-44,M,No,No,0.14,0,,,0,19.99,13-24m,0.10402898,0
+UK00061,2022-11-08 00:00:00.000000,East of England,Standard,2-Year,19.99,15,Credit Card,5,12.7,2,0,0,8,Phone,25-34,M,No,No,0.02,0,,,0,3.9979999999999998,13-24m,0.014045238,0
+UK00062,2020-08-24 00:00:00.000000,North West,Premium,2-Year,39.99,12,Direct Debit,1,65.3,2,0,0,2,Phone,35-44,M,No,No,0.26,0,,,0,39.99,7-12m,0.084023155,0
+UK00063,2020-08-19 00:00:00.000000,Scotland,Premium,Month-to-Month,39.99,40,PayPal,2,28.1,0,0,1,8,Phone,55-64,F,Yes,No,0.09,1,2024-06-21 00:00:00.000000,No longer needed,0,19.995,37m+,0.48766804,0
+UK00064,2021-05-04 00:00:00.000000,South East,Standard,Month-to-Month,19.99,1,Direct Debit,4,18.2,0,1,3,3,Online,35-44,M,No,No,0.95,1,2026-03-12 00:00:00.000000,Competitor offer,1,4.9975,0-6m,0.9113801,1
+UK00065,2022-09-21 00:00:00.000000,London,Premium,1-Year,39.99,7,Credit Card,4,45.3,1,0,0,5,Phone,45-54,F,No,Yes,0.18,0,,,0,9.9975,7-12m,0.05967498,0
+UK00066,2023-02-06 00:00:00.000000,London,Enterprise,Month-to-Month,79.99,27,Direct Debit,2,90.5,2,0,0,4,Online,35-44,F,No,Yes,0.25,0,,,0,39.995,25-36m,0.28488863,0
+UK00067,2020-10-07 00:00:00.000000,North West,Premium,2-Year,39.99,59,Credit Card,5,39.4,1,0,0,9,Partner,35-44,F,No,Yes,0.02,0,,,0,7.998,37m+,0.007849863,0
+UK00068,2020-07-11 00:00:00.000000,North West,Basic,1-Year,9.99,52,Direct Debit,3,4.5,2,0,1,6,Online,35-44,F,No,No,0.3,0,,,0,3.33,37m+,0.1354545,0
+UK00069,2023-01-30 00:00:00.000000,South West,Premium,Month-to-Month,39.99,31,Direct Debit,2,62.1,2,1,0,5,Phone,45-54,F,No,No,0.39,1,2023-11-14 00:00:00.000000,Competitor offer,0,19.995,25-36m,0.5293366,1
+UK00070,2020-09-28 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,8,Direct Debit,4,21.3,1,0,1,2,Partner,18-24,F,No,No,0.67,1,2026-02-14 00:00:00.000000,No longer needed,0,4.9975,7-12m,0.8696194,1
+UK00071,2020-10-13 00:00:00.000000,North East,Basic,Month-to-Month,9.99,25,Direct Debit,2,5.2,4,0,1,7,Online,25-34,M,No,Yes,0.57,1,2024-12-18 00:00:00.000000,Poor service quality,0,4.995,25-36m,0.74460024,1
+UK00072,2021-09-22 00:00:00.000000,West Midlands,Premium,2-Year,39.99,7,Direct Debit,1,0.1,1,0,0,8,Phone,55-64,F,No,Yes,0.1,0,,,0,39.99,7-12m,0.11181662,0
+UK00073,2021-10-15 00:00:00.000000,South East,Basic,Month-to-Month,9.99,51,Credit Card,1,3.9,1,0,1,8,Phone,35-44,M,No,Yes,0.35,0,,,0,9.99,37m+,0.23424025,0
+UK00074,2023-05-04 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,25,PayPal,1,3.8,0,1,0,3,Referral,18-24,M,Yes,No,0.69,1,2024-09-05 00:00:00.000000,Moved abroad,1,19.99,25-36m,0.906706,1
+UK00075,2022-10-30 00:00:00.000000,East of England,Premium,1-Year,39.99,22,Credit Card,3,36.9,2,0,0,1,Online,65+,F,Yes,No,0.32,0,,,0,13.33,13-24m,0.10029364,0
+UK00076,2021-02-01 00:00:00.000000,North West,Standard,2-Year,19.99,37,PayPal,4,21.7,5,1,1,7,Online,35-44,M,Yes,Yes,0.22,0,,,0,4.9975,37m+,0.103919365,0
+UK00077,2020-07-28 00:00:00.000000,South East,Premium,Month-to-Month,39.99,66,Credit Card,2,25.5,3,2,2,7,Partner,35-44,M,Yes,No,0.59,0,,,0,19.995,37m+,0.23914042,0
+UK00078,2020-09-02 00:00:00.000000,South East,Basic,1-Year,9.99,61,Credit Card,4,3.8,1,0,0,3,Online,65+,F,No,Yes,0.42,0,,,0,2.4975,37m+,0.09976438,0
+UK00079,2023-07-15 00:00:00.000000,London,Basic,Month-to-Month,9.99,31,Credit Card,4,0.9,0,1,0,9,Online,35-44,F,Yes,No,0.35,1,2025-07-21 00:00:00.000000,Price too high,0,2.4975,25-36m,0.65407085,1
+UK00080,2020-07-14 00:00:00.000000,London,Enterprise,1-Year,79.99,68,Credit Card,5,100.9,1,0,0,9,Online,45-54,M,Yes,No,0.02,0,,,0,15.998,37m+,0.026555393,0
+UK00081,2022-01-30 00:00:00.000000,London,Premium,Month-to-Month,39.99,43,Credit Card,3,11.2,3,0,1,6,Online,45-54,Prefer not to say,Yes,No,0.27,1,2023-10-24 00:00:00.000000,Payment issues,0,13.33,37m+,0.5347024,1
+UK00082,2020-06-11 00:00:00.000000,South East,Standard,2-Year,19.99,51,PayPal,3,14.0,0,0,0,7,Online,25-34,M,No,No,0.02,0,,,0,6.663333333333333,37m+,0.011656999,0
+UK00083,2020-06-09 00:00:00.000000,Wales,Standard,1-Year,19.99,64,Direct Debit,5,0.1,0,0,0,6,Online,18-24,F,No,No,0.1,0,,,0,3.9979999999999998,37m+,0.030403314,0
+UK00084,2022-07-13 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,45,Bank Transfer,3,20.3,2,0,0,8,Online,45-54,M,Yes,Yes,0.11,0,,,0,6.663333333333333,37m+,0.1172391,0
+UK00085,2022-05-23 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,5,Credit Card,3,15.7,1,2,0,5,Referral,45-54,F,No,No,0.72,1,2025-12-27 00:00:00.000000,Unknown,0,6.663333333333333,0-6m,0.8668413,1
+UK00086,2020-07-06 00:00:00.000000,London,Basic,Month-to-Month,9.99,67,Direct Debit,3,4.3,2,1,0,7,Partner,25-34,M,Yes,No,0.47,1,2024-09-20 00:00:00.000000,Poor service quality,0,3.33,37m+,0.5918684,1
+UK00087,2022-02-06 00:00:00.000000,West Midlands,Basic,1-Year,9.99,41,Credit Card,5,2.2,1,2,1,8,Online,25-34,Prefer not to say,Yes,Yes,0.34,0,,,0,1.998,37m+,0.15413956,0
+UK00088,2021-08-27 00:00:00.000000,Yorkshire,Basic,1-Year,9.99,48,Direct Debit,2,0.1,2,0,0,10,Referral,55-64,M,No,Yes,0.18,0,,,0,4.995,37m+,0.14463021,0
+UK00089,2020-04-29 00:00:00.000000,South East,Premium,1-Year,39.99,71,Credit Card,2,54.2,1,2,0,4,Partner,25-34,Prefer not to say,No,Yes,0.24,0,,,0,19.995,37m+,0.06767786,0
+UK00090,2021-03-05 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,17,Credit Card,1,14.4,1,0,2,8,Phone,55-64,M,Yes,Yes,0.18,1,2026-02-27 00:00:00.000000,Competitor offer,0,19.99,13-24m,0.49496645,0
+UK00091,2021-02-22 00:00:00.000000,East Midlands,Standard,1-Year,19.99,54,Direct Debit,5,15.1,0,2,0,1,Phone,25-34,M,No,Yes,0.42,1,2022-08-06 00:00:00.000000,Poor service quality,1,3.9979999999999998,37m+,0.43073344,0
+UK00092,2020-08-27 00:00:00.000000,West Midlands,Premium,2-Year,39.99,45,Credit Card,3,12.8,1,0,0,3,Online,18-24,M,No,No,0.08,0,,,0,13.33,37m+,0.018190699,0
+UK00093,2020-05-17 00:00:00.000000,London,Premium,2-Year,39.99,42,Credit Card,2,25.7,2,0,0,8,Online,35-44,M,No,Yes,0.02,0,,,0,19.995,37m+,0.029674772,0
+UK00094,2020-11-16 00:00:00.000000,North East,Standard,Month-to-Month,19.99,61,Credit Card,1,12.0,1,2,1,0,In-Store,45-54,M,No,Yes,0.73,1,2023-09-28 00:00:00.000000,No longer needed,1,19.99,37m+,0.67721564,1
+UK00095,2023-03-02 00:00:00.000000,Wales,Basic,Month-to-Month,9.99,16,Direct Debit,3,3.0,3,0,2,2,Online,18-24,F,No,No,0.85,1,2026-03-01 00:00:00.000000,Competitor offer,0,3.33,13-24m,0.8898961,1
+UK00096,2023-01-22 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,21,Direct Debit,3,8.0,2,0,0,8,Online,55-64,M,Yes,No,0.19,0,,,0,6.663333333333333,13-24m,0.43238285,0
+UK00097,2023-10-15 00:00:00.000000,West Midlands,Premium,1-Year,39.99,4,PayPal,5,60.2,1,1,0,5,Online,55-64,M,Yes,Yes,0.39,1,2026-01-03 00:00:00.000000,Poor service quality,0,7.998,0-6m,0.59266734,1
+UK00098,2020-10-10 00:00:00.000000,London,Standard,2-Year,19.99,65,Direct Debit,1,19.4,2,0,0,10,Online,65+,M,No,No,0.02,0,,,0,19.99,37m+,0.016773155,0
+UK00099,2021-06-22 00:00:00.000000,West Midlands,Premium,1-Year,39.99,34,Direct Debit,2,83.4,0,0,2,4,In-Store,35-44,F,No,No,0.2,1,2025-04-30 00:00:00.000000,Competitor offer,0,19.995,25-36m,0.48323998,0
+UK00100,2021-07-20 00:00:00.000000,North West,Premium,2-Year,39.99,45,Direct Debit,3,40.7,0,2,0,9,Phone,25-34,F,No,No,0.02,0,,,0,13.33,37m+,0.024297014,0
+UK00101,2021-01-30 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,32,Credit Card,2,11.4,2,0,0,10,Phone,65+,M,No,No,0.25,0,,,0,9.995,25-36m,0.19454831,0
+UK00102,2020-07-09 00:00:00.000000,South East,Premium,1-Year,39.99,37,Bank Transfer,1,34.9,2,0,1,10,Online,55-64,M,Yes,No,0.02,0,,,0,39.99,37m+,0.08000553,0
+UK00103,2021-10-12 00:00:00.000000,East of England,Basic,2-Year,9.99,38,Direct Debit,5,0.9,2,2,0,0,Partner,55-64,M,Yes,Yes,0.54,1,2025-09-04 00:00:00.000000,Competitor offer,1,1.998,37m+,0.20853722,0
+UK00104,2021-07-05 00:00:00.000000,London,Premium,2-Year,39.99,44,Direct Debit,2,54.1,0,1,2,7,Online,45-54,M,Yes,No,0.08,0,,,0,19.995,37m+,0.123533465,0
+UK00105,2020-08-29 00:00:00.000000,South East,Basic,Month-to-Month,9.99,31,Direct Debit,3,1.7,1,1,0,5,In-Store,25-34,F,No,Yes,0.51,0,,,0,3.33,25-36m,0.26213956,0
+UK00106,2023-05-23 00:00:00.000000,North West,Enterprise,Month-to-Month,79.99,29,Bank Transfer,2,44.2,1,3,0,3,Referral,55-64,F,Yes,Yes,0.63,1,2025-04-28 00:00:00.000000,No longer needed,1,39.995,25-36m,0.84814024,1
+UK00107,2021-06-18 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,8,Direct Debit,2,2.3,1,0,0,10,In-Store,55-64,M,Yes,No,0.22,1,2025-11-10 00:00:00.000000,Competitor offer,0,4.995,7-12m,0.561551,1
+UK00108,2021-04-11 00:00:00.000000,North West,Basic,1-Year,9.99,40,Direct Debit,1,2.9,2,0,0,6,In-Store,18-24,F,No,Yes,0.3,1,2023-12-13 00:00:00.000000,No longer needed,0,9.99,37m+,0.32531545,0
+UK00109,2020-09-07 00:00:00.000000,Wales,Premium,Month-to-Month,39.99,54,Direct Debit,4,31.4,3,2,0,10,Online,25-34,F,Yes,Yes,0.29,0,,,0,9.9975,37m+,0.31786993,0
+UK00110,2020-07-12 00:00:00.000000,Wales,Premium,1-Year,39.99,60,Credit Card,5,14.8,1,0,0,7,Partner,45-54,M,No,Yes,0.02,0,,,0,7.998,37m+,0.018094653,0
+UK00111,2021-05-26 00:00:00.000000,East Midlands,Basic,1-Year,9.99,58,Credit Card,1,0.6,0,0,0,8,In-Store,25-34,F,No,No,0.1,0,,,0,9.99,37m+,0.1391628,0
+UK00112,2020-06-07 00:00:00.000000,Wales,Premium,Month-to-Month,39.99,67,Direct Debit,1,35.7,1,0,1,6,In-Store,35-44,Prefer not to say,No,No,0.25,0,,,0,39.99,37m+,0.08906714,0
+UK00113,2022-08-25 00:00:00.000000,South East,Standard,2-Year,19.99,24,Direct Debit,2,18.6,1,1,1,7,Online,25-34,M,Yes,No,0.2,0,,,0,9.995,13-24m,0.2732283,0
+UK00114,2023-08-10 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,25,Direct Debit,5,2.0,2,2,0,6,Phone,35-44,F,No,No,0.67,0,,,0,1.998,25-36m,0.20368402,0
+UK00115,2021-11-24 00:00:00.000000,Scotland,Basic,1-Year,9.99,16,Credit Card,2,3.1,2,1,0,9,In-Store,35-44,M,No,No,0.34,1,2025-12-03 00:00:00.000000,Competitor offer,0,4.995,13-24m,0.13703816,0
+UK00116,2021-12-13 00:00:00.000000,North East,Premium,Month-to-Month,39.99,48,Direct Debit,2,64.8,2,0,0,1,In-Store,25-34,M,No,Yes,0.45,0,,,0,19.995,37m+,0.19613925,0
+UK00117,2021-05-05 00:00:00.000000,West Midlands,Premium,2-Year,39.99,33,Bank Transfer,4,63.0,1,1,0,7,In-Store,45-54,M,Yes,Yes,0.02,0,,,0,9.9975,25-36m,0.01801626,0
+UK00118,2021-05-11 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,53,Credit Card,1,66.8,2,0,0,8,Phone,65+,F,No,Yes,0.11,1,2024-12-18 00:00:00.000000,Poor service quality,0,39.99,37m+,0.18498778,0
+UK00119,2020-05-18 00:00:00.000000,West Midlands,Basic,2-Year,9.99,69,Direct Debit,4,3.7,3,2,0,0,Online,35-44,F,Yes,No,0.58,0,,,1,2.4975,37m+,0.2991304,0
+UK00120,2020-11-01 00:00:00.000000,South East,Standard,Month-to-Month,19.99,29,Direct Debit,1,13.9,2,1,1,9,Online,35-44,F,Yes,Yes,0.39,0,,,0,19.99,25-36m,0.24452135,0
+UK00121,2020-09-23 00:00:00.000000,East of England,Standard,2-Year,19.99,13,Direct Debit,2,10.2,0,1,1,10,Online,35-44,F,Yes,No,0.04,1,2025-06-13 00:00:00.000000,Competitor offer,0,9.995,13-24m,0.2847107,0
+UK00122,2021-10-29 00:00:00.000000,West Midlands,Premium,2-Year,39.99,51,Credit Card,5,46.1,0,1,0,5,Referral,25-34,Prefer not to say,Yes,No,0.02,0,,,0,7.998,37m+,0.02053186,0
+UK00123,2021-09-08 00:00:00.000000,South West,Standard,1-Year,19.99,44,Credit Card,5,9.3,1,1,0,8,Phone,35-44,M,No,Yes,0.02,0,,,0,3.9979999999999998,37m+,0.061844327,0
+UK00124,2020-05-04 00:00:00.000000,South East,Basic,Month-to-Month,9.99,10,Bank Transfer,2,7.6,2,0,0,4,In-Store,45-54,M,Yes,Yes,0.55,1,2026-03-09 00:00:00.000000,Competitor offer,0,4.995,7-12m,0.7272416,1
+UK00125,2021-11-17 00:00:00.000000,London,Standard,1-Year,19.99,46,Bank Transfer,3,13.8,3,0,0,8,Partner,45-54,M,No,Yes,0.02,0,,,0,6.663333333333333,37m+,0.033927653,0
+UK00126,2021-09-11 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,9,Direct Debit,3,2.5,1,0,0,5,In-Store,45-54,M,Yes,No,0.49,1,2026-01-15 00:00:00.000000,Poor service quality,0,6.663333333333333,7-12m,0.709157,1
+UK00127,2021-06-05 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,43,Bank Transfer,5,13.6,0,0,2,7,Online,45-54,F,Yes,No,0.27,0,,,0,3.9979999999999998,37m+,0.11786242,0
+UK00128,2024-05-22 00:00:00.000000,North West,Premium,2-Year,39.99,15,Direct Debit,5,63.6,0,1,0,4,Phone,35-44,M,Yes,No,0.02,0,,,0,7.998,13-24m,0.051943414,0
+UK00129,2022-08-28 00:00:00.000000,South East,Basic,1-Year,9.99,33,Direct Debit,4,1.6,0,3,0,8,Referral,35-44,F,Yes,Yes,0.32,0,,,0,2.4975,25-36m,0.060356006,0
+UK00130,2020-11-26 00:00:00.000000,South East,Premium,1-Year,39.99,6,Credit Card,4,60.6,5,0,1,8,Online,35-44,F,Yes,No,0.28,0,,,0,9.9975,0-6m,0.21510452,0
+UK00131,2020-05-30 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,65,Credit Card,4,22.6,0,0,2,10,Online,55-64,F,No,No,0.15,1,2024-12-07 00:00:00.000000,No longer needed,0,4.9975,37m+,0.3085584,0
+UK00132,2021-09-05 00:00:00.000000,South East,Standard,Month-to-Month,19.99,15,Direct Debit,1,21.5,2,0,3,6,Phone,35-44,M,No,Yes,0.55,0,,,0,19.99,13-24m,0.26347372,0
+UK00133,2021-04-19 00:00:00.000000,London,Standard,Month-to-Month,19.99,56,PayPal,2,13.1,1,0,0,8,Online,25-34,F,Yes,No,0.13,0,,,0,9.995,37m+,0.21710372,0
+UK00134,2020-10-21 00:00:00.000000,South East,Standard,1-Year,19.99,63,PayPal,5,16.7,1,0,0,8,Phone,55-64,F,No,Yes,0.02,0,,,0,3.9979999999999998,37m+,0.032180354,0
+UK00135,2023-04-29 00:00:00.000000,South East,Standard,Month-to-Month,19.99,15,Direct Debit,5,5.9,1,0,0,8,Phone,65+,F,No,No,0.15,1,2025-06-08 00:00:00.000000,Moved abroad,0,3.9979999999999998,13-24m,0.46312812,0
+UK00136,2025-10-29 00:00:00.000000,South West,Standard,1-Year,19.99,2,Direct Debit,4,15.2,5,0,0,4,Referral,35-44,M,Yes,Yes,0.53,1,2026-02-09 00:00:00.000000,Price too high,0,4.9975,0-6m,0.76455325,1
+UK00137,2020-11-04 00:00:00.000000,East of England,Basic,1-Year,9.99,64,Direct Debit,1,0.6,0,0,3,3,In-Store,65+,M,Yes,No,0.62,0,,,0,9.99,37m+,0.5130876,1
+UK00138,2025-02-20 00:00:00.000000,South East,Basic,Month-to-Month,9.99,12,Direct Debit,2,2.3,0,1,0,10,Phone,25-34,M,Yes,Yes,0.41,0,,,0,4.995,7-12m,0.38285896,0
+UK00139,2020-05-06 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,69,Credit Card,3,21.0,0,0,1,10,Referral,35-44,M,No,Yes,0.09,0,,,0,6.663333333333333,37m+,0.065653786,0
+UK00140,2021-06-22 00:00:00.000000,London,Basic,2-Year,9.99,42,Credit Card,4,2.8,1,0,0,9,Online,55-64,F,No,No,0.02,0,,,0,2.4975,37m+,0.038569357,0
+UK00141,2020-11-13 00:00:00.000000,North West,Premium,Month-to-Month,39.99,63,Credit Card,1,39.9,2,0,0,0,In-Store,25-34,M,No,No,0.45,0,,,0,39.99,37m+,0.26122093,0
+UK00142,2020-08-29 00:00:00.000000,South West,Basic,2-Year,9.99,44,Bank Transfer,1,3.4,0,1,0,9,Online,35-44,Prefer not to say,No,Yes,0.06,0,,,0,9.99,37m+,0.059258603,0
+UK00143,2020-06-16 00:00:00.000000,North East,Enterprise,Month-to-Month,79.99,39,Credit Card,3,75.6,0,0,0,10,Online,45-54,M,Yes,Yes,0.02,1,2025-09-11 00:00:00.000000,Price too high,0,26.66333333333333,37m+,0.24373968,0
+UK00144,2020-05-30 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,57,Credit Card,1,4.5,5,0,0,8,Online,55-64,M,No,No,0.39,1,2025-11-18 00:00:00.000000,Moved abroad,0,19.99,37m+,0.47971016,0
+UK00145,2022-08-15 00:00:00.000000,East Midlands,Premium,Month-to-Month,39.99,19,Direct Debit,5,36.1,2,0,1,7,In-Store,25-34,F,Yes,Yes,0.31,0,,,0,7.998,13-24m,0.09990697,0
+UK00146,2021-02-09 00:00:00.000000,Scotland,Standard,2-Year,19.99,41,PayPal,1,9.5,0,0,1,5,Phone,55-64,F,No,Yes,0.02,0,,,0,19.99,37m+,0.09989473,0
+UK00147,2023-01-20 00:00:00.000000,East of England,Standard,1-Year,19.99,38,Credit Card,2,5.9,1,0,0,9,Online,25-34,M,No,No,0.02,0,,,0,9.995,37m+,0.13401727,0
+UK00148,2022-07-18 00:00:00.000000,North West,Basic,Month-to-Month,9.99,10,Direct Debit,3,2.0,0,2,2,2,Phone,35-44,M,No,Yes,0.95,1,2026-02-27 00:00:00.000000,Competitor offer,1,3.33,7-12m,0.9357464,1
+UK00149,2020-05-10 00:00:00.000000,South East,Basic,2-Year,9.99,66,Credit Card,2,4.1,1,0,0,10,In-Store,65+,M,Yes,Yes,0.02,0,,,0,4.995,37m+,0.114952,0
+UK00150,2021-03-25 00:00:00.000000,East Midlands,Basic,Month-to-Month,9.99,8,Direct Debit,2,1.0,0,1,0,8,Online,35-44,F,No,Yes,0.53,1,2026-02-03 00:00:00.000000,No longer needed,0,4.995,7-12m,0.7558005,1
+UK00151,2022-05-01 00:00:00.000000,North East,Basic,Month-to-Month,9.99,4,Credit Card,5,4.5,0,1,0,7,Referral,25-34,M,Yes,Yes,0.72,1,2026-01-28 00:00:00.000000,Price too high,0,1.998,0-6m,0.6189081,1
+UK00152,2024-10-24 00:00:00.000000,London,Premium,1-Year,39.99,6,Bank Transfer,2,56.5,0,3,0,6,Phone,35-44,M,No,No,0.4,1,2025-10-14 00:00:00.000000,Competitor offer,0,19.995,0-6m,0.35713395,0
+UK00153,2022-02-23 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,7,Credit Card,1,2.4,4,0,0,9,In-Store,35-44,M,No,Yes,0.61,1,2026-01-24 00:00:00.000000,Unknown,0,9.99,7-12m,0.28365332,0
+UK00154,2020-06-03 00:00:00.000000,East of England,Enterprise,2-Year,79.99,70,PayPal,1,233.4,4,0,0,5,Referral,65+,M,No,No,0.02,0,,,0,79.99,37m+,0.06446671,0
+UK00155,2020-10-31 00:00:00.000000,South East,Standard,2-Year,19.99,63,Direct Debit,2,17.8,2,0,2,10,Phone,45-54,F,No,Yes,0.02,0,,,0,9.995,37m+,0.15721944,0
+UK00156,2022-02-21 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,17,Credit Card,3,1.9,4,0,1,5,Online,18-24,M,Yes,Yes,0.61,1,2025-06-17 00:00:00.000000,Competitor offer,0,3.33,13-24m,0.6751768,1
+UK00157,2021-07-08 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,27,PayPal,1,9.7,0,1,0,7,Online,18-24,M,No,No,0.22,0,,,0,19.99,25-36m,0.07703098,0
+UK00158,2020-11-18 00:00:00.000000,South East,Premium,Month-to-Month,39.99,23,PayPal,4,15.6,1,0,0,6,Online,18-24,F,Yes,Yes,0.21,1,2025-06-17 00:00:00.000000,Poor service quality,0,9.9975,13-24m,0.08012434,0
+UK00159,2022-03-04 00:00:00.000000,East Midlands,Standard,2-Year,19.99,34,Credit Card,1,21.7,0,0,1,2,Partner,18-24,F,No,No,0.3,0,,,0,19.99,25-36m,0.13713408,0
+UK00160,2022-01-15 00:00:00.000000,North West,Standard,Month-to-Month,19.99,46,Credit Card,3,18.4,1,0,0,4,Online,35-44,F,Yes,Yes,0.19,0,,,0,6.663333333333333,37m+,0.095996834,0
+UK00161,2020-06-25 00:00:00.000000,London,Basic,Month-to-Month,9.99,68,Credit Card,5,1.8,3,3,1,10,Phone,35-44,M,Yes,No,0.57,0,,,0,1.998,37m+,0.45716548,0
+UK00162,2021-03-16 00:00:00.000000,South West,Basic,Month-to-Month,9.99,36,Credit Card,5,4.5,1,0,0,10,Phone,25-34,F,Yes,Yes,0.31,0,,,0,1.998,25-36m,0.14896649,0
+UK00163,2023-06-21 00:00:00.000000,North West,Enterprise,Month-to-Month,79.99,23,Bank Transfer,3,193.1,4,0,0,8,Referral,55-64,Prefer not to say,No,Yes,0.15,0,,,0,26.66333333333333,13-24m,0.05983191,0
+UK00164,2021-04-22 00:00:00.000000,South East,Basic,Month-to-Month,9.99,29,Bank Transfer,3,2.4,4,0,0,7,Referral,35-44,M,Yes,Yes,0.55,0,,,0,3.33,25-36m,0.24278826,0
+UK00165,2022-02-07 00:00:00.000000,Scotland,Premium,1-Year,39.99,48,Bank Transfer,5,75.1,0,0,0,8,Phone,25-34,Prefer not to say,No,Yes,0.02,0,,,0,7.998,37m+,0.007394557,0
+UK00166,2020-05-27 00:00:00.000000,North West,Premium,Month-to-Month,39.99,38,Credit Card,5,90.8,1,3,2,8,Online,55-64,F,Yes,No,0.33,1,2023-07-17 00:00:00.000000,Price too high,0,7.998,37m+,0.6119313,1
+UK00167,2020-12-01 00:00:00.000000,London,Enterprise,2-Year,79.99,12,Direct Debit,3,162.1,1,0,0,8,Online,35-44,M,Yes,No,0.02,0,,,0,26.66333333333333,7-12m,0.03852728,0
+UK00168,2020-09-21 00:00:00.000000,Yorkshire,Standard,2-Year,19.99,13,PayPal,5,13.9,2,1,0,9,Online,18-24,M,Yes,Yes,0.02,0,,,0,3.9979999999999998,13-24m,0.049783476,0
+UK00169,2023-12-23 00:00:00.000000,London,Premium,1-Year,39.99,10,Credit Card,1,38.3,1,3,2,10,Referral,25-34,M,Yes,Yes,0.44,1,2026-03-07 00:00:00.000000,No longer needed,0,39.99,7-12m,0.773717,1
+UK00170,2022-05-02 00:00:00.000000,South East,Premium,Month-to-Month,39.99,37,Credit Card,4,22.1,1,1,0,2,Online,55-64,F,No,Yes,0.43,1,2024-05-06 00:00:00.000000,Price too high,1,9.9975,37m+,0.7427301,1
+UK00171,2022-06-14 00:00:00.000000,London,Basic,Month-to-Month,9.99,15,Credit Card,4,1.9,3,0,0,6,In-Store,25-34,M,Yes,No,0.51,0,,,0,2.4975,13-24m,0.28431192,0
+UK00172,2020-08-26 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,13,PayPal,5,3.9,1,1,0,6,Referral,35-44,F,No,Yes,0.51,1,2025-04-08 00:00:00.000000,Poor service quality,0,1.998,13-24m,0.62595636,1
+UK00173,2020-06-17 00:00:00.000000,London,Premium,2-Year,39.99,67,PayPal,5,57.9,0,2,0,8,Online,35-44,Prefer not to say,No,Yes,0.02,0,,,0,7.998,37m+,0.015110037,0
+UK00174,2021-11-10 00:00:00.000000,South West,Standard,Month-to-Month,19.99,34,Direct Debit,1,10.9,0,0,0,8,Partner,18-24,F,No,Yes,0.17,0,,,0,19.99,25-36m,0.05185252,0
+UK00175,2023-12-26 00:00:00.000000,East Midlands,Basic,2-Year,9.99,13,Direct Debit,1,3.8,3,1,1,7,Phone,18-24,M,Yes,No,0.44,1,2025-08-15 00:00:00.000000,No longer needed,0,9.99,13-24m,0.82847935,1
+UK00176,2020-11-11 00:00:00.000000,North West,Basic,2-Year,9.99,35,Bank Transfer,3,2.2,1,1,1,0,Online,25-34,F,No,No,0.52,0,,,1,3.33,25-36m,0.4671435,0
+UK00177,2020-09-30 00:00:00.000000,London,Standard,Month-to-Month,19.99,57,Direct Debit,4,8.5,2,1,1,9,In-Store,55-64,F,Yes,Yes,0.25,1,2022-09-02 00:00:00.000000,Moved abroad,0,4.9975,37m+,0.4758386,0
+UK00178,2020-05-25 00:00:00.000000,North West,Basic,1-Year,9.99,47,Credit Card,4,2.9,1,0,0,5,In-Store,35-44,Prefer not to say,No,No,0.2,0,,,0,2.4975,37m+,0.034788206,0
+UK00179,2021-06-21 00:00:00.000000,South East,Premium,Month-to-Month,39.99,12,Credit Card,2,47.9,3,1,0,6,In-Store,18-24,F,Yes,No,0.43,0,,,0,19.995,7-12m,0.18419631,0
+UK00180,2024-07-14 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,2,PayPal,3,16.2,2,1,0,8,In-Store,25-34,M,No,Yes,0.52,1,2026-03-06 00:00:00.000000,Unknown,0,6.663333333333333,0-6m,0.65028125,1
+UK00181,2021-12-26 00:00:00.000000,Yorkshire,Premium,Month-to-Month,39.99,37,Credit Card,1,39.5,1,0,0,3,In-Store,25-34,M,No,No,0.41,0,,,0,39.99,37m+,0.0667651,0
+UK00182,2022-08-07 00:00:00.000000,East Midlands,Premium,Month-to-Month,39.99,38,Credit Card,4,77.4,2,0,3,6,Phone,25-34,F,No,No,0.35,0,,,0,9.9975,37m+,0.18512118,0
+UK00183,2020-04-24 00:00:00.000000,South West,Premium,Month-to-Month,39.99,72,Direct Debit,2,91.5,2,1,0,2,Online,25-34,F,No,No,0.53,1,2023-08-11 00:00:00.000000,Competitor offer,1,19.995,37m+,0.9350214,1
+UK00184,2020-08-12 00:00:00.000000,London,Basic,1-Year,9.99,10,PayPal,1,1.1,3,0,0,4,Online,65+,M,No,Yes,0.54,1,2025-08-28 00:00:00.000000,No longer needed,0,9.99,7-12m,0.8202135,1
+UK00185,2020-10-21 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,23,Credit Card,4,12.6,0,1,0,1,In-Store,35-44,M,No,No,0.53,1,2025-10-31 00:00:00.000000,Price too high,1,4.9975,13-24m,0.72742873,1
+UK00186,2022-04-04 00:00:00.000000,London,Standard,2-Year,19.99,42,PayPal,1,5.1,2,0,0,7,Online,25-34,F,No,Yes,0.02,0,,,0,19.99,37m+,0.08422213,0
+UK00187,2021-05-13 00:00:00.000000,Scotland,Basic,1-Year,9.99,59,Credit Card,3,4.7,1,1,0,8,Partner,55-64,M,Yes,Yes,0.16,0,,,0,3.33,37m+,0.1502189,0
+UK00188,2020-09-30 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,65,Credit Card,1,3.0,1,0,1,6,Partner,45-54,F,Yes,Yes,0.47,0,,,0,9.99,37m+,0.29730448,0
+UK00189,2020-05-02 00:00:00.000000,North West,Standard,Month-to-Month,19.99,71,Direct Debit,2,7.3,2,0,0,8,Phone,35-44,F,Yes,No,0.17,1,2021-08-02 00:00:00.000000,Competitor offer,0,9.995,37m+,0.595558,1
+UK00190,2020-06-16 00:00:00.000000,East of England,Standard,2-Year,19.99,67,Direct Debit,4,4.5,0,0,0,6,In-Store,25-34,M,Yes,Yes,0.02,0,,,0,4.9975,37m+,0.01599982,0
+UK00191,2020-08-04 00:00:00.000000,London,Premium,2-Year,39.99,12,Credit Card,1,62.4,4,0,0,2,Online,18-24,M,No,No,0.34,0,,,0,39.99,7-12m,0.2348169,0
+UK00192,2021-10-25 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,6,PayPal,2,2.8,1,2,2,3,Online,55-64,M,No,No,0.95,0,,,1,4.995,0-6m,0.5896524,1
+UK00193,2020-11-23 00:00:00.000000,North West,Basic,2-Year,9.99,62,Bank Transfer,2,3.8,0,1,0,8,In-Store,35-44,M,No,No,0.06,0,,,0,4.995,37m+,0.07343531,0
+UK00194,2020-05-19 00:00:00.000000,North East,Premium,1-Year,39.99,17,Direct Debit,4,40.3,1,0,0,7,Phone,45-54,F,Yes,No,0.06,0,,,0,9.9975,13-24m,0.020425085,0
+UK00195,2021-03-03 00:00:00.000000,East Midlands,Premium,1-Year,39.99,56,Credit Card,3,66.9,2,0,0,5,Phone,25-34,F,No,Yes,0.02,0,,,0,13.33,37m+,0.02728548,0
+UK00196,2022-10-28 00:00:00.000000,South East,Standard,Month-to-Month,19.99,36,Credit Card,4,0.8,1,0,0,5,In-Store,25-34,Prefer not to say,Yes,Yes,0.37,0,,,0,4.9975,25-36m,0.08687447,0
+UK00197,2024-12-09 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,12,Credit Card,3,1.7,3,0,0,10,Online,35-44,F,No,No,0.12,0,,,0,3.33,7-12m,0.11119129,0
+UK00198,2021-03-26 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,29,Direct Debit,3,3.4,1,0,0,6,Referral,45-54,M,No,Yes,0.43,1,2024-12-11 00:00:00.000000,Price too high,0,3.33,25-36m,0.25720036,0
+UK00199,2021-09-16 00:00:00.000000,London,Premium,Month-to-Month,39.99,44,Credit Card,5,22.4,0,2,0,6,Phone,35-44,M,No,Yes,0.29,0,,,0,7.998,37m+,0.14987017,0
+UK00200,2024-03-12 00:00:00.000000,South West,Basic,Month-to-Month,9.99,14,PayPal,3,2.1,1,0,3,8,Online,65+,Prefer not to say,No,Yes,0.49,1,2025-12-02 00:00:00.000000,No longer needed,0,3.33,13-24m,0.60323167,1
+UK00201,2020-05-15 00:00:00.000000,South East,Premium,2-Year,39.99,71,Credit Card,5,39.8,2,0,0,8,Phone,65+,M,No,Yes,0.02,0,,,0,7.998,37m+,0.009274847,0
+UK00202,2021-10-11 00:00:00.000000,East Midlands,Standard,1-Year,19.99,54,Credit Card,5,17.3,0,1,1,10,Online,18-24,M,No,Yes,0.02,0,,,0,3.9979999999999998,37m+,0.1910072,0
+UK00203,2025-02-28 00:00:00.000000,London,Premium,1-Year,39.99,8,Credit Card,5,69.9,0,1,0,5,Phone,35-44,F,No,Yes,0.22,0,,,0,7.998,7-12m,0.14150849,0
+UK00204,2021-07-21 00:00:00.000000,Scotland,Standard,2-Year,19.99,41,PayPal,3,4.7,0,1,1,1,Partner,45-54,F,Yes,Yes,0.34,1,2023-11-08 00:00:00.000000,Unknown,1,6.663333333333333,37m+,0.8222111,1
+UK00205,2020-06-02 00:00:00.000000,Scotland,Basic,Month-to-Month,9.99,66,Credit Card,3,3.0,1,0,0,1,Partner,45-54,F,No,No,0.57,0,,,0,3.33,37m+,0.3568397,0
+UK00206,2021-10-25 00:00:00.000000,London,Standard,1-Year,19.99,41,Direct Debit,5,17.4,0,0,0,10,Online,55-64,F,No,No,0.02,0,,,0,3.9979999999999998,37m+,0.02275029,0
+UK00207,2020-08-26 00:00:00.000000,East Midlands,Enterprise,2-Year,79.99,61,Bank Transfer,1,35.8,0,0,0,9,Phone,35-44,F,Yes,No,0.02,0,,,0,79.99,37m+,0.041029766,0
+UK00208,2020-06-12 00:00:00.000000,London,Premium,2-Year,39.99,67,Credit Card,5,5.7,1,0,2,6,Online,18-24,Prefer not to say,Yes,Yes,0.02,0,,,0,7.998,37m+,0.087256886,0
+UK00209,2020-10-10 00:00:00.000000,London,Standard,2-Year,19.99,55,Credit Card,4,15.8,2,2,1,4,Online,25-34,M,Yes,Yes,0.22,0,,,0,4.9975,37m+,0.060995452,0
+UK00210,2021-12-14 00:00:00.000000,North West,Standard,Month-to-Month,19.99,52,Credit Card,1,17.5,1,0,0,0,Referral,35-44,F,No,No,0.47,0,,,0,19.99,37m+,0.33982107,0
+UK00211,2021-02-20 00:00:00.000000,Scotland,Basic,Month-to-Month,9.99,49,Bank Transfer,4,3.8,0,0,1,8,Online,45-54,F,No,Yes,0.25,0,,,0,2.4975,37m+,0.13658778,0
+UK00212,2024-03-02 00:00:00.000000,London,Standard,1-Year,19.99,1,Credit Card,5,0.8,4,0,1,6,Partner,55-64,M,Yes,Yes,0.65,1,2026-03-02 00:00:00.000000,Price too high,0,3.9979999999999998,0-6m,0.798867,1
+UK00213,2024-05-19 00:00:00.000000,East of England,Basic,2-Year,9.99,7,Direct Debit,5,3.6,1,0,0,10,Partner,35-44,F,Yes,Yes,0.16,0,,,0,1.998,7-12m,0.1545948,0
+UK00214,2020-10-02 00:00:00.000000,London,Basic,1-Year,9.99,63,Bank Transfer,3,3.3,2,0,0,8,Online,25-34,F,No,No,0.12,0,,,0,3.33,37m+,0.054540284,0
+UK00215,2020-07-04 00:00:00.000000,West Midlands,Basic,1-Year,9.99,62,PayPal,3,4.1,1,0,0,6,Online,45-54,F,Yes,Yes,0.2,0,,,0,3.33,37m+,0.11415333,0
+UK00216,2021-08-20 00:00:00.000000,South West,Standard,2-Year,19.99,52,Direct Debit,1,14.4,1,0,3,4,Online,35-44,F,No,Yes,0.16,0,,,0,19.99,37m+,0.078624226,0
+UK00217,2020-09-15 00:00:00.000000,North West,Standard,Month-to-Month,19.99,65,Direct Debit,5,16.2,2,1,0,5,Partner,45-54,F,No,Yes,0.31,1,2023-08-15 00:00:00.000000,Price too high,0,3.9979999999999998,37m+,0.36173564,0
+UK00218,2023-12-13 00:00:00.000000,South East,Basic,1-Year,9.99,27,Credit Card,4,4.6,1,0,0,9,Phone,35-44,F,No,Yes,0.16,0,,,0,2.4975,25-36m,0.037022587,0
+UK00219,2023-09-13 00:00:00.000000,East Midlands,Standard,1-Year,19.99,10,Credit Card,2,5.1,1,0,1,6,Referral,35-44,M,No,Yes,0.36,1,2025-08-16 00:00:00.000000,Poor service quality,0,9.995,7-12m,0.73129636,1
+UK00220,2021-03-20 00:00:00.000000,London,Premium,Month-to-Month,39.99,30,Direct Debit,1,47.1,1,0,0,6,In-Store,25-34,M,Yes,Yes,0.27,0,,,0,39.99,25-36m,0.09052082,0
+UK00221,2024-01-09 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,8,PayPal,5,5.4,4,0,0,10,Partner,25-34,F,No,No,0.45,1,2026-02-24 00:00:00.000000,Poor service quality,0,1.998,7-12m,0.22255516,0
+UK00222,2023-08-16 00:00:00.000000,East Midlands,Basic,1-Year,9.99,24,Credit Card,2,3.3,2,0,0,7,Online,25-34,M,No,Yes,0.38,0,,,0,4.995,13-24m,0.23324406,0
+UK00223,2025-07-27 00:00:00.000000,North East,Basic,2-Year,9.99,5,PayPal,1,2.9,0,1,2,7,Phone,35-44,M,Yes,No,0.63,1,2026-02-25 00:00:00.000000,No longer needed,0,9.99,0-6m,0.8372102,1
+UK00224,2023-05-12 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,13,Direct Debit,2,11.9,4,0,0,5,Online,45-54,F,Yes,Yes,0.45,1,2025-06-12 00:00:00.000000,No longer needed,0,9.995,13-24m,0.52742624,1
+UK00225,2024-07-18 00:00:00.000000,North West,Standard,Month-to-Month,19.99,20,Credit Card,3,10.6,3,0,0,8,Phone,35-44,M,No,No,0.23,0,,,0,6.663333333333333,13-24m,0.18038732,0
+UK00226,2020-10-06 00:00:00.000000,East of England,Standard,1-Year,19.99,51,Credit Card,1,20.9,2,0,0,9,In-Store,55-64,F,Yes,Yes,0.02,0,,,0,19.99,37m+,0.042352065,0
+UK00227,2022-07-23 00:00:00.000000,East of England,Standard,1-Year,19.99,19,Direct Debit,1,17.7,0,0,0,8,In-Store,45-54,F,Yes,No,0.02,0,,,0,19.99,13-24m,0.05940366,0
+UK00228,2020-05-03 00:00:00.000000,East Midlands,Basic,Month-to-Month,9.99,67,Credit Card,5,3.3,1,1,0,1,Phone,65+,M,No,No,0.65,1,2022-12-09 00:00:00.000000,Poor service quality,1,1.998,37m+,0.63802755,1
+UK00229,2021-05-27 00:00:00.000000,London,Basic,2-Year,9.99,9,Direct Debit,5,2.7,4,0,2,7,In-Store,18-24,M,Yes,Yes,0.52,1,2025-12-18 00:00:00.000000,Unknown,0,1.998,7-12m,0.68062514,1
+UK00230,2020-06-06 00:00:00.000000,Scotland,Premium,2-Year,39.99,69,Bank Transfer,4,75.3,5,0,1,8,In-Store,35-44,F,Yes,No,0.02,0,,,0,9.9975,37m+,0.0102058025,0
+UK00231,2021-12-03 00:00:00.000000,East Midlands,Basic,1-Year,9.99,29,Credit Card,3,2.6,1,0,0,5,Phone,55-64,M,Yes,No,0.28,0,,,0,3.33,25-36m,0.08344028,0
+UK00232,2021-10-19 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,24,Credit Card,2,1.9,1,0,1,8,Online,25-34,F,Yes,Yes,0.16,1,2024-06-22 00:00:00.000000,No longer needed,0,4.995,13-24m,0.62529653,1
+UK00233,2020-05-25 00:00:00.000000,East Midlands,Premium,2-Year,39.99,70,Credit Card,3,81.2,2,0,3,9,Referral,35-44,M,Yes,Yes,0.02,0,,,0,13.33,37m+,0.11629459,0
+UK00234,2022-01-30 00:00:00.000000,Scotland,Standard,1-Year,19.99,5,Direct Debit,2,4.7,1,0,0,6,Online,25-34,F,No,No,0.53,0,,,0,9.995,0-6m,0.70743126,1
+UK00235,2022-07-23 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,31,Credit Card,3,2.6,1,0,0,10,Online,25-34,F,Yes,Yes,0.31,0,,,0,3.33,25-36m,0.14105417,0
+UK00236,2020-09-08 00:00:00.000000,Yorkshire,Premium,Month-to-Month,39.99,49,Bank Transfer,2,24.3,1,0,0,9,Referral,35-44,F,No,No,0.07,0,,,0,19.995,37m+,0.06465875,0
+UK00237,2023-06-15 00:00:00.000000,London,Premium,1-Year,39.99,13,Direct Debit,3,34.2,1,0,0,2,Referral,35-44,M,No,Yes,0.28,0,,,0,13.33,13-24m,0.1180748,0
+UK00238,2021-12-01 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,37,Direct Debit,4,16.9,2,0,0,8,Partner,55-64,F,No,No,0.11,0,,,0,4.9975,37m+,0.17567019,0
+UK00239,2022-10-22 00:00:00.000000,South West,Standard,Month-to-Month,19.99,10,PayPal,3,9.1,1,0,0,6,Partner,45-54,F,No,No,0.39,1,2025-06-08 00:00:00.000000,Price too high,0,6.663333333333333,7-12m,0.40845257,0
+UK00240,2020-06-16 00:00:00.000000,South East,Basic,Month-to-Month,9.99,11,PayPal,1,2.1,0,2,0,6,In-Store,65+,M,Yes,Yes,0.77,1,2025-11-13 00:00:00.000000,Poor service quality,0,9.99,7-12m,0.7027266,1
+UK00241,2023-05-06 00:00:00.000000,South East,Basic,Month-to-Month,9.99,17,Bank Transfer,1,4.1,0,0,2,9,In-Store,25-34,Prefer not to say,Yes,No,0.45,0,,,0,9.99,13-24m,0.29208884,0
+UK00242,2020-06-02 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,68,Credit Card,3,6.9,1,0,0,7,Online,25-34,M,Yes,No,0.04,0,,,0,6.663333333333333,37m+,0.10253311,0
+UK00243,2020-07-29 00:00:00.000000,West Midlands,Standard,2-Year,19.99,63,Direct Debit,1,14.2,2,1,0,7,Phone,35-44,M,No,No,0.1,0,,,0,19.99,37m+,0.041596036,0
+UK00244,2020-08-07 00:00:00.000000,East Midlands,Basic,2-Year,9.99,67,Credit Card,3,1.2,0,1,1,10,Online,25-34,M,No,No,0.06,0,,,0,3.33,37m+,0.12288175,0
+UK00245,2022-12-03 00:00:00.000000,London,Standard,Month-to-Month,19.99,3,Credit Card,1,9.9,0,0,0,10,Online,25-34,M,No,No,0.42,0,,,0,19.99,0-6m,0.16318332,0
+UK00246,2021-09-18 00:00:00.000000,South East,Premium,Month-to-Month,39.99,19,PayPal,1,9.6,1,0,2,9,Referral,25-34,F,Yes,No,0.27,0,,,0,39.99,13-24m,0.3797018,0
+UK00247,2022-02-14 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,5,Credit Card,1,9.8,1,3,0,8,Phone,45-54,F,Yes,No,0.66,1,2026-01-09 00:00:00.000000,Price too high,0,19.99,0-6m,0.8823751,1
+UK00248,2020-12-25 00:00:00.000000,South West,Premium,2-Year,39.99,28,Credit Card,4,27.3,1,0,0,5,Online,65+,F,No,Yes,0.02,0,,,0,9.9975,25-36m,0.014490561,0
+UK00249,2021-08-13 00:00:00.000000,London,Basic,1-Year,9.99,12,Credit Card,1,3.2,0,0,0,6,Phone,45-54,M,No,Yes,0.3,1,2025-10-08 00:00:00.000000,Poor service quality,0,9.99,7-12m,0.47324368,0
+UK00250,2020-10-19 00:00:00.000000,North East,Basic,1-Year,9.99,63,Credit Card,5,2.2,2,0,0,7,In-Store,55-64,F,Yes,Yes,0.24,0,,,0,1.998,37m+,0.05043559,0
+UK00251,2020-05-09 00:00:00.000000,South West,Standard,Month-to-Month,19.99,70,Credit Card,5,18.5,1,0,0,0,Online,65+,F,Yes,No,0.41,0,,,0,3.9979999999999998,37m+,0.14209752,0
+UK00252,2020-10-23 00:00:00.000000,South East,Basic,1-Year,9.99,53,PayPal,5,1.0,2,0,2,3,Online,35-44,M,No,No,0.58,1,2025-10-21 00:00:00.000000,Competitor offer,0,1.998,37m+,0.53581387,1
+UK00253,2024-06-24 00:00:00.000000,South East,Basic,Month-to-Month,9.99,10,Bank Transfer,4,2.1,4,1,0,10,In-Store,35-44,F,No,Yes,0.63,0,,,0,2.4975,7-12m,0.40954018,0
+UK00254,2021-09-15 00:00:00.000000,London,Premium,2-Year,39.99,28,Direct Debit,2,28.7,1,0,0,2,Partner,35-44,F,Yes,No,0.22,0,,,0,19.995,25-36m,0.10821357,0
+UK00255,2022-01-29 00:00:00.000000,North West,Premium,Month-to-Month,39.99,14,Direct Debit,4,2.6,1,1,0,4,Partner,55-64,M,No,No,0.39,0,,,0,9.9975,13-24m,0.23687527,0
+UK00256,2020-05-03 00:00:00.000000,London,Standard,2-Year,19.99,71,Direct Debit,4,3.8,1,0,1,5,In-Store,65+,M,No,Yes,0.08,0,,,0,4.9975,37m+,0.070856094,0
+UK00257,2022-05-15 00:00:00.000000,East of England,Standard,2-Year,19.99,36,PayPal,5,10.0,4,0,0,7,Online,25-34,M,No,Yes,0.12,0,,,0,3.9979999999999998,25-36m,0.022494024,0
+UK00258,2020-07-09 00:00:00.000000,East of England,Premium,1-Year,39.99,23,Direct Debit,5,54.7,3,0,0,10,Phone,18-24,M,No,No,0.02,0,,,0,7.998,13-24m,0.036023818,0
+UK00259,2022-02-06 00:00:00.000000,Scotland,Standard,2-Year,19.99,16,Direct Debit,5,18.9,4,0,0,5,Online,35-44,M,Yes,No,0.12,0,,,0,3.9979999999999998,13-24m,0.03182404,0
+UK00260,2024-06-28 00:00:00.000000,Yorkshire,Premium,Month-to-Month,39.99,12,Credit Card,4,54.2,0,0,0,5,Online,18-24,F,Yes,Yes,0.17,0,,,0,9.9975,7-12m,0.086514905,0
+UK00261,2020-10-24 00:00:00.000000,North West,Basic,1-Year,9.99,26,Credit Card,5,1.5,0,0,1,10,In-Store,35-44,M,No,Yes,0.18,0,,,0,1.998,25-36m,0.06939336,0
+UK00262,2021-07-04 00:00:00.000000,South East,Basic,1-Year,9.99,57,Credit Card,2,6.1,0,0,1,7,Phone,25-34,F,Yes,No,0.18,1,2025-06-07 00:00:00.000000,Moved abroad,0,4.995,37m+,0.52413154,1
+UK00263,2022-04-05 00:00:00.000000,North West,Standard,Month-to-Month,19.99,43,Direct Debit,2,0.1,1,1,0,7,Online,45-54,F,Yes,No,0.43,1,2024-04-14 00:00:00.000000,Price too high,0,9.995,37m+,0.8223197,1
+UK00264,2020-10-25 00:00:00.000000,South East,Premium,1-Year,39.99,60,PayPal,4,0.1,2,1,2,0,Online,55-64,F,Yes,No,0.54,1,2025-04-11 00:00:00.000000,Price too high,1,9.9975,37m+,0.7193304,1
+UK00265,2020-06-25 00:00:00.000000,South West,Standard,Month-to-Month,19.99,69,Credit Card,4,16.5,1,1,0,4,Online,35-44,M,No,Yes,0.27,0,,,0,4.9975,37m+,0.120791286,0
+UK00266,2022-03-24 00:00:00.000000,South East,Enterprise,1-Year,79.99,8,PayPal,1,96.0,4,2,0,9,Phone,18-24,M,Yes,No,0.38,1,2025-09-04 00:00:00.000000,Poor service quality,0,79.99,7-12m,0.7721825,1
+UK00267,2021-01-17 00:00:00.000000,East Midlands,Standard,1-Year,19.99,58,Bank Transfer,2,17.9,2,1,0,4,In-Store,55-64,F,Yes,No,0.22,1,2024-06-13 00:00:00.000000,Unknown,0,9.995,37m+,0.39394015,0
+UK00268,2023-11-19 00:00:00.000000,South East,Basic,1-Year,9.99,19,Bank Transfer,4,4.7,5,0,1,9,Online,55-64,M,Yes,Yes,0.38,0,,,0,2.4975,13-24m,0.23185201,0
+UK00269,2022-05-29 00:00:00.000000,South East,Standard,1-Year,19.99,30,Credit Card,1,3.8,1,1,0,5,Online,35-44,M,Yes,Yes,0.36,0,,,0,19.99,25-36m,0.09362508,0
+UK00270,2021-07-17 00:00:00.000000,Scotland,Enterprise,Month-to-Month,79.99,53,PayPal,2,118.8,2,0,2,8,In-Store,35-44,M,Yes,No,0.17,0,,,0,39.995,37m+,0.2296126,0
+UK00271,2021-07-30 00:00:00.000000,West Midlands,Basic,1-Year,9.99,49,Direct Debit,5,3.4,2,0,1,6,Referral,55-64,M,No,Yes,0.3,0,,,0,1.998,37m+,0.07664504,0
+UK00272,2021-12-17 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,7,Direct Debit,3,4.9,2,0,0,7,Online,35-44,M,No,Yes,0.53,0,,,0,6.663333333333333,7-12m,0.37833184,0
+UK00273,2020-04-29 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,70,Credit Card,4,5.5,0,0,2,6,Phone,55-64,F,Yes,Yes,0.33,1,2025-07-07 00:00:00.000000,Competitor offer,0,2.4975,37m+,0.5079304,1
+UK00274,2020-09-15 00:00:00.000000,West Midlands,Basic,1-Year,9.99,66,PayPal,5,1.1,1,1,2,4,Referral,25-34,M,Yes,No,0.4,1,2024-11-24 00:00:00.000000,No longer needed,0,1.998,37m+,0.58326477,1
+UK00275,2020-05-05 00:00:00.000000,East Midlands,Standard,2-Year,19.99,16,Direct Debit,1,16.6,2,0,0,10,In-Store,25-34,F,No,No,0.02,0,,,0,19.99,13-24m,0.02185597,0
+UK00276,2020-04-25 00:00:00.000000,London,Standard,Month-to-Month,19.99,71,Credit Card,2,6.1,0,0,0,8,Online,45-54,F,No,Yes,0.09,1,2025-01-25 00:00:00.000000,Unknown,0,9.995,37m+,0.5225891,1
+UK00277,2020-04-24 00:00:00.000000,South East,Basic,Month-to-Month,9.99,72,PayPal,5,1.6,1,0,1,7,Referral,18-24,F,Yes,No,0.41,1,2024-12-13 00:00:00.000000,Competitor offer,0,1.998,37m+,0.28166723,0
+UK00278,2024-09-24 00:00:00.000000,East Midlands,Premium,1-Year,39.99,14,Bank Transfer,5,88.1,5,0,0,10,Online,45-54,M,No,Yes,0.1,0,,,0,7.998,13-24m,0.05629462,0
+UK00279,2020-11-13 00:00:00.000000,West Midlands,Standard,1-Year,19.99,64,Credit Card,5,16.9,0,0,0,4,Referral,55-64,Prefer not to say,No,Yes,0.02,0,,,0,3.9979999999999998,37m+,0.043910705,0
+UK00280,2023-12-11 00:00:00.000000,East Midlands,Standard,1-Year,19.99,2,PayPal,3,16.5,3,0,0,8,Online,35-44,M,Yes,Yes,0.33,1,2026-03-17 00:00:00.000000,Poor service quality,0,6.663333333333333,0-6m,0.63803226,1
+UK00281,2024-06-22 00:00:00.000000,North East,Premium,1-Year,39.99,5,Credit Card,4,49.9,3,0,0,7,In-Store,35-44,F,Yes,Yes,0.39,0,,,0,9.9975,0-6m,0.09177552,0
+UK00282,2020-10-10 00:00:00.000000,North East,Standard,Month-to-Month,19.99,46,Direct Debit,1,5.9,1,0,0,3,Online,45-54,F,No,No,0.47,0,,,0,19.99,37m+,0.66258186,1
+UK00283,2020-10-30 00:00:00.000000,London,Basic,Month-to-Month,9.99,31,Direct Debit,3,3.6,0,0,0,9,Online,35-44,F,Yes,No,0.27,0,,,0,3.33,25-36m,0.25457594,0
+UK00284,2021-08-07 00:00:00.000000,Yorkshire,Premium,Month-to-Month,39.99,42,Credit Card,5,6.9,2,0,1,9,Referral,25-34,M,Yes,Yes,0.11,0,,,0,7.998,37m+,0.16392082,0
+UK00285,2020-08-22 00:00:00.000000,London,Premium,Month-to-Month,39.99,40,Credit Card,2,34.8,1,0,0,9,Online,25-34,Prefer not to say,Yes,Yes,0.07,0,,,0,19.995,37m+,0.11268682,0
+UK00286,2021-01-15 00:00:00.000000,South East,Standard,1-Year,19.99,37,Credit Card,3,17.9,2,0,0,4,Partner,18-24,M,Yes,No,0.08,0,,,0,6.663333333333333,37m+,0.06506791,0
+UK00287,2020-12-18 00:00:00.000000,North East,Premium,1-Year,39.99,58,Direct Debit,2,82.3,2,1,0,6,Online,55-64,F,Yes,No,0.16,0,,,0,19.995,37m+,0.1346479,0
+UK00288,2020-10-10 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,61,PayPal,5,10.3,0,0,0,5,Referral,35-44,M,No,Yes,0.15,0,,,0,3.9979999999999998,37m+,0.052550524,0
+UK00289,2021-02-27 00:00:00.000000,London,Standard,1-Year,19.99,45,Direct Debit,1,9.8,1,1,0,3,In-Store,35-44,F,Yes,No,0.4,1,2024-06-09 00:00:00.000000,Price too high,1,19.99,37m+,0.78173155,1
+UK00290,2021-04-23 00:00:00.000000,North West,Premium,1-Year,39.99,56,Direct Debit,2,42.0,0,1,1,6,In-Store,45-54,M,Yes,No,0.14,0,,,0,19.995,37m+,0.08185773,0
+UK00291,2023-07-27 00:00:00.000000,London,Enterprise,1-Year,79.99,14,Bank Transfer,4,126.6,1,0,0,8,Phone,18-24,M,Yes,No,0.02,0,,,0,19.9975,13-24m,0.04169432,0
+UK00292,2022-10-01 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,26,Direct Debit,3,15.2,1,2,0,9,Partner,65+,F,No,Yes,0.35,0,,,0,6.663333333333333,25-36m,0.15992647,0
+UK00293,2023-10-26 00:00:00.000000,North East,Basic,Month-to-Month,9.99,7,Credit Card,3,1.2,0,0,0,7,Online,35-44,F,Yes,No,0.51,1,2026-01-15 00:00:00.000000,Poor service quality,0,3.33,7-12m,0.8198921,1
+UK00294,2024-05-10 00:00:00.000000,South West,Enterprise,Month-to-Month,79.99,20,PayPal,2,153.3,0,0,0,9,Phone,65+,M,Yes,No,0.05,0,,,0,39.995,13-24m,0.062251724,0
+UK00295,2021-02-13 00:00:00.000000,West Midlands,Premium,1-Year,39.99,55,Direct Debit,4,57.0,1,0,0,7,Phone,45-54,M,No,Yes,0.02,0,,,0,9.9975,37m+,0.017288757,0
+UK00296,2024-07-09 00:00:00.000000,West Midlands,Standard,1-Year,19.99,15,PayPal,1,19.5,0,1,3,10,In-Store,18-24,F,Yes,Yes,0.28,0,,,0,19.99,13-24m,0.2628865,0
+UK00297,2023-03-09 00:00:00.000000,Scotland,Premium,1-Year,39.99,10,Bank Transfer,5,49.5,1,0,0,7,Phone,35-44,M,No,No,0.18,1,2025-10-30 00:00:00.000000,No longer needed,0,7.998,7-12m,0.026907708,0
+UK00298,2020-06-05 00:00:00.000000,London,Standard,1-Year,19.99,61,Credit Card,3,5.4,3,0,0,8,Online,55-64,M,No,No,0.02,0,,,0,6.663333333333333,37m+,0.14555554,0
+UK00299,2023-04-09 00:00:00.000000,London,Basic,2-Year,9.99,23,PayPal,4,3.1,1,0,1,8,Online,18-24,M,Yes,No,0.1,0,,,0,2.4975,13-24m,0.090656646,0
+UK00300,2021-05-15 00:00:00.000000,North West,Standard,1-Year,19.99,57,PayPal,5,15.8,2,0,0,4,Online,35-44,F,No,Yes,0.08,0,,,0,3.9979999999999998,37m+,0.020460922,0
+UK00301,2020-07-17 00:00:00.000000,North West,Premium,1-Year,39.99,19,Credit Card,3,78.1,4,0,0,7,In-Store,35-44,F,No,No,0.18,0,,,0,13.33,13-24m,0.040883597,0
+UK00302,2021-04-04 00:00:00.000000,South East,Premium,1-Year,39.99,51,Direct Debit,2,36.9,2,0,0,8,Partner,25-34,M,Yes,Yes,0.02,1,2022-08-02 00:00:00.000000,Competitor offer,0,19.995,37m+,0.082510434,0
+UK00303,2020-12-29 00:00:00.000000,South East,Premium,Month-to-Month,39.99,37,Direct Debit,5,73.2,0,2,0,1,Online,55-64,M,Yes,Yes,0.51,0,,,1,7.998,37m+,0.30596647,0
+UK00304,2024-08-18 00:00:00.000000,North West,Basic,1-Year,9.99,10,Credit Card,3,0.1,2,1,0,10,Online,18-24,F,No,No,0.4,1,2025-06-27 00:00:00.000000,Poor service quality,0,3.33,7-12m,0.7641288,1
+UK00305,2023-10-03 00:00:00.000000,London,Premium,1-Year,39.99,9,Direct Debit,5,21.9,1,0,0,10,Partner,45-54,M,Yes,Yes,0.06,0,,,0,7.998,7-12m,0.07056189,0
+UK00306,2020-12-11 00:00:00.000000,North West,Basic,Month-to-Month,9.99,64,Credit Card,1,2.6,2,0,0,8,Online,45-54,F,No,No,0.33,0,,,0,9.99,37m+,0.48882753,0
+UK00307,2020-08-15 00:00:00.000000,South West,Premium,1-Year,39.99,9,Direct Debit,4,35.4,0,0,3,0,Partner,18-24,F,No,Yes,0.54,0,,,0,9.9975,7-12m,0.18603511,0
+UK00308,2020-11-28 00:00:00.000000,South East,Premium,Month-to-Month,39.99,26,Direct Debit,4,61.5,2,0,0,1,Online,18-24,F,Yes,Yes,0.47,1,2024-02-28 00:00:00.000000,No longer needed,0,9.9975,25-36m,0.14889306,0
+UK00309,2020-08-16 00:00:00.000000,Yorkshire,Standard,2-Year,19.99,9,Credit Card,4,13.6,1,1,0,8,Phone,35-44,M,No,Yes,0.08,0,,,0,4.9975,7-12m,0.07058419,0
+UK00310,2021-04-11 00:00:00.000000,London,Basic,1-Year,9.99,19,Direct Debit,5,3.0,0,1,0,0,Partner,55-64,M,Yes,Yes,0.54,0,,,1,1.998,13-24m,0.4064872,0
+UK00311,2023-07-17 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,29,Direct Debit,3,1.2,3,3,0,4,Online,65+,M,Yes,Yes,0.71,1,2024-03-07 00:00:00.000000,Poor service quality,0,3.33,25-36m,0.62115586,1
+UK00312,2022-01-11 00:00:00.000000,London,Premium,1-Year,39.99,48,Credit Card,5,99.8,0,0,1,7,Online,55-64,M,Yes,Yes,0.02,0,,,0,7.998,37m+,0.056660935,0
+UK00313,2021-04-16 00:00:00.000000,East Midlands,Premium,Month-to-Month,39.99,37,Direct Debit,4,22.1,2,0,0,9,Online,25-34,F,Yes,No,0.05,0,,,0,9.9975,37m+,0.07414826,0
+UK00314,2021-07-17 00:00:00.000000,South East,Basic,2-Year,9.99,16,Direct Debit,5,2.8,1,1,0,10,Phone,25-34,M,Yes,Yes,0.12,0,,,0,1.998,13-24m,0.2047967,0
+UK00315,2022-11-08 00:00:00.000000,North West,Enterprise,Month-to-Month,79.99,23,Credit Card,1,65.2,2,0,0,10,Phone,65+,M,Yes,No,0.13,0,,,0,79.99,13-24m,0.106228836,0
+UK00316,2020-06-19 00:00:00.000000,South East,Basic,1-Year,9.99,57,Credit Card,2,5.3,2,2,0,6,Online,45-54,F,No,Yes,0.4,1,2024-10-28 00:00:00.000000,Competitor offer,0,4.995,37m+,0.4903896,0
+UK00317,2021-04-13 00:00:00.000000,London,Premium,Month-to-Month,39.99,59,Direct Debit,4,48.5,2,0,3,6,Online,25-34,M,No,Yes,0.35,0,,,0,9.9975,37m+,0.15236859,0
+UK00318,2021-08-07 00:00:00.000000,South East,Basic,2-Year,9.99,21,Credit Card,5,3.7,4,0,0,8,Referral,35-44,Prefer not to say,No,No,0.16,0,,,0,1.998,13-24m,0.11327392,0
+UK00319,2020-07-23 00:00:00.000000,West Midlands,Premium,Month-to-Month,39.99,32,Credit Card,2,43.0,3,0,0,7,In-Store,45-54,M,No,No,0.35,0,,,0,19.995,25-36m,0.13570508,0
+UK00320,2020-07-24 00:00:00.000000,London,Premium,Month-to-Month,39.99,64,Credit Card,1,44.0,2,0,0,7,Phone,18-24,F,No,Yes,0.23,0,,,0,39.99,37m+,0.19776137,0
+UK00321,2023-11-12 00:00:00.000000,East of England,Premium,2-Year,39.99,4,Credit Card,2,27.7,3,0,1,7,Phone,35-44,F,Yes,No,0.39,0,,,0,19.995,0-6m,0.29611772,0
+UK00322,2020-05-26 00:00:00.000000,Scotland,Basic,1-Year,9.99,70,Bank Transfer,1,4.2,2,0,2,4,Phone,55-64,M,No,No,0.42,0,,,0,9.99,37m+,0.3116008,0
+UK00323,2020-04-24 00:00:00.000000,London,Standard,1-Year,19.99,72,PayPal,2,6.2,0,0,0,7,Referral,35-44,F,No,No,0.06,1,2024-06-29 00:00:00.000000,Poor service quality,0,9.995,37m+,0.31795993,0
+UK00324,2024-02-01 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,16,Bank Transfer,5,4.1,3,0,0,7,Referral,65+,M,No,Yes,0.3,1,2026-03-03 00:00:00.000000,Price too high,0,3.9979999999999998,13-24m,0.6448758,1
+UK00325,2024-02-20 00:00:00.000000,London,Enterprise,Month-to-Month,79.99,22,Direct Debit,4,181.7,0,0,2,8,Online,35-44,M,Yes,No,0.11,0,,,0,19.9975,13-24m,0.11393943,0
+UK00326,2020-09-06 00:00:00.000000,East of England,Basic,1-Year,9.99,67,PayPal,3,3.2,2,1,0,6,In-Store,25-34,M,No,Yes,0.32,0,,,0,3.33,37m+,0.093594864,0
+UK00327,2021-05-02 00:00:00.000000,North West,Basic,2-Year,9.99,37,Bank Transfer,3,4.0,0,2,0,1,Referral,45-54,F,Yes,Yes,0.46,1,2023-06-02 00:00:00.000000,Unknown,1,3.33,37m+,0.69457823,1
+UK00328,2021-07-27 00:00:00.000000,North West,Standard,Month-to-Month,19.99,48,Direct Debit,1,18.3,2,3,0,7,Online,25-34,F,No,No,0.49,0,,,0,19.99,37m+,0.26347393,0
+UK00329,2023-07-12 00:00:00.000000,Scotland,Enterprise,Month-to-Month,79.99,20,Direct Debit,5,84.3,1,1,0,8,Referral,45-54,F,No,Yes,0.11,0,,,0,15.998,13-24m,0.1893264,0
+UK00330,2020-04-25 00:00:00.000000,London,Enterprise,Month-to-Month,79.99,71,Direct Debit,5,259.6,3,0,0,0,Online,35-44,F,No,Yes,0.37,1,2025-05-22 00:00:00.000000,No longer needed,0,15.998,37m+,0.54931027,1
+UK00331,2021-07-05 00:00:00.000000,Wales,Enterprise,Month-to-Month,79.99,51,Credit Card,5,43.9,1,0,0,6,Online,25-34,M,No,Yes,0.07,0,,,0,15.998,37m+,0.04814823,0
+UK00332,2020-07-21 00:00:00.000000,East of England,Premium,2-Year,39.99,54,Credit Card,4,66.4,2,0,1,5,Online,65+,F,No,Yes,0.02,0,,,0,9.9975,37m+,0.009157388,0
+UK00333,2024-08-04 00:00:00.000000,North West,Standard,Month-to-Month,19.99,1,Credit Card,4,15.4,0,0,0,10,In-Store,55-64,M,No,No,0.36,0,,,0,4.9975,0-6m,0.16196404,0
+UK00334,2022-04-28 00:00:00.000000,London,Standard,Month-to-Month,19.99,1,Direct Debit,4,10.0,0,1,0,6,Phone,25-34,M,No,No,0.56,0,,,0,4.9975,0-6m,0.28085494,0
+UK00335,2020-09-03 00:00:00.000000,East of England,Basic,1-Year,9.99,62,Credit Card,4,3.0,5,1,0,9,Online,25-34,F,Yes,No,0.32,1,2022-08-30 00:00:00.000000,Poor service quality,0,2.4975,37m+,0.4681312,0
+UK00336,2020-11-03 00:00:00.000000,Scotland,Standard,Month-to-Month,19.99,7,Direct Debit,1,10.9,1,1,0,7,Online,35-44,M,No,No,0.53,0,,,0,19.99,7-12m,0.27940136,0
+UK00337,2020-12-03 00:00:00.000000,London,Premium,2-Year,39.99,46,Credit Card,5,56.8,0,1,0,0,Online,25-34,F,Yes,No,0.12,0,,,1,7.998,37m+,0.13862762,0
+UK00338,2024-02-24 00:00:00.000000,South West,Basic,1-Year,9.99,3,Credit Card,3,2.6,0,0,3,6,Online,45-54,M,Yes,Yes,0.67,0,,,0,3.33,0-6m,0.5231102,1
+UK00339,2024-10-04 00:00:00.000000,London,Standard,Month-to-Month,19.99,11,Direct Debit,1,14.8,0,1,1,9,Phone,35-44,F,Yes,Yes,0.43,1,2025-05-03 00:00:00.000000,No longer needed,0,19.99,7-12m,0.6177564,1
+UK00340,2021-11-13 00:00:00.000000,Scotland,Premium,1-Year,39.99,27,Bank Transfer,3,47.8,0,0,1,4,Online,25-34,F,Yes,Yes,0.08,0,,,0,13.33,25-36m,0.03171972,0
+UK00341,2023-02-20 00:00:00.000000,London,Standard,1-Year,19.99,28,PayPal,2,15.4,4,0,3,10,In-Store,45-54,M,Yes,Yes,0.36,0,,,0,9.995,25-36m,0.28577054,0
+UK00342,2020-07-25 00:00:00.000000,North West,Enterprise,Month-to-Month,79.99,66,Direct Debit,3,144.2,0,0,0,3,Phone,18-24,M,Yes,No,0.25,0,,,0,26.66333333333333,37m+,0.07434611,0
+UK00343,2020-07-24 00:00:00.000000,South East,Standard,Month-to-Month,19.99,57,Credit Card,4,3.1,0,0,1,6,Phone,45-54,M,Yes,Yes,0.31,1,2023-10-16 00:00:00.000000,No longer needed,0,4.9975,37m+,0.37900552,0
+UK00344,2021-08-13 00:00:00.000000,East of England,Enterprise,Month-to-Month,79.99,22,PayPal,3,133.8,0,1,0,10,Phone,25-34,F,No,No,0.07,0,,,0,26.66333333333333,13-24m,0.21520226,0
+UK00345,2020-06-13 00:00:00.000000,Scotland,Premium,1-Year,39.99,63,Direct Debit,4,36.6,0,0,0,3,Referral,35-44,M,Yes,No,0.16,0,,,0,9.9975,37m+,0.0426345,0
+UK00346,2024-01-09 00:00:00.000000,South East,Standard,2-Year,19.99,13,Direct Debit,5,9.7,2,1,0,8,In-Store,35-44,F,Yes,Yes,0.02,0,,,0,3.9979999999999998,13-24m,0.03964425,0
+UK00347,2020-07-17 00:00:00.000000,London,Premium,Month-to-Month,39.99,58,Direct Debit,4,53.6,0,0,0,6,Online,45-54,F,Yes,No,0.09,0,,,0,9.9975,37m+,0.092646584,0
+UK00348,2021-03-05 00:00:00.000000,Yorkshire,Premium,1-Year,39.99,61,Direct Debit,1,0.1,1,0,3,4,Referral,25-34,M,Yes,Yes,0.32,0,,,0,39.99,37m+,0.41973934,0
+UK00349,2021-09-13 00:00:00.000000,East of England,Standard,2-Year,19.99,4,Credit Card,4,6.8,0,0,0,8,Online,18-24,F,No,Yes,0.09,0,,,0,4.9975,0-6m,0.06330876,0
+UK00350,2021-02-19 00:00:00.000000,South East,Basic,1-Year,9.99,59,Credit Card,5,4.8,4,0,0,7,Online,45-54,M,Yes,No,0.32,1,2025-03-01 00:00:00.000000,Price too high,0,1.998,37m+,0.4584199,0
+UK00351,2020-11-29 00:00:00.000000,South West,Standard,Month-to-Month,19.99,44,Credit Card,4,22.4,0,0,3,5,Online,65+,M,Yes,Yes,0.33,0,,,0,4.9975,37m+,0.20895652,0
+UK00352,2022-01-02 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,35,Direct Debit,4,17.3,1,0,0,9,Online,45-54,M,No,No,0.15,0,,,0,4.9975,25-36m,0.08873094,0
+UK00353,2020-05-08 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,71,Credit Card,5,21.6,3,0,0,0,Phone,55-64,F,No,Yes,0.49,0,,,0,3.9979999999999998,37m+,0.16287053,0
+UK00354,2023-11-13 00:00:00.000000,London,Standard,1-Year,19.99,20,Credit Card,4,9.7,1,1,2,9,In-Store,55-64,F,No,Yes,0.2,0,,,0,4.9975,13-24m,0.18605067,0
+UK00355,2021-01-28 00:00:00.000000,London,Basic,2-Year,9.99,32,Credit Card,4,3.9,1,0,0,6,Referral,25-34,F,Yes,No,0.16,0,,,0,2.4975,25-36m,0.038464833,0
+UK00356,2021-06-04 00:00:00.000000,North East,Basic,1-Year,9.99,41,Bank Transfer,4,3.2,3,1,1,9,Phone,25-34,M,Yes,No,0.3,0,,,0,2.4975,37m+,0.1829392,0
+UK00357,2020-11-29 00:00:00.000000,East Midlands,Basic,Month-to-Month,9.99,41,Bank Transfer,4,3.1,3,1,2,8,In-Store,25-34,F,No,No,0.51,0,,,0,2.4975,37m+,0.19775748,0
+UK00358,2020-05-04 00:00:00.000000,Yorkshire,Basic,1-Year,9.99,61,Direct Debit,2,3.7,1,1,1,10,Partner,18-24,F,Yes,Yes,0.28,1,2023-05-16 00:00:00.000000,Poor service quality,0,4.995,37m+,0.6257936,1
+UK00359,2020-10-25 00:00:00.000000,North West,Enterprise,1-Year,79.99,16,Bank Transfer,4,165.7,1,2,0,5,Referral,25-34,F,Yes,No,0.2,0,,,0,19.9975,13-24m,0.045867946,0
+UK00360,2021-06-20 00:00:00.000000,East of England,Premium,2-Year,39.99,53,Bank Transfer,1,42.6,3,2,0,5,Online,35-44,F,Yes,Yes,0.2,0,,,0,39.99,37m+,0.13827437,0
+UK00361,2020-04-24 00:00:00.000000,South East,Standard,1-Year,19.99,71,Direct Debit,1,3.9,2,0,0,7,Phone,25-34,M,Yes,Yes,0.24,0,,,0,19.99,37m+,0.18630984,0
+UK00362,2021-04-14 00:00:00.000000,South West,Enterprise,2-Year,79.99,17,Direct Debit,3,149.9,1,2,0,8,Referral,55-64,M,No,No,0.02,0,,,0,26.66333333333333,13-24m,0.08665373,0
+UK00363,2021-04-04 00:00:00.000000,Scotland,Premium,Month-to-Month,39.99,29,Credit Card,5,59.8,2,0,2,0,Phone,45-54,M,No,Yes,0.59,0,,,0,7.998,25-36m,0.2532004,0
+UK00364,2021-07-09 00:00:00.000000,West Midlands,Basic,2-Year,9.99,56,PayPal,4,2.8,0,1,0,10,Online,45-54,M,No,Yes,0.02,0,,,0,2.4975,37m+,0.08351361,0
+UK00365,2023-07-31 00:00:00.000000,South East,Enterprise,Month-to-Month,79.99,25,Direct Debit,2,76.8,0,3,0,6,In-Store,18-24,M,No,No,0.37,0,,,0,39.995,25-36m,0.11918088,0
+UK00366,2020-07-26 00:00:00.000000,West Midlands,Premium,Month-to-Month,39.99,33,Credit Card,1,50.2,1,0,2,7,In-Store,35-44,Prefer not to say,No,Yes,0.39,0,,,0,39.99,25-36m,0.15205729,0
+UK00367,2020-12-19 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,34,Credit Card,3,8.7,3,0,0,7,Partner,35-44,Prefer not to say,No,No,0.35,0,,,0,6.663333333333333,25-36m,0.13372937,0
+UK00368,2021-02-27 00:00:00.000000,North East,Basic,1-Year,9.99,34,Direct Debit,2,2.8,1,3,1,7,Partner,45-54,M,Yes,Yes,0.6,1,2023-12-12 00:00:00.000000,Price too high,0,4.995,25-36m,0.657681,1
+UK00369,2021-07-01 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,56,Direct Debit,4,1.3,0,0,0,10,Online,35-44,M,No,Yes,0.19,0,,,0,2.4975,37m+,0.05149449,0
+UK00370,2021-09-10 00:00:00.000000,South West,Premium,1-Year,39.99,28,PayPal,5,47.4,2,0,2,10,Phone,55-64,M,Yes,No,0.1,0,,,0,7.998,25-36m,0.07137535,0
+UK00371,2022-02-24 00:00:00.000000,London,Enterprise,Month-to-Month,79.99,42,Direct Debit,4,278.6,1,2,0,2,In-Store,65+,Prefer not to say,Yes,Yes,0.49,0,,,1,19.9975,37m+,0.26270312,0
+UK00372,2024-08-19 00:00:00.000000,South East,Premium,1-Year,39.99,8,PayPal,5,47.2,1,0,0,7,Online,55-64,M,No,No,0.18,0,,,0,7.998,7-12m,0.06264535,0
+UK00373,2020-11-14 00:00:00.000000,London,Enterprise,1-Year,79.99,39,Direct Debit,3,167.3,4,0,0,7,Referral,35-44,F,No,Yes,0.04,0,,,0,26.66333333333333,37m+,0.043846555,0
+UK00374,2021-04-10 00:00:00.000000,East Midlands,Premium,1-Year,39.99,56,Direct Debit,5,57.2,1,0,0,2,Partner,35-44,F,Yes,No,0.2,0,,,0,7.998,37m+,0.04147361,0
+UK00375,2020-06-09 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,39,Direct Debit,3,3.6,3,0,0,3,In-Store,35-44,M,No,No,0.65,1,2023-06-25 00:00:00.000000,No longer needed,0,3.33,37m+,0.78130424,1
+UK00376,2020-10-01 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,60,Direct Debit,4,3.2,0,0,0,4,In-Store,45-54,F,No,No,0.31,0,,,0,2.4975,37m+,0.11747827,0
+UK00377,2021-04-10 00:00:00.000000,London,Premium,Month-to-Month,39.99,24,Direct Debit,3,56.2,3,0,0,10,In-Store,35-44,F,No,No,0.17,0,,,0,13.33,13-24m,0.06769633,0
+UK00378,2020-11-02 00:00:00.000000,North West,Enterprise,2-Year,79.99,51,PayPal,2,121.1,0,0,0,2,Online,45-54,F,No,Yes,0.04,0,,,0,39.995,37m+,0.14326671,0
+UK00379,2020-08-26 00:00:00.000000,London,Premium,Month-to-Month,39.99,55,Credit Card,2,69.4,2,0,0,4,Phone,55-64,M,Yes,Yes,0.23,0,,,0,19.995,37m+,0.0918483,0
+UK00380,2020-09-02 00:00:00.000000,Wales,Premium,1-Year,39.99,64,Direct Debit,5,48.0,5,0,0,8,Phone,45-54,F,No,Yes,0.02,0,,,0,7.998,37m+,0.03925082,0
+UK00381,2021-07-14 00:00:00.000000,North West,Standard,1-Year,19.99,41,Credit Card,4,8.0,3,0,0,5,Online,25-34,M,Yes,Yes,0.12,0,,,0,4.9975,37m+,0.06884333,0
+UK00382,2020-10-25 00:00:00.000000,Scotland,Premium,Month-to-Month,39.99,60,PayPal,4,25.5,4,1,0,5,Referral,55-64,F,No,Yes,0.33,0,,,0,9.9975,37m+,0.45651066,0
+UK00383,2020-10-23 00:00:00.000000,London,Basic,Month-to-Month,9.99,63,Direct Debit,4,6.1,1,0,0,6,Online,55-64,F,Yes,No,0.25,0,,,0,2.4975,37m+,0.2659325,0
+UK00384,2021-02-27 00:00:00.000000,London,Standard,1-Year,19.99,29,PayPal,3,13.4,2,1,0,10,Referral,45-54,M,Yes,No,0.12,0,,,0,6.663333333333333,25-36m,0.099972636,0
+UK00385,2022-05-04 00:00:00.000000,East of England,Enterprise,2-Year,79.99,14,Credit Card,1,36.9,3,0,0,8,Online,35-44,F,Yes,Yes,0.02,0,,,0,79.99,13-24m,0.085866496,0
+UK00386,2023-02-22 00:00:00.000000,London,Standard,Month-to-Month,19.99,26,Credit Card,1,3.2,0,1,0,6,Online,45-54,M,Yes,Yes,0.47,0,,,0,19.99,25-36m,0.27168167,0
+UK00387,2022-10-17 00:00:00.000000,East of England,Standard,2-Year,19.99,18,Credit Card,4,6.1,3,2,0,6,Online,55-64,Prefer not to say,Yes,No,0.28,0,,,0,4.9975,13-24m,0.07880826,0
+UK00388,2024-04-23 00:00:00.000000,London,Enterprise,Month-to-Month,79.99,8,PayPal,2,0.1,4,0,0,1,Referral,65+,M,No,No,0.77,0,,,0,39.995,7-12m,0.7614799,1
+UK00389,2020-07-22 00:00:00.000000,South East,Basic,1-Year,9.99,68,Credit Card,4,3.5,1,0,0,3,Referral,45-54,F,No,Yes,0.42,1,2022-07-08 00:00:00.000000,Poor service quality,0,2.4975,37m+,0.14177792,0
+UK00390,2020-06-03 00:00:00.000000,North East,Premium,2-Year,39.99,67,Credit Card,1,13.3,1,0,0,5,Referral,35-44,M,No,No,0.02,0,,,0,39.99,37m+,0.025244039,0
+UK00391,2021-08-01 00:00:00.000000,London,Basic,Month-to-Month,9.99,48,Credit Card,1,2.3,0,1,0,7,Online,45-54,F,Yes,No,0.45,1,2026-01-08 00:00:00.000000,No longer needed,0,9.99,37m+,0.81089115,1
+UK00392,2021-08-02 00:00:00.000000,West Midlands,Premium,1-Year,39.99,49,Credit Card,3,80.1,1,0,1,5,Phone,55-64,M,Yes,No,0.04,0,,,0,13.33,37m+,0.06360132,0
+UK00393,2021-07-18 00:00:00.000000,North West,Standard,1-Year,19.99,48,Direct Debit,5,5.7,1,0,0,6,Partner,45-54,M,Yes,Yes,0.04,0,,,0,3.9979999999999998,37m+,0.05974792,0
+UK00394,2020-09-14 00:00:00.000000,North West,Standard,2-Year,19.99,66,Credit Card,2,12.0,1,0,0,3,Partner,45-54,M,Yes,No,0.2,0,,,0,9.995,37m+,0.09788194,0
+UK00395,2021-03-02 00:00:00.000000,London,Basic,Month-to-Month,9.99,48,PayPal,3,2.6,1,1,0,6,Online,55-64,F,Yes,No,0.43,1,2022-07-14 00:00:00.000000,Poor service quality,0,3.33,37m+,0.6469994,1
+UK00396,2022-06-12 00:00:00.000000,Yorkshire,Standard,2-Year,19.99,44,Direct Debit,5,11.0,0,0,0,7,In-Store,55-64,M,No,No,0.02,0,,,0,3.9979999999999998,37m+,0.029977715,0
+UK00397,2020-06-26 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,57,Direct Debit,2,10.0,2,0,1,8,Online,65+,F,Yes,Yes,0.08,0,,,0,9.995,37m+,0.2888966,0
+UK00398,2020-06-19 00:00:00.000000,London,Standard,Month-to-Month,19.99,69,Credit Card,2,4.6,0,1,1,0,In-Store,35-44,F,No,Yes,0.67,1,2022-08-01 00:00:00.000000,Poor service quality,1,9.995,37m+,0.9217419,1
+UK00399,2022-08-06 00:00:00.000000,South East,Premium,Month-to-Month,39.99,33,Direct Debit,5,61.3,0,0,0,10,Online,65+,M,Yes,No,0.05,0,,,0,7.998,25-36m,0.046661675,0
+UK00400,2020-12-22 00:00:00.000000,North West,Standard,Month-to-Month,19.99,42,Direct Debit,1,14.7,0,0,0,10,Referral,35-44,M,Yes,No,0.09,0,,,0,19.99,37m+,0.06777328,0
+UK00401,2020-08-30 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,53,Credit Card,1,12.2,0,3,0,10,In-Store,18-24,F,Yes,Yes,0.14,0,,,0,19.99,37m+,0.039581273,0
+UK00402,2020-07-12 00:00:00.000000,East of England,Enterprise,2-Year,79.99,69,Credit Card,5,196.3,1,0,0,10,Partner,18-24,F,No,No,0.02,0,,,0,15.998,37m+,0.009700805,0
+UK00403,2022-04-09 00:00:00.000000,North West,Premium,2-Year,39.99,45,Credit Card,5,53.8,0,0,0,4,Online,35-44,M,No,Yes,0.02,0,,,0,7.998,37m+,0.0071485806,0
+UK00404,2020-11-25 00:00:00.000000,South East,Enterprise,1-Year,79.99,44,Direct Debit,4,131.1,0,1,0,10,Phone,18-24,F,Yes,No,0.02,1,2022-08-31 00:00:00.000000,No longer needed,0,19.9975,37m+,0.52818024,1
+UK00405,2020-11-02 00:00:00.000000,North East,Standard,2-Year,19.99,63,PayPal,1,9.1,1,2,1,7,Online,25-34,F,Yes,Yes,0.24,0,,,0,19.99,37m+,0.22125436,0
+UK00406,2021-07-20 00:00:00.000000,North West,Enterprise,1-Year,79.99,29,Credit Card,3,130.4,0,1,0,9,In-Store,35-44,M,Yes,Yes,0.02,0,,,0,26.66333333333333,25-36m,0.08610514,0
+UK00407,2021-01-11 00:00:00.000000,North West,Premium,1-Year,39.99,36,Direct Debit,5,33.8,0,1,0,7,Online,65+,F,No,Yes,0.1,0,,,0,7.998,25-36m,0.079026,0
+UK00408,2020-07-16 00:00:00.000000,Scotland,Basic,1-Year,9.99,69,Credit Card,4,2.4,0,0,0,8,Partner,35-44,Prefer not to say,No,Yes,0.04,0,,,0,2.4975,37m+,0.022142138,0
+UK00409,2025-03-31 00:00:00.000000,North West,Standard,2-Year,19.99,6,Direct Debit,3,7.8,4,0,0,5,Online,45-54,Prefer not to say,No,Yes,0.24,0,,,0,6.663333333333333,0-6m,0.5552171,1
+UK00410,2022-03-09 00:00:00.000000,South East,Basic,1-Year,9.99,9,PayPal,4,3.9,1,0,1,2,Online,35-44,Prefer not to say,Yes,No,0.68,1,2025-10-26 00:00:00.000000,Unknown,0,2.4975,7-12m,0.7913153,1
+UK00411,2024-09-12 00:00:00.000000,East Midlands,Premium,1-Year,39.99,13,Credit Card,1,71.7,5,2,0,8,Partner,35-44,M,No,Yes,0.36,1,2025-03-27 00:00:00.000000,Competitor offer,0,39.99,13-24m,0.3061769,0
+UK00412,2022-11-30 00:00:00.000000,North West,Basic,1-Year,9.99,13,PayPal,5,1.5,3,0,0,6,Referral,45-54,M,Yes,No,0.36,0,,,0,1.998,13-24m,0.12530515,0
+UK00413,2025-04-19 00:00:00.000000,London,Standard,1-Year,19.99,2,Credit Card,2,7.8,4,0,0,2,Online,18-24,M,No,No,0.77,1,2026-02-26 00:00:00.000000,No longer needed,0,9.995,0-6m,0.92881227,1
+UK00414,2021-09-25 00:00:00.000000,South East,Basic,Month-to-Month,9.99,44,PayPal,5,4.4,2,1,0,10,Phone,18-24,M,Yes,Yes,0.35,0,,,0,1.998,37m+,0.33671728,0
+UK00415,2020-05-15 00:00:00.000000,West Midlands,Standard,1-Year,19.99,60,Direct Debit,5,10.7,1,0,0,6,Partner,45-54,F,No,Yes,0.04,0,,,0,3.9979999999999998,37m+,0.029724784,0
+UK00416,2020-07-08 00:00:00.000000,Scotland,Premium,2-Year,39.99,43,Credit Card,4,54.3,0,3,0,6,Phone,25-34,M,No,Yes,0.02,0,,,0,9.9975,37m+,0.014474981,0
+UK00417,2020-11-17 00:00:00.000000,South East,Basic,2-Year,9.99,29,Credit Card,3,3.5,3,0,0,8,Phone,35-44,F,Yes,No,0.12,0,,,0,3.33,25-36m,0.081029885,0
+UK00418,2020-09-18 00:00:00.000000,South East,Standard,1-Year,19.99,48,PayPal,5,16.2,3,2,0,10,Online,25-34,F,No,No,0.2,0,,,0,3.9979999999999998,37m+,0.11000181,0
+UK00419,2021-01-07 00:00:00.000000,South East,Enterprise,2-Year,79.99,6,PayPal,5,86.6,0,0,0,8,Partner,55-64,M,Yes,No,0.02,0,,,0,15.998,0-6m,0.04329474,0
+UK00420,2021-05-11 00:00:00.000000,London,Standard,2-Year,19.99,50,Direct Debit,5,8.5,1,0,0,8,In-Store,65+,F,No,Yes,0.02,0,,,0,3.9979999999999998,37m+,0.01719114,0
+UK00421,2020-10-13 00:00:00.000000,North West,Premium,Month-to-Month,39.99,31,Credit Card,4,33.5,1,2,0,6,In-Store,25-34,M,No,No,0.41,0,,,0,9.9975,25-36m,0.053047266,0
+UK00422,2020-12-10 00:00:00.000000,North West,Standard,Month-to-Month,19.99,64,Credit Card,2,11.0,1,0,0,6,Referral,35-44,F,No,Yes,0.25,1,2021-05-15 00:00:00.000000,Poor service quality,0,9.995,37m+,0.23174323,0
+UK00423,2021-11-01 00:00:00.000000,South East,Standard,Month-to-Month,19.99,43,Bank Transfer,3,17.8,0,0,0,8,Online,25-34,F,No,No,0.03,0,,,0,6.663333333333333,37m+,0.102177456,0
+UK00424,2020-06-22 00:00:00.000000,London,Premium,2-Year,39.99,66,Direct Debit,4,16.8,0,1,0,10,Referral,45-54,F,No,No,0.02,0,,,0,9.9975,37m+,0.044372153,0
+UK00425,2021-09-17 00:00:00.000000,London,Standard,Month-to-Month,19.99,54,PayPal,5,8.6,0,0,1,7,Referral,35-44,M,No,No,0.21,0,,,0,3.9979999999999998,37m+,0.15702325,0
+UK00426,2023-07-13 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,18,PayPal,3,5.3,1,1,2,10,Partner,25-34,M,No,Yes,0.41,0,,,0,3.33,13-24m,0.23433416,0
+UK00427,2022-11-13 00:00:00.000000,Scotland,Standard,Month-to-Month,19.99,39,Bank Transfer,5,15.9,0,1,0,3,Online,25-34,F,Yes,No,0.45,1,2025-12-05 00:00:00.000000,Price too high,1,3.9979999999999998,37m+,0.7628611,1
+UK00428,2020-11-21 00:00:00.000000,North East,Standard,Month-to-Month,19.99,51,Credit Card,5,12.7,1,1,0,3,Online,35-44,F,No,Yes,0.49,0,,,1,3.9979999999999998,37m+,0.5584056,1
+UK00429,2020-09-05 00:00:00.000000,East Midlands,Enterprise,1-Year,79.99,65,Credit Card,2,32.2,0,0,0,7,Phone,35-44,M,Yes,Yes,0.02,0,,,0,39.995,37m+,0.069116704,0
+UK00430,2021-07-10 00:00:00.000000,North West,Premium,Month-to-Month,39.99,39,Direct Debit,2,69.2,1,0,0,9,Partner,25-34,F,No,Yes,0.07,0,,,0,19.995,37m+,0.057839073,0
+UK00431,2020-05-07 00:00:00.000000,South East,Premium,Month-to-Month,39.99,69,Direct Debit,2,60.6,4,0,1,10,Referral,35-44,M,Yes,Yes,0.25,0,,,0,19.995,37m+,0.09895073,0
+UK00432,2020-07-02 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,60,Credit Card,2,4.0,1,0,0,8,Phone,35-44,M,Yes,No,0.29,1,2025-11-24 00:00:00.000000,Poor service quality,0,4.995,37m+,0.4687943,0
+UK00433,2021-04-23 00:00:00.000000,South West,Basic,Month-to-Month,9.99,13,Credit Card,4,2.8,0,1,0,3,Online,45-54,M,Yes,Yes,0.69,1,2025-08-03 00:00:00.000000,Poor service quality,1,2.4975,13-24m,0.8088058,1
+UK00434,2020-05-22 00:00:00.000000,London,Standard,2-Year,19.99,49,Bank Transfer,3,18.4,4,0,0,10,Online,25-34,F,Yes,Yes,0.02,0,,,0,6.663333333333333,37m+,0.019642903,0
+UK00435,2022-09-17 00:00:00.000000,London,Premium,Month-to-Month,39.99,22,Credit Card,3,65.7,1,0,0,7,Online,35-44,M,No,No,0.21,1,2025-01-05 00:00:00.000000,Competitor offer,0,13.33,13-24m,0.1963029,0
+UK00436,2020-08-06 00:00:00.000000,South West,Basic,Month-to-Month,9.99,48,Direct Debit,4,2.4,1,0,3,9,Referral,65+,F,No,Yes,0.41,0,,,0,2.4975,37m+,0.14215678,0
+UK00437,2022-10-30 00:00:00.000000,West Midlands,Enterprise,Month-to-Month,79.99,18,Credit Card,3,251.5,5,1,0,8,Phone,25-34,F,Yes,Yes,0.27,1,2025-02-04 00:00:00.000000,Poor service quality,0,26.66333333333333,13-24m,0.6597243,1
+UK00438,2021-08-24 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,11,Bank Transfer,3,50.5,0,0,0,6,Phone,65+,F,No,Yes,0.29,1,2025-05-18 00:00:00.000000,Competitor offer,0,13.33,7-12m,0.5178549,1
+UK00439,2021-07-23 00:00:00.000000,East Midlands,Enterprise,2-Year,79.99,37,Direct Debit,3,275.7,1,0,0,5,Online,35-44,M,Yes,Yes,0.02,0,,,0,26.66333333333333,37m+,0.023951944,0
+UK00440,2021-08-20 00:00:00.000000,London,Basic,2-Year,9.99,19,Direct Debit,2,0.8,2,1,2,3,In-Store,35-44,M,Yes,Yes,0.68,1,2025-05-12 00:00:00.000000,Poor service quality,1,4.995,13-24m,0.9012239,1
+UK00441,2023-09-24 00:00:00.000000,Scotland,Standard,Month-to-Month,19.99,26,Direct Debit,1,5.8,4,0,0,9,Referral,55-64,F,Yes,No,0.33,0,,,0,19.99,25-36m,0.5622549,1
+UK00442,2021-05-13 00:00:00.000000,North East,Basic,1-Year,9.99,39,Direct Debit,2,3.3,0,0,0,4,In-Store,35-44,F,Yes,Yes,0.22,0,,,0,4.995,37m+,0.23560072,0
+UK00443,2021-06-16 00:00:00.000000,South West,Basic,1-Year,9.99,48,PayPal,4,1.7,5,0,0,10,Partner,25-34,F,Yes,Yes,0.24,0,,,0,2.4975,37m+,0.10386241,0
+UK00444,2022-05-17 00:00:00.000000,East of England,Enterprise,1-Year,79.99,45,Credit Card,3,58.1,2,1,2,7,In-Store,65+,M,Yes,Yes,0.16,0,,,0,26.66333333333333,37m+,0.19481282,0
+UK00445,2020-10-05 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,33,Direct Debit,2,17.2,0,1,0,8,Online,35-44,F,No,No,0.25,0,,,0,9.995,25-36m,0.33894646,0
+UK00446,2022-08-05 00:00:00.000000,North East,Standard,1-Year,19.99,40,Credit Card,1,9.0,0,0,1,9,Phone,65+,M,No,Yes,0.02,0,,,0,19.99,37m+,0.07007788,0
+UK00447,2021-06-03 00:00:00.000000,London,Premium,2-Year,39.99,9,Direct Debit,4,20.2,2,1,0,6,In-Store,25-34,F,Yes,Yes,0.18,0,,,0,9.9975,7-12m,0.07118398,0
+UK00448,2023-11-18 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,25,Credit Card,4,69.9,1,2,0,10,Online,35-44,M,No,Yes,0.29,0,,,0,9.9975,25-36m,0.10862636,0
+UK00449,2022-06-02 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,13,Direct Debit,1,14.6,2,1,0,5,Partner,45-54,F,No,No,0.45,0,,,0,19.99,13-24m,0.24197663,0
+UK00450,2021-04-23 00:00:00.000000,West Midlands,Standard,2-Year,19.99,44,PayPal,3,22.3,2,0,0,9,Referral,18-24,F,No,Yes,0.02,0,,,0,6.663333333333333,37m+,0.015978498,0
+UK00451,2022-02-12 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,32,Credit Card,4,0.7,1,1,0,8,Online,18-24,F,No,No,0.39,1,2024-12-15 00:00:00.000000,Poor service quality,0,2.4975,25-36m,0.56385237,1
+UK00452,2021-05-04 00:00:00.000000,London,Standard,2-Year,19.99,55,Credit Card,4,1.1,5,1,2,10,Phone,45-54,F,Yes,Yes,0.26,0,,,0,4.9975,37m+,0.2642847,0
+UK00453,2020-05-24 00:00:00.000000,South West,Basic,2-Year,9.99,71,Direct Debit,4,3.0,4,0,0,7,Online,35-44,F,Yes,No,0.2,0,,,0,2.4975,37m+,0.0651964,0
+UK00454,2023-01-26 00:00:00.000000,South East,Premium,1-Year,39.99,33,Credit Card,1,58.7,2,2,0,10,Phone,55-64,F,Yes,No,0.24,0,,,0,39.99,25-36m,0.13601707,0
+UK00455,2021-12-21 00:00:00.000000,West Midlands,Premium,1-Year,39.99,49,Bank Transfer,4,53.3,3,0,0,9,Phone,25-34,M,No,No,0.02,0,,,0,9.9975,37m+,0.021496482,0
+UK00456,2020-05-10 00:00:00.000000,London,Basic,Month-to-Month,9.99,69,Direct Debit,4,3.3,1,0,0,6,Phone,25-34,M,No,No,0.35,1,2023-11-20 00:00:00.000000,Moved abroad,0,2.4975,37m+,0.29928884,0
+UK00457,2022-12-29 00:00:00.000000,North West,Standard,Month-to-Month,19.99,37,Direct Debit,1,26.5,2,0,3,8,Online,25-34,Prefer not to say,Yes,No,0.35,1,2024-05-14 00:00:00.000000,Moved abroad,0,19.99,37m+,0.43807158,0
+UK00458,2025-06-05 00:00:00.000000,South East,Enterprise,2-Year,79.99,7,PayPal,4,262.6,2,0,1,9,Partner,35-44,M,No,No,0.02,0,,,0,19.9975,7-12m,0.016345862,0
+UK00459,2022-01-06 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,37,Direct Debit,5,2.5,1,0,1,10,Online,25-34,F,No,Yes,0.23,1,2024-04-13 00:00:00.000000,No longer needed,0,3.9979999999999998,37m+,0.3141562,0
+UK00460,2021-04-03 00:00:00.000000,West Midlands,Basic,1-Year,9.99,14,Bank Transfer,2,1.7,1,3,0,10,Online,65+,M,Yes,Yes,0.42,0,,,0,4.995,13-24m,0.15055399,0
+UK00461,2024-06-28 00:00:00.000000,East Midlands,Premium,1-Year,39.99,20,Credit Card,1,33.6,0,0,0,6,Phone,55-64,F,No,No,0.08,0,,,0,39.99,13-24m,0.07178584,0
+UK00462,2023-01-01 00:00:00.000000,North West,Premium,Month-to-Month,39.99,16,Credit Card,5,37.1,0,0,3,3,Phone,55-64,M,No,No,0.57,1,2025-02-01 00:00:00.000000,Price too high,0,7.998,13-24m,0.68432856,1
+UK00463,2020-07-07 00:00:00.000000,North East,Basic,Month-to-Month,9.99,69,Direct Debit,1,2.5,1,1,1,9,Referral,45-54,F,Yes,Yes,0.43,1,2022-07-30 00:00:00.000000,Price too high,0,9.99,37m+,0.7759681,1
+UK00464,2020-10-14 00:00:00.000000,South East,Standard,Month-to-Month,19.99,6,Bank Transfer,2,11.6,0,0,1,4,In-Store,35-44,F,No,Yes,0.47,1,2025-10-06 00:00:00.000000,Unknown,0,9.995,0-6m,0.8376769,1
+UK00465,2020-05-06 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,69,Direct Debit,3,8.0,1,3,0,8,Online,18-24,M,Yes,Yes,0.27,0,,,0,6.663333333333333,37m+,0.19044392,0
+UK00466,2022-07-22 00:00:00.000000,South East,Basic,1-Year,9.99,17,Direct Debit,5,2.8,0,0,2,7,Partner,45-54,Prefer not to say,Yes,Yes,0.36,1,2025-11-09 00:00:00.000000,Poor service quality,0,1.998,13-24m,0.39351663,0
+UK00467,2020-05-20 00:00:00.000000,East Midlands,Standard,1-Year,19.99,48,Bank Transfer,5,18.4,2,0,0,8,Online,25-34,F,No,Yes,0.02,0,,,0,3.9979999999999998,37m+,0.014745204,0
+UK00468,2022-06-08 00:00:00.000000,North East,Basic,Month-to-Month,9.99,35,Bank Transfer,3,2.9,0,0,2,9,Referral,25-34,F,No,No,0.39,1,2025-04-22 00:00:00.000000,No longer needed,0,3.33,25-36m,0.5315256,1
+UK00469,2025-01-28 00:00:00.000000,Yorkshire,Premium,2-Year,39.99,13,Direct Debit,4,51.9,0,1,0,4,Phone,25-34,F,Yes,Yes,0.02,0,,,0,9.9975,13-24m,0.039511148,0
+UK00470,2021-04-21 00:00:00.000000,South East,Standard,1-Year,19.99,48,PayPal,5,4.6,1,0,0,5,In-Store,25-34,M,Yes,No,0.14,0,,,0,3.9979999999999998,37m+,0.04233352,0
+UK00471,2021-11-12 00:00:00.000000,South East,Basic,2-Year,9.99,41,Bank Transfer,1,5.3,2,2,0,8,Referral,18-24,Prefer not to say,Yes,No,0.16,0,,,0,9.99,37m+,0.12854193,0
+UK00472,2020-06-17 00:00:00.000000,West Midlands,Premium,1-Year,39.99,69,Direct Debit,5,58.1,0,1,0,6,Phone,25-34,F,Yes,No,0.02,0,,,0,7.998,37m+,0.05965526,0
+UK00473,2020-06-10 00:00:00.000000,North East,Premium,2-Year,39.99,68,Bank Transfer,3,25.6,3,0,2,4,Online,45-54,F,Yes,No,0.06,0,,,0,13.33,37m+,0.106052555,0
+UK00474,2021-09-05 00:00:00.000000,London,Basic,Month-to-Month,9.99,51,Credit Card,5,3.7,3,0,0,6,Online,35-44,M,Yes,Yes,0.43,1,2026-02-01 00:00:00.000000,Price too high,0,1.998,37m+,0.37159806,0
+UK00475,2020-12-20 00:00:00.000000,London,Standard,Month-to-Month,19.99,63,Credit Card,2,12.6,1,2,0,7,Online,35-44,M,No,Yes,0.45,0,,,0,9.995,37m+,0.14244853,0
+UK00476,2021-11-28 00:00:00.000000,North West,Premium,Month-to-Month,39.99,18,Credit Card,3,28.1,3,1,0,7,Online,45-54,F,Yes,Yes,0.37,0,,,0,13.33,13-24m,0.37934363,0
+UK00477,2022-06-29 00:00:00.000000,Wales,Enterprise,Month-to-Month,79.99,16,Credit Card,2,0.1,1,1,1,7,Partner,55-64,M,No,Yes,0.45,0,,,0,39.995,13-24m,0.37280548,0
+UK00478,2022-06-12 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,44,Direct Debit,1,3.0,1,0,0,8,Phone,45-54,M,No,Yes,0.29,0,,,0,9.99,37m+,0.19263427,0
+UK00479,2021-03-14 00:00:00.000000,South East,Enterprise,Month-to-Month,79.99,55,Credit Card,1,200.2,2,0,0,8,Online,35-44,M,Yes,Yes,0.05,0,,,0,79.99,37m+,0.08454443,0
+UK00480,2022-09-15 00:00:00.000000,London,Standard,Month-to-Month,19.99,7,Direct Debit,2,11.6,0,0,0,7,Online,25-34,M,No,No,0.41,1,2025-09-07 00:00:00.000000,Price too high,0,9.995,7-12m,0.7471694,1
+UK00481,2020-08-01 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,42,Direct Debit,5,2.2,0,0,2,7,Phone,55-64,M,No,No,0.43,0,,,0,1.998,37m+,0.23075709,0
+UK00482,2020-12-26 00:00:00.000000,East Midlands,Standard,1-Year,19.99,31,Credit Card,4,15.9,0,0,0,4,Partner,55-64,F,Yes,No,0.08,0,,,0,4.9975,25-36m,0.045254536,0
+UK00483,2022-06-10 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,44,PayPal,2,0.9,1,0,0,7,Partner,65+,F,No,Yes,0.41,0,,,0,4.995,37m+,0.132551,0
+UK00484,2020-09-15 00:00:00.000000,North West,Basic,2-Year,9.99,65,Credit Card,3,4.2,2,0,0,4,Partner,25-34,F,No,Yes,0.12,0,,,0,3.33,37m+,0.041680112,0
+UK00485,2021-10-01 00:00:00.000000,North West,Premium,Month-to-Month,39.99,50,Direct Debit,2,96.6,0,0,0,5,Phone,35-44,M,Yes,No,0.15,0,,,0,19.995,37m+,0.13158995,0
+UK00486,2025-03-17 00:00:00.000000,London,Standard,1-Year,19.99,6,PayPal,2,12.8,4,0,0,5,Phone,25-34,F,Yes,Yes,0.42,0,,,0,9.995,0-6m,0.41243678,0
+UK00487,2022-01-24 00:00:00.000000,Wales,Standard,Month-to-Month,19.99,42,PayPal,5,7.1,0,0,2,8,Referral,25-34,Prefer not to say,Yes,No,0.15,0,,,0,3.9979999999999998,37m+,0.1713442,0
+UK00488,2024-11-21 00:00:00.000000,Wales,Standard,1-Year,19.99,14,Direct Debit,3,28.7,3,0,0,8,Online,25-34,F,No,Yes,0.08,0,,,0,6.663333333333333,13-24m,0.09054446,0
+UK00489,2021-04-28 00:00:00.000000,North West,Premium,2-Year,39.99,19,Direct Debit,2,0.1,1,1,0,2,Online,25-34,M,No,Yes,0.4,1,2024-11-12 00:00:00.000000,Poor service quality,1,19.995,13-24m,0.7963476,1
+UK00490,2020-05-07 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,52,PayPal,1,5.9,2,0,0,7,Phone,18-24,M,Yes,No,0.29,1,2025-06-21 00:00:00.000000,Competitor offer,0,19.99,37m+,0.55528677,1
+UK00491,2022-03-04 00:00:00.000000,London,Premium,1-Year,39.99,14,Direct Debit,1,32.4,0,0,0,9,Online,35-44,M,Yes,Yes,0.02,0,,,0,39.99,13-24m,0.049152557,0
+UK00492,2020-05-31 00:00:00.000000,South East,Basic,2-Year,9.99,66,Credit Card,1,3.3,4,0,0,6,Online,65+,F,Yes,No,0.26,1,2021-06-03 00:00:00.000000,Price too high,0,9.99,37m+,0.6462838,1
+UK00493,2024-02-14 00:00:00.000000,South East,Enterprise,1-Year,79.99,10,Direct Debit,1,40.3,3,0,0,3,Referral,45-54,F,No,No,0.48,0,,,0,79.99,7-12m,0.17190936,0
+UK00494,2022-02-24 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,48,Credit Card,1,2.6,3,1,3,9,Online,35-44,F,No,Yes,0.36,1,2024-09-05 00:00:00.000000,Unknown,0,9.99,37m+,0.48571214,0
+UK00495,2021-02-01 00:00:00.000000,London,Basic,Month-to-Month,9.99,17,PayPal,3,1.3,1,0,3,6,Phone,25-34,M,No,No,0.61,1,2025-12-24 00:00:00.000000,Price too high,0,3.33,13-24m,0.7538999,1
+UK00496,2020-08-10 00:00:00.000000,West Midlands,Basic,1-Year,9.99,68,Credit Card,2,1.7,2,0,0,8,Phone,65+,F,Yes,No,0.18,0,,,0,4.995,37m+,0.23622312,0
+UK00497,2021-01-31 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,18,Credit Card,5,48.6,5,2,0,3,Phone,25-34,F,No,No,0.79,1,2025-01-16 00:00:00.000000,Competitor offer,1,7.998,13-24m,0.87500733,1
+UK00498,2022-08-24 00:00:00.000000,South West,Basic,Month-to-Month,9.99,21,Credit Card,1,2.6,0,0,1,6,Online,45-54,F,No,No,0.51,1,2025-06-12 00:00:00.000000,Poor service quality,0,9.99,13-24m,0.7696424,1
+UK00499,2022-11-10 00:00:00.000000,London,Standard,Month-to-Month,19.99,15,Direct Debit,1,7.0,2,0,0,9,Referral,55-64,F,Yes,No,0.25,0,,,0,19.99,13-24m,0.26476884,0
+UK00500,2021-11-17 00:00:00.000000,London,Basic,2-Year,9.99,49,Direct Debit,2,4.0,1,0,0,3,Online,45-54,F,No,No,0.36,1,2024-04-13 00:00:00.000000,Competitor offer,0,4.995,37m+,0.66362876,1
+UK00501,2024-07-21 00:00:00.000000,London,Basic,Month-to-Month,9.99,10,Bank Transfer,3,4.9,0,0,0,9,Online,25-34,F,Yes,No,0.39,1,2026-03-15 00:00:00.000000,Competitor offer,0,3.33,7-12m,0.8102531,1
+UK00502,2022-07-18 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,6,Direct Debit,3,15.2,0,0,0,2,Online,35-44,M,Yes,Yes,0.57,1,2026-01-31 00:00:00.000000,Price too high,0,6.663333333333333,0-6m,0.8405756,1
+UK00503,2020-12-17 00:00:00.000000,London,Premium,1-Year,39.99,49,PayPal,1,52.5,0,0,0,9,Referral,45-54,F,Yes,No,0.02,0,,,0,39.99,37m+,0.045432296,0
+UK00504,2020-07-11 00:00:00.000000,South East,Basic,Month-to-Month,9.99,56,Direct Debit,4,2.6,0,3,0,8,Partner,18-24,M,No,Yes,0.39,0,,,0,2.4975,37m+,0.11450996,0
+UK00505,2023-01-20 00:00:00.000000,London,Standard,Month-to-Month,19.99,38,Credit Card,3,0.1,1,0,0,5,Referral,45-54,M,Yes,No,0.29,1,2024-09-17 00:00:00.000000,Poor service quality,0,6.663333333333333,37m+,0.49297336,0
+UK00506,2023-02-24 00:00:00.000000,North East,Premium,Month-to-Month,39.99,17,Direct Debit,5,61.1,4,0,0,7,Referral,65+,M,Yes,Yes,0.33,0,,,0,7.998,13-24m,0.12602018,0
+UK00507,2022-12-09 00:00:00.000000,London,Standard,Month-to-Month,19.99,14,Direct Debit,4,9.3,3,0,1,4,Partner,35-44,M,Yes,No,0.41,0,,,0,4.9975,13-24m,0.26140586,0
+UK00508,2020-06-02 00:00:00.000000,South East,Basic,Month-to-Month,9.99,41,Direct Debit,2,1.8,2,0,0,8,Partner,25-34,M,Yes,No,0.33,1,2024-11-19 00:00:00.000000,No longer needed,0,4.995,37m+,0.47911346,0
+UK00509,2021-12-25 00:00:00.000000,London,Enterprise,2-Year,79.99,28,PayPal,4,175.4,0,0,0,10,In-Store,35-44,M,No,Yes,0.02,0,,,0,19.9975,25-36m,0.00803589,0
+UK00510,2022-03-30 00:00:00.000000,North East,Basic,2-Year,9.99,44,PayPal,2,3.6,1,0,0,5,Partner,35-44,F,No,Yes,0.14,0,,,0,4.995,37m+,0.1409446,0
+UK00511,2024-02-03 00:00:00.000000,London,Premium,Month-to-Month,39.99,19,Direct Debit,3,25.4,0,2,2,10,In-Store,18-24,M,Yes,No,0.37,0,,,0,13.33,13-24m,0.118379876,0
+UK00512,2021-05-20 00:00:00.000000,London,Standard,Month-to-Month,19.99,25,Bank Transfer,2,12.0,2,0,0,7,Phone,18-24,F,Yes,No,0.37,0,,,0,9.995,25-36m,0.3022673,0
+UK00513,2020-12-17 00:00:00.000000,South West,Standard,1-Year,19.99,64,Credit Card,4,17.4,1,1,0,7,In-Store,25-34,F,No,No,0.12,0,,,0,4.9975,37m+,0.05995917,0
+UK00514,2020-05-27 00:00:00.000000,West Midlands,Premium,1-Year,39.99,37,Direct Debit,1,41.7,5,1,0,10,In-Store,35-44,F,Yes,No,0.16,0,,,0,39.99,37m+,0.19158316,0
+UK00515,2021-08-12 00:00:00.000000,West Midlands,Premium,Month-to-Month,39.99,54,Direct Debit,5,86.8,1,0,0,9,Referral,45-54,F,Yes,No,0.02,0,,,0,7.998,37m+,0.11004221,0
+UK00516,2020-06-29 00:00:00.000000,South East,Standard,Month-to-Month,19.99,34,Credit Card,4,23.1,2,0,2,10,Online,35-44,F,No,No,0.31,1,2025-01-13 00:00:00.000000,Unknown,0,4.9975,25-36m,0.13431747,0
+UK00517,2021-04-14 00:00:00.000000,Wales,Basic,1-Year,9.99,25,Direct Debit,1,0.3,3,0,0,6,Online,25-34,M,Yes,Yes,0.42,0,,,0,9.99,25-36m,0.40812477,0
+UK00518,2021-03-03 00:00:00.000000,South West,Premium,2-Year,39.99,34,Credit Card,3,0.1,0,0,0,4,Phone,65+,M,No,Yes,0.02,0,,,0,13.33,25-36m,0.079559,0
+UK00519,2021-01-15 00:00:00.000000,North West,Basic,Month-to-Month,9.99,46,Direct Debit,2,3.5,0,0,0,8,Online,65+,F,Yes,Yes,0.25,0,,,0,4.995,37m+,0.41053468,0
+UK00520,2022-07-03 00:00:00.000000,London,Standard,Month-to-Month,19.99,37,Credit Card,1,1.7,1,0,1,4,Referral,35-44,F,Yes,Yes,0.41,0,,,0,19.99,37m+,0.29328376,0
+UK00521,2020-10-16 00:00:00.000000,South East,Standard,2-Year,19.99,58,Bank Transfer,1,13.8,4,1,0,4,In-Store,45-54,F,Yes,No,0.18,0,,,0,19.99,37m+,0.06937504,0
+UK00522,2023-12-26 00:00:00.000000,London,Basic,1-Year,9.99,3,Credit Card,2,2.4,3,0,0,9,Online,45-54,M,No,No,0.55,1,2026-01-04 00:00:00.000000,Poor service quality,0,4.995,0-6m,0.8588738,1
+UK00523,2020-05-20 00:00:00.000000,South East,Standard,Month-to-Month,19.99,64,Direct Debit,2,8.9,0,0,1,10,Referral,25-34,F,No,No,0.15,0,,,0,9.995,37m+,0.18477777,0
+UK00524,2022-08-11 00:00:00.000000,East of England,Standard,1-Year,19.99,41,Credit Card,4,0.1,0,0,2,8,Online,18-24,F,No,No,0.1,0,,,0,4.9975,37m+,0.11597028,0
+UK00525,2020-06-10 00:00:00.000000,Scotland,Premium,Month-to-Month,39.99,68,Credit Card,2,45.5,3,0,0,0,Referral,25-34,M,Yes,No,0.49,1,2023-10-28 00:00:00.000000,Moved abroad,0,19.995,37m+,0.5784447,1
+UK00526,2020-07-09 00:00:00.000000,Yorkshire,Premium,Month-to-Month,39.99,50,Direct Debit,2,60.7,0,0,0,4,Phone,45-54,M,No,Yes,0.15,0,,,0,19.995,37m+,0.10113421,0
+UK00527,2020-05-03 00:00:00.000000,Yorkshire,Premium,Month-to-Month,39.99,36,Bank Transfer,2,49.2,2,0,0,3,Online,55-64,M,Yes,No,0.53,0,,,0,19.995,25-36m,0.12302188,0
+UK00528,2020-06-11 00:00:00.000000,London,Basic,1-Year,9.99,54,Credit Card,3,3.0,1,0,0,5,Phone,35-44,F,Yes,No,0.2,0,,,0,3.33,37m+,0.071340084,0
+UK00529,2020-05-14 00:00:00.000000,South East,Basic,Month-to-Month,9.99,2,Bank Transfer,4,4.1,0,0,1,10,Referral,25-34,F,Yes,Yes,0.58,0,,,0,2.4975,0-6m,0.22767997,0
+UK00530,2020-09-22 00:00:00.000000,South East,Basic,Month-to-Month,9.99,49,PayPal,2,0.4,2,0,0,4,Referral,65+,M,No,Yes,0.45,0,,,0,4.995,37m+,0.2332465,0
+UK00531,2020-08-26 00:00:00.000000,North West,Basic,2-Year,9.99,63,Direct Debit,4,4.7,0,0,0,6,Phone,25-34,M,No,Yes,0.04,0,,,0,2.4975,37m+,0.020102058,0
+UK00532,2021-03-10 00:00:00.000000,North West,Premium,Month-to-Month,39.99,50,PayPal,2,59.3,3,1,0,3,Online,35-44,M,Yes,Yes,0.57,1,2024-02-27 00:00:00.000000,Poor service quality,1,19.995,37m+,0.79429716,1
+UK00533,2022-11-24 00:00:00.000000,East Midlands,Standard,2-Year,19.99,26,PayPal,3,9.5,1,1,2,4,Phone,25-34,F,Yes,No,0.2,1,2025-12-11 00:00:00.000000,Competitor offer,0,6.663333333333333,25-36m,0.5961546,1
+UK00534,2020-05-08 00:00:00.000000,London,Standard,Month-to-Month,19.99,71,Credit Card,2,10.7,1,0,0,7,Online,45-54,F,No,Yes,0.25,0,,,0,9.995,37m+,0.2970453,0
+UK00535,2020-04-28 00:00:00.000000,East Midlands,Standard,1-Year,19.99,68,Direct Debit,1,12.4,2,0,2,7,Online,35-44,M,No,No,0.26,0,,,0,19.99,37m+,0.1431387,0
+UK00536,2020-04-30 00:00:00.000000,South West,Basic,1-Year,9.99,35,Credit Card,2,3.5,1,0,0,4,In-Store,45-54,F,No,Yes,0.34,1,2023-09-28 00:00:00.000000,Price too high,0,4.995,25-36m,0.39261732,0
+UK00537,2024-04-05 00:00:00.000000,North West,Standard,1-Year,19.99,2,Bank Transfer,1,6.9,0,0,0,7,Phone,35-44,M,Yes,Yes,0.39,0,,,0,19.99,0-6m,0.3541528,0
+UK00538,2022-03-12 00:00:00.000000,Wales,Standard,1-Year,19.99,30,Direct Debit,2,1.4,2,0,1,4,Phone,65+,M,No,No,0.38,1,2023-10-19 00:00:00.000000,Moved abroad,0,9.995,25-36m,0.6091478,1
+UK00539,2020-08-07 00:00:00.000000,South East,Standard,2-Year,19.99,67,PayPal,5,9.8,1,0,0,9,Phone,25-34,F,Yes,No,0.02,0,,,0,3.9979999999999998,37m+,0.016429665,0
+UK00540,2021-10-15 00:00:00.000000,London,Premium,1-Year,39.99,49,Credit Card,5,35.2,3,0,2,10,Partner,35-44,M,No,No,0.06,0,,,0,7.998,37m+,0.08117509,0
+UK00541,2022-03-26 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,44,Credit Card,4,3.1,1,1,0,3,Phone,35-44,M,Yes,No,0.38,0,,,1,2.4975,37m+,0.14784786,0
+UK00542,2020-10-21 00:00:00.000000,South East,Basic,Month-to-Month,9.99,59,Direct Debit,5,3.1,0,0,0,5,Online,25-34,M,No,Yes,0.31,0,,,0,1.998,37m+,0.0715235,0
+UK00543,2022-09-06 00:00:00.000000,London,Premium,Month-to-Month,39.99,26,Credit Card,3,57.1,0,0,0,10,Partner,55-64,F,No,Yes,0.05,0,,,0,13.33,25-36m,0.08687933,0
+UK00544,2021-12-23 00:00:00.000000,South East,Premium,1-Year,39.99,18,Direct Debit,2,15.3,1,0,0,4,Phone,35-44,M,No,Yes,0.12,0,,,0,19.995,13-24m,0.06986166,0
+UK00545,2020-07-23 00:00:00.000000,South East,Standard,1-Year,19.99,46,PayPal,4,22.1,5,0,2,7,Phone,25-34,M,No,Yes,0.32,0,,,0,4.9975,37m+,0.31185225,0
+UK00546,2023-03-20 00:00:00.000000,North East,Premium,2-Year,39.99,7,Direct Debit,4,51.3,2,0,1,6,Online,18-24,F,Yes,No,0.16,0,,,0,9.9975,7-12m,0.03880575,0
+UK00547,2022-05-22 00:00:00.000000,Yorkshire,Premium,2-Year,39.99,43,Bank Transfer,5,48.5,2,1,0,3,Online,55-64,F,Yes,No,0.2,0,,,1,7.998,37m+,0.12010446,0
+UK00548,2020-06-12 00:00:00.000000,Scotland,Premium,1-Year,39.99,63,Credit Card,1,57.1,0,0,0,4,Online,18-24,F,No,Yes,0.02,0,,,0,39.99,37m+,0.029964544,0
+UK00549,2021-02-17 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,24,Direct Debit,5,2.6,0,0,0,9,Online,55-64,F,Yes,Yes,0.02,0,,,0,1.998,13-24m,0.08512363,0
+UK00550,2020-08-10 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,64,Credit Card,4,2.4,2,0,0,5,Online,25-34,M,No,Yes,0.39,0,,,0,2.4975,37m+,0.05166414,0
+UK00551,2025-02-09 00:00:00.000000,East Midlands,Premium,2-Year,39.99,6,PayPal,2,66.0,1,1,0,6,Online,55-64,F,Yes,Yes,0.2,0,,,0,19.995,0-6m,0.29912534,0
+UK00552,2021-06-01 00:00:00.000000,West Midlands,Standard,1-Year,19.99,44,Credit Card,2,11.4,0,1,0,9,Referral,35-44,Prefer not to say,Yes,No,0.02,0,,,0,9.995,37m+,0.08516393,0
+UK00553,2022-03-20 00:00:00.000000,Scotland,Standard,1-Year,19.99,45,Direct Debit,1,14.3,0,1,0,9,Referral,65+,F,Yes,Yes,0.02,0,,,0,19.99,37m+,0.054327935,0
+UK00554,2021-05-12 00:00:00.000000,North East,Basic,2-Year,9.99,54,Direct Debit,3,3.4,0,1,0,2,Referral,65+,M,No,No,0.34,1,2025-05-13 00:00:00.000000,Competitor offer,1,3.33,37m+,0.6765474,1
+UK00555,2021-04-01 00:00:00.000000,South East,Basic,1-Year,9.99,57,Credit Card,2,3.3,1,0,1,5,Online,25-34,M,No,Yes,0.32,0,,,0,4.995,37m+,0.24635154,0
+UK00556,2020-08-17 00:00:00.000000,Scotland,Premium,1-Year,39.99,68,Direct Debit,5,47.6,3,0,0,9,Online,18-24,M,No,Yes,0.02,0,,,0,7.998,37m+,0.02395322,0
+UK00557,2022-07-02 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,13,Direct Debit,5,2.3,1,0,1,5,Online,55-64,Prefer not to say,Yes,Yes,0.49,0,,,0,1.998,13-24m,0.2713153,0
+UK00558,2020-05-24 00:00:00.000000,Yorkshire,Enterprise,1-Year,79.99,52,Credit Card,1,229.1,2,2,3,7,In-Store,25-34,F,Yes,Yes,0.4,1,2026-01-25 00:00:00.000000,Poor service quality,0,79.99,37m+,0.762077,1
+UK00559,2022-08-24 00:00:00.000000,North East,Premium,Month-to-Month,39.99,8,Direct Debit,5,106.8,4,1,1,2,Phone,18-24,F,Yes,No,0.81,1,2025-08-22 00:00:00.000000,Price too high,1,7.998,7-12m,0.9372701,1
+UK00560,2021-06-13 00:00:00.000000,East Midlands,Standard,1-Year,19.99,56,Credit Card,2,15.7,0,0,1,9,Phone,35-44,F,Yes,No,0.02,0,,,0,9.995,37m+,0.15340643,0
+UK00561,2020-12-03 00:00:00.000000,West Midlands,Premium,1-Year,39.99,56,Bank Transfer,1,35.1,1,2,3,7,Online,18-24,M,No,Yes,0.42,0,,,0,39.99,37m+,0.2786668,0
+UK00562,2025-04-21 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,8,Credit Card,2,3.7,0,0,0,3,Online,45-54,F,Yes,Yes,0.79,1,2025-12-13 00:00:00.000000,Price too high,0,4.995,7-12m,0.83666015,1
+UK00563,2023-05-07 00:00:00.000000,South West,Premium,Month-to-Month,39.99,29,Direct Debit,3,27.5,3,0,0,6,Online,55-64,F,No,No,0.29,1,2024-03-24 00:00:00.000000,Moved abroad,0,13.33,25-36m,0.29064363,0
+UK00564,2020-05-18 00:00:00.000000,South East,Standard,Month-to-Month,19.99,71,Direct Debit,2,11.2,0,0,0,6,Online,35-44,M,No,No,0.21,0,,,0,9.995,37m+,0.1994724,0
+UK00565,2021-03-02 00:00:00.000000,London,Enterprise,1-Year,79.99,50,Credit Card,4,80.3,1,0,0,9,Referral,65+,F,No,No,0.02,0,,,0,19.9975,37m+,0.0157955,0
+UK00566,2022-07-29 00:00:00.000000,East of England,Standard,1-Year,19.99,44,Credit Card,4,5.8,3,2,1,8,Online,45-54,F,No,No,0.26,0,,,0,4.9975,37m+,0.1564157,0
+UK00567,2021-09-17 00:00:00.000000,Yorkshire,Standard,2-Year,19.99,21,PayPal,2,14.4,0,0,1,7,Online,45-54,M,No,No,0.08,0,,,0,9.995,13-24m,0.17446113,0
+UK00568,2020-07-03 00:00:00.000000,East Midlands,Basic,Month-to-Month,9.99,2,Direct Debit,3,2.8,3,1,0,7,In-Store,65+,F,Yes,No,0.84,1,2026-01-28 00:00:00.000000,Poor service quality,0,3.33,0-6m,0.88738364,1
+UK00569,2023-12-28 00:00:00.000000,South East,Standard,Month-to-Month,19.99,9,Credit Card,3,17.5,0,0,0,5,Online,18-24,F,No,No,0.35,1,2025-10-21 00:00:00.000000,Price too high,0,6.663333333333333,7-12m,0.4892638,0
+UK00570,2020-12-03 00:00:00.000000,South East,Premium,Month-to-Month,39.99,33,Credit Card,3,85.5,1,0,0,9,In-Store,35-44,M,No,No,0.09,0,,,0,13.33,25-36m,0.038991567,0
+UK00571,2021-08-19 00:00:00.000000,London,Premium,2-Year,39.99,55,Bank Transfer,3,62.4,2,0,3,3,Phone,25-34,M,Yes,Yes,0.3,1,2022-11-23 00:00:00.000000,Moved abroad,0,13.33,37m+,0.4643813,0
+UK00572,2020-06-01 00:00:00.000000,East of England,Standard,2-Year,19.99,66,Credit Card,2,8.5,1,0,0,8,Partner,18-24,M,Yes,No,0.02,0,,,0,9.995,37m+,0.112248756,0
+UK00573,2021-09-03 00:00:00.000000,North East,Basic,1-Year,9.99,7,PayPal,5,2.7,1,0,1,8,Partner,25-34,M,Yes,Yes,0.34,0,,,0,1.998,7-12m,0.29284784,0
+UK00574,2022-08-29 00:00:00.000000,North West,Enterprise,Month-to-Month,79.99,11,Credit Card,3,163.2,2,0,0,7,Referral,65+,F,Yes,No,0.31,0,,,0,26.66333333333333,7-12m,0.11042983,0
+UK00575,2021-04-27 00:00:00.000000,East Midlands,Premium,Month-to-Month,39.99,37,PayPal,4,19.0,1,3,0,3,Online,25-34,M,No,Yes,0.55,1,2023-05-18 00:00:00.000000,Moved abroad,1,9.9975,37m+,0.67184323,1
+UK00576,2023-06-08 00:00:00.000000,London,Basic,Month-to-Month,9.99,10,Credit Card,4,1.1,4,0,0,9,Online,35-44,F,No,Yes,0.55,0,,,0,2.4975,7-12m,0.29333255,0
+UK00577,2022-05-05 00:00:00.000000,West Midlands,Basic,2-Year,9.99,46,PayPal,4,2.2,2,0,1,10,Partner,65+,M,Yes,No,0.06,0,,,0,2.4975,37m+,0.042371407,0
+UK00578,2023-03-20 00:00:00.000000,South East,Standard,1-Year,19.99,23,PayPal,1,2.7,0,0,0,8,Phone,55-64,M,No,No,0.12,0,,,0,19.99,13-24m,0.16403742,0
+UK00579,2021-07-26 00:00:00.000000,London,Basic,Month-to-Month,9.99,27,PayPal,5,2.6,1,0,0,5,Online,55-64,Prefer not to say,Yes,Yes,0.43,0,,,0,1.998,25-36m,0.17395446,0
+UK00580,2020-04-25 00:00:00.000000,London,Basic,2-Year,9.99,66,Direct Debit,1,4.7,4,0,1,0,Referral,35-44,M,No,No,0.54,1,2025-06-18 00:00:00.000000,Competitor offer,0,9.99,37m+,0.9258104,1
+UK00581,2024-10-25 00:00:00.000000,West Midlands,Enterprise,Month-to-Month,79.99,16,Credit Card,3,42.9,0,0,0,7,Referral,45-54,M,No,No,0.11,0,,,0,26.66333333333333,13-24m,0.1649261,0
+UK00582,2022-02-03 00:00:00.000000,West Midlands,Premium,1-Year,39.99,10,Credit Card,1,0.1,1,2,1,6,Phone,55-64,F,Yes,Yes,0.6,1,2025-12-06 00:00:00.000000,Payment issues,0,39.99,7-12m,0.75409734,1
+UK00583,2020-08-11 00:00:00.000000,London,Basic,Month-to-Month,9.99,61,Credit Card,4,5.8,0,0,1,9,Online,35-44,M,Yes,Yes,0.15,0,,,0,2.4975,37m+,0.18150665,0
+UK00584,2023-01-12 00:00:00.000000,North West,Basic,1-Year,9.99,31,Direct Debit,2,2.1,3,1,1,7,Phone,45-54,F,No,Yes,0.56,1,2026-02-24 00:00:00.000000,Payment issues,0,4.995,25-36m,0.86150086,1
+UK00585,2020-06-28 00:00:00.000000,North West,Premium,Month-to-Month,39.99,58,PayPal,1,32.0,0,2,0,8,In-Store,55-64,F,No,Yes,0.23,1,2022-12-18 00:00:00.000000,Competitor offer,0,39.99,37m+,0.5400232,1
+UK00586,2021-10-09 00:00:00.000000,East of England,Premium,1-Year,39.99,8,Bank Transfer,3,63.5,1,1,0,6,Online,45-54,M,Yes,No,0.26,0,,,0,13.33,7-12m,0.13840184,0
+UK00587,2020-06-11 00:00:00.000000,North East,Basic,Month-to-Month,9.99,69,Credit Card,5,3.3,2,0,0,8,Phone,55-64,F,Yes,Yes,0.27,0,,,0,1.998,37m+,0.17454928,0
+UK00588,2022-08-18 00:00:00.000000,London,Standard,2-Year,19.99,21,Credit Card,2,11.6,0,0,0,6,Phone,65+,M,Yes,Yes,0.02,0,,,0,9.995,13-24m,0.12049636,0
+UK00589,2021-10-28 00:00:00.000000,London,Premium,Month-to-Month,39.99,37,PayPal,2,28.6,0,1,1,5,Online,35-44,F,No,Yes,0.29,1,2024-01-14 00:00:00.000000,Price too high,0,19.995,37m+,0.4877291,0
+UK00590,2022-02-24 00:00:00.000000,North West,Standard,2-Year,19.99,40,Direct Debit,1,16.2,1,0,0,7,Online,35-44,M,No,No,0.02,0,,,0,19.99,37m+,0.023804,0
+UK00591,2020-06-13 00:00:00.000000,Yorkshire,Enterprise,Month-to-Month,79.99,32,Credit Card,4,44.7,4,1,0,10,Online,35-44,F,No,No,0.23,1,2025-05-13 00:00:00.000000,Unknown,0,19.9975,25-36m,0.6770132,1
+UK00592,2020-08-21 00:00:00.000000,London,Basic,1-Year,9.99,63,Credit Card,4,3.6,2,0,1,2,In-Store,35-44,F,Yes,Yes,0.52,1,2024-03-21 00:00:00.000000,Competitor offer,0,2.4975,37m+,0.3745034,0
+UK00593,2023-06-04 00:00:00.000000,South East,Premium,2-Year,39.99,27,PayPal,5,19.9,1,2,0,9,Partner,18-24,M,Yes,No,0.02,0,,,0,7.998,25-36m,0.025575314,0
+UK00594,2024-10-24 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,16,Direct Debit,1,3.4,0,0,0,7,Online,55-64,M,Yes,No,0.45,1,2025-04-28 00:00:00.000000,No longer needed,0,9.99,13-24m,0.70278233,1
+UK00595,2021-10-07 00:00:00.000000,South East,Premium,1-Year,39.99,42,Direct Debit,2,18.1,0,0,0,6,In-Store,25-34,M,Yes,Yes,0.02,0,,,0,19.995,37m+,0.04081887,0
+UK00596,2021-08-06 00:00:00.000000,London,Premium,Month-to-Month,39.99,54,Credit Card,1,21.6,1,0,0,7,Online,35-44,M,No,Yes,0.19,0,,,0,39.99,37m+,0.113772765,0
+UK00597,2021-06-12 00:00:00.000000,London,Basic,2-Year,9.99,37,Credit Card,5,4.8,2,0,1,9,Online,45-54,M,No,Yes,0.06,0,,,0,1.998,37m+,0.0698999,0
+UK00598,2022-01-14 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,50,Direct Debit,5,8.9,2,3,1,9,In-Store,25-34,F,Yes,Yes,0.37,0,,,0,3.9979999999999998,37m+,0.23292491,0
+UK00599,2020-06-23 00:00:00.000000,London,Standard,2-Year,19.99,61,Credit Card,1,7.0,0,1,0,6,Online,55-64,F,No,No,0.02,0,,,0,19.99,37m+,0.10405316,0
+UK00600,2023-01-22 00:00:00.000000,London,Standard,2-Year,19.99,28,Direct Debit,3,12.9,2,1,0,10,Online,25-34,F,No,Yes,0.02,0,,,0,6.663333333333333,25-36m,0.03229678,0
+UK00601,2020-05-04 00:00:00.000000,North West,Standard,1-Year,19.99,45,Credit Card,5,2.2,3,2,0,4,Online,25-34,F,No,Yes,0.42,0,,,0,3.9979999999999998,37m+,0.05982467,0
+UK00602,2023-02-24 00:00:00.000000,Yorkshire,Enterprise,1-Year,79.99,2,Credit Card,3,219.2,2,0,3,1,Online,45-54,M,No,No,0.69,1,2026-02-22 00:00:00.000000,No longer needed,0,26.66333333333333,0-6m,0.88101685,1
+UK00603,2020-12-24 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,14,Credit Card,2,21.9,2,0,1,0,Phone,18-24,M,No,Yes,0.65,0,,,0,9.995,13-24m,0.26604995,0
+UK00604,2022-03-05 00:00:00.000000,South East,Premium,2-Year,39.99,41,Direct Debit,5,66.2,2,0,0,4,Referral,45-54,M,Yes,No,0.02,0,,,0,7.998,37m+,0.01277942,0
+UK00605,2020-10-17 00:00:00.000000,South East,Standard,1-Year,19.99,26,Direct Debit,1,0.8,1,0,0,6,In-Store,25-34,M,Yes,Yes,0.28,0,,,0,19.99,25-36m,0.08313247,0
+UK00606,2022-01-14 00:00:00.000000,London,Standard,2-Year,19.99,22,PayPal,3,14.4,1,2,2,4,Phone,55-64,M,Yes,No,0.32,1,2025-03-22 00:00:00.000000,Price too high,0,6.663333333333333,13-24m,0.7055006,1
+UK00607,2023-07-23 00:00:00.000000,South East,Basic,2-Year,9.99,29,Credit Card,2,2.8,0,0,0,5,Referral,35-44,F,Yes,Yes,0.18,0,,,0,4.995,25-36m,0.16324383,0
+UK00608,2021-10-26 00:00:00.000000,London,Standard,2-Year,19.99,27,Credit Card,3,18.9,0,1,0,7,Referral,25-34,M,Yes,Yes,0.04,0,,,0,6.663333333333333,25-36m,0.032874428,0
+UK00609,2020-04-28 00:00:00.000000,North West,Standard,1-Year,19.99,60,Credit Card,4,16.5,2,2,0,6,In-Store,35-44,F,Yes,No,0.28,0,,,0,4.9975,37m+,0.053289924,0
+UK00610,2023-01-16 00:00:00.000000,London,Standard,Month-to-Month,19.99,3,Credit Card,5,15.5,1,0,0,8,Online,35-44,F,No,Yes,0.4,0,,,0,3.9979999999999998,0-6m,0.28485027,0
+UK00611,2020-09-23 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,65,Bank Transfer,3,0.1,4,0,0,7,Partner,25-34,Prefer not to say,Yes,Yes,0.35,0,,,0,13.33,37m+,0.17409459,0
+UK00612,2021-02-20 00:00:00.000000,London,Premium,Month-to-Month,39.99,12,Credit Card,3,41.1,1,0,0,9,Online,25-34,M,Yes,No,0.09,0,,,0,13.33,7-12m,0.38474983,0
+UK00613,2021-08-11 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,48,Direct Debit,1,4.9,1,1,0,4,Referral,18-24,M,Yes,No,0.49,0,,,0,9.99,37m+,0.43782645,0
+UK00614,2020-08-15 00:00:00.000000,South West,Premium,1-Year,39.99,55,PayPal,3,27.6,1,1,0,7,Online,25-34,M,Yes,No,0.06,0,,,0,13.33,37m+,0.08980051,0
+UK00615,2023-01-03 00:00:00.000000,London,Standard,Month-to-Month,19.99,25,Credit Card,1,10.7,1,1,0,6,Partner,35-44,M,Yes,No,0.41,0,,,0,19.99,25-36m,0.15550919,0
+UK00616,2020-05-05 00:00:00.000000,West Midlands,Standard,2-Year,19.99,52,Direct Debit,3,17.8,0,0,0,0,Partner,35-44,F,No,No,0.1,0,,,0,6.663333333333333,37m+,0.039692484,0
+UK00617,2021-05-17 00:00:00.000000,East Midlands,Standard,1-Year,19.99,58,Credit Card,3,14.7,3,3,0,9,Phone,25-34,M,No,Yes,0.2,0,,,0,6.663333333333333,37m+,0.06570492,0
+UK00618,2021-02-24 00:00:00.000000,North East,Standard,Month-to-Month,19.99,56,Direct Debit,1,17.7,3,0,0,5,Online,35-44,M,Yes,No,0.33,1,2023-08-17 00:00:00.000000,Poor service quality,0,19.99,37m+,0.44008425,0
+UK00619,2021-02-14 00:00:00.000000,South East,Standard,1-Year,19.99,5,Direct Debit,1,9.0,1,0,0,6,In-Store,25-34,Prefer not to say,Yes,No,0.43,1,2026-01-16 00:00:00.000000,Poor service quality,0,19.99,0-6m,0.6640488,1
+UK00620,2022-07-23 00:00:00.000000,Wales,Basic,Month-to-Month,9.99,13,Credit Card,1,2.8,1,0,0,10,Partner,25-34,F,Yes,No,0.37,0,,,0,9.99,13-24m,0.1934171,0
+UK00621,2021-01-30 00:00:00.000000,Yorkshire,Premium,1-Year,39.99,39,Direct Debit,2,56.4,2,0,0,7,Referral,25-34,F,No,Yes,0.08,0,,,0,19.995,37m+,0.06313988,0
+UK00622,2023-11-18 00:00:00.000000,North West,Basic,2-Year,9.99,3,Credit Card,3,6.4,0,0,3,8,Online,45-54,M,No,No,0.33,0,,,0,3.33,0-6m,0.20927162,0
+UK00623,2020-11-25 00:00:00.000000,South East,Standard,1-Year,19.99,50,Direct Debit,3,2.4,1,0,0,7,Online,35-44,M,Yes,No,0.14,0,,,0,6.663333333333333,37m+,0.10140125,0
+UK00624,2020-07-07 00:00:00.000000,London,Standard,Month-to-Month,19.99,68,Credit Card,3,14.3,1,0,0,5,Online,35-44,Prefer not to say,Yes,No,0.19,0,,,0,6.663333333333333,37m+,0.11067736,0
+UK00625,2020-05-14 00:00:00.000000,South East,Standard,Month-to-Month,19.99,69,PayPal,1,8.6,0,0,3,8,Partner,65+,F,No,Yes,0.27,0,,,0,19.99,37m+,0.10679369,0
+UK00626,2021-06-11 00:00:00.000000,South East,Standard,1-Year,19.99,47,Direct Debit,3,10.4,1,0,0,8,In-Store,55-64,M,Yes,No,0.02,0,,,0,6.663333333333333,37m+,0.06467933,0
+UK00627,2021-03-06 00:00:00.000000,South East,Standard,1-Year,19.99,60,Credit Card,1,4.8,1,1,3,8,Phone,35-44,M,No,Yes,0.34,1,2022-09-12 00:00:00.000000,Price too high,0,19.99,37m+,0.18762958,0
+UK00628,2020-10-06 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,48,Direct Debit,4,16.6,1,1,1,8,Phone,25-34,F,Yes,No,0.21,1,2022-08-24 00:00:00.000000,Payment issues,0,4.9975,37m+,0.6091169,1
+UK00629,2022-03-03 00:00:00.000000,North West,Basic,1-Year,9.99,32,PayPal,2,4.6,3,3,0,7,Partner,25-34,F,Yes,Yes,0.62,0,,,0,4.995,25-36m,0.3807516,0
+UK00630,2020-09-08 00:00:00.000000,North West,Premium,2-Year,39.99,67,Credit Card,1,64.7,3,2,1,9,Referral,45-54,F,Yes,No,0.14,0,,,0,39.99,37m+,0.16895068,0
+UK00631,2020-08-29 00:00:00.000000,South East,Premium,2-Year,39.99,51,Credit Card,1,31.0,1,1,0,8,Referral,45-54,F,Yes,Yes,0.02,0,,,0,39.99,37m+,0.09754006,0
+UK00632,2023-01-25 00:00:00.000000,London,Premium,2-Year,39.99,32,PayPal,1,25.8,1,1,0,4,Referral,35-44,F,No,No,0.08,0,,,0,39.99,25-36m,0.1372853,0
+UK00633,2023-06-30 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,18,Direct Debit,2,8.7,3,0,0,5,In-Store,35-44,M,Yes,Yes,0.41,0,,,0,9.995,13-24m,0.32892492,0
+UK00634,2023-03-01 00:00:00.000000,South East,Premium,Month-to-Month,39.99,30,Direct Debit,3,78.5,0,0,0,4,Partner,35-44,F,Yes,No,0.17,0,,,0,13.33,25-36m,0.061203826,0
+UK00635,2020-05-10 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,67,Credit Card,4,6.2,2,2,0,9,Online,25-34,M,Yes,Yes,0.31,0,,,0,4.9975,37m+,0.2253865,0
+UK00636,2020-09-05 00:00:00.000000,North East,Standard,2-Year,19.99,2,Credit Card,5,12.6,3,1,0,9,Online,35-44,M,Yes,Yes,0.29,0,,,0,3.9979999999999998,0-6m,0.24663231,0
+UK00637,2021-11-13 00:00:00.000000,South East,Standard,1-Year,19.99,24,Credit Card,2,16.7,0,1,0,8,Online,55-64,M,Yes,No,0.1,1,2024-11-22 00:00:00.000000,Price too high,0,9.995,13-24m,0.3475214,0
+UK00638,2022-10-16 00:00:00.000000,North West,Premium,1-Year,39.99,13,Credit Card,3,42.7,3,0,0,9,Online,35-44,M,No,No,0.02,0,,,0,13.33,13-24m,0.02240407,0
+UK00639,2022-08-05 00:00:00.000000,South West,Standard,1-Year,19.99,15,Direct Debit,2,16.6,2,0,1,7,In-Store,25-34,F,No,No,0.28,1,2025-09-27 00:00:00.000000,Price too high,0,9.995,13-24m,0.47931847,0
+UK00640,2021-08-18 00:00:00.000000,Yorkshire,Basic,1-Year,9.99,40,Direct Debit,2,2.9,1,0,3,3,Online,45-54,F,Yes,No,0.66,1,2025-12-17 00:00:00.000000,Moved abroad,0,4.995,37m+,0.84312296,1
+UK00641,2021-03-06 00:00:00.000000,London,Basic,Month-to-Month,9.99,30,Credit Card,3,3.9,2,0,0,7,Online,35-44,M,Yes,Yes,0.47,1,2025-03-17 00:00:00.000000,Unknown,0,3.33,25-36m,0.33818826,0
+UK00642,2022-01-29 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,35,Direct Debit,3,38.2,1,0,1,5,In-Store,35-44,M,No,Yes,0.27,0,,,0,13.33,25-36m,0.09451852,0
+UK00643,2020-11-05 00:00:00.000000,East of England,Standard,2-Year,19.99,59,Credit Card,2,8.3,0,1,0,0,Phone,25-34,M,No,No,0.24,1,2022-09-28 00:00:00.000000,Price too high,1,9.995,37m+,0.88783765,1
+UK00644,2020-09-14 00:00:00.000000,Scotland,Premium,2-Year,39.99,61,Bank Transfer,4,59.2,2,2,0,10,Phone,18-24,M,No,No,0.02,0,,,0,9.9975,37m+,0.021567026,0
+UK00645,2021-02-11 00:00:00.000000,South East,Standard,Month-to-Month,19.99,61,Credit Card,3,17.6,5,1,1,8,Online,25-34,F,No,No,0.37,0,,,0,6.663333333333333,37m+,0.4479508,0
+UK00646,2020-12-13 00:00:00.000000,East of England,Basic,2-Year,9.99,41,Direct Debit,4,1.6,2,0,0,6,Online,45-54,F,No,Yes,0.12,0,,,0,2.4975,37m+,0.020153604,0
+UK00647,2021-01-07 00:00:00.000000,North West,Standard,2-Year,19.99,63,PayPal,1,10.6,4,0,0,9,Online,35-44,M,No,Yes,0.02,0,,,0,19.99,37m+,0.0434618,0
+UK00648,2021-05-19 00:00:00.000000,Wales,Standard,1-Year,19.99,15,PayPal,1,12.6,1,0,0,9,Referral,35-44,M,No,Yes,0.06,0,,,0,19.99,13-24m,0.023868961,0
+UK00649,2020-05-02 00:00:00.000000,East Midlands,Basic,1-Year,9.99,44,Credit Card,4,1.9,3,0,0,9,In-Store,25-34,M,No,No,0.16,0,,,0,2.4975,37m+,0.05874089,0
+UK00650,2020-10-26 00:00:00.000000,South West,Basic,2-Year,9.99,46,Credit Card,5,2.0,0,1,0,8,In-Store,65+,M,Yes,No,0.02,0,,,0,1.998,37m+,0.095103376,0
+UK00651,2021-01-30 00:00:00.000000,South East,Standard,1-Year,19.99,30,PayPal,2,13.1,1,0,2,4,Partner,25-34,Prefer not to say,Yes,No,0.3,0,,,0,9.995,25-36m,0.19087791,0
+UK00652,2021-04-17 00:00:00.000000,London,Premium,Month-to-Month,39.99,7,Direct Debit,2,65.6,2,0,0,6,Phone,35-44,M,Yes,Yes,0.43,0,,,0,19.995,7-12m,0.20819499,0
+UK00653,2020-05-01 00:00:00.000000,South East,Premium,Month-to-Month,39.99,41,Credit Card,1,64.0,3,0,0,4,In-Store,65+,M,No,No,0.27,0,,,0,39.99,37m+,0.119133346,0
+UK00654,2022-05-11 00:00:00.000000,South West,Standard,Month-to-Month,19.99,39,Direct Debit,4,16.3,3,0,2,8,Online,25-34,M,Yes,Yes,0.27,0,,,0,4.9975,37m+,0.2090521,0
+UK00655,2025-09-21 00:00:00.000000,North West,Basic,Month-to-Month,9.99,5,Credit Card,3,4.6,1,0,0,9,Referral,45-54,M,Yes,Yes,0.56,1,2025-12-16 00:00:00.000000,Poor service quality,0,3.33,0-6m,0.7176177,1
+UK00656,2021-02-13 00:00:00.000000,North East,Standard,1-Year,19.99,34,Bank Transfer,1,24.4,1,2,0,0,Online,35-44,F,Yes,Yes,0.6,1,2024-05-30 00:00:00.000000,Payment issues,1,19.99,25-36m,0.68855864,1
+UK00657,2022-01-21 00:00:00.000000,Wales,Basic,2-Year,9.99,15,Direct Debit,4,1.3,3,0,0,7,Referral,25-34,M,No,Yes,0.24,0,,,0,2.4975,13-24m,0.07791553,0
+UK00658,2022-07-30 00:00:00.000000,South West,Premium,Month-to-Month,39.99,26,Credit Card,2,25.6,0,0,0,7,Phone,25-34,M,No,No,0.23,0,,,0,19.995,25-36m,0.0928937,0
+UK00659,2020-07-31 00:00:00.000000,East Midlands,Standard,1-Year,19.99,67,Direct Debit,2,11.0,1,0,0,9,Referral,65+,M,Yes,Yes,0.02,0,,,0,9.995,37m+,0.09624706,0
+UK00660,2020-09-05 00:00:00.000000,Yorkshire,Standard,2-Year,19.99,62,Direct Debit,5,0.3,1,3,0,4,Online,25-34,F,No,No,0.22,0,,,0,3.9979999999999998,37m+,0.044819407,0
+UK00661,2020-05-07 00:00:00.000000,South East,Basic,2-Year,9.99,63,Bank Transfer,1,4.3,2,0,0,7,Online,25-34,M,Yes,Yes,0.18,0,,,0,9.99,37m+,0.10880226,0
+UK00662,2022-08-11 00:00:00.000000,North East,Basic,1-Year,9.99,40,Bank Transfer,1,3.6,5,3,0,7,Partner,25-34,F,Yes,Yes,0.62,1,2024-12-03 00:00:00.000000,Competitor offer,0,9.99,37m+,0.6055086,1
+UK00663,2020-07-20 00:00:00.000000,Yorkshire,Premium,1-Year,39.99,68,Credit Card,3,51.6,1,1,3,9,Phone,45-54,F,Yes,No,0.12,0,,,0,13.33,37m+,0.4307042,0
+UK00664,2021-02-25 00:00:00.000000,Scotland,Basic,Month-to-Month,9.99,52,Credit Card,4,3.8,3,0,0,10,Online,35-44,M,Yes,Yes,0.31,0,,,0,2.4975,37m+,0.14781535,0
+UK00665,2022-04-11 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,21,Credit Card,2,2.0,1,0,0,9,Partner,25-34,F,Yes,Yes,0.1,0,,,0,4.995,13-24m,0.1895364,0
+UK00666,2020-12-17 00:00:00.000000,South East,Basic,Month-to-Month,9.99,42,Direct Debit,3,2.4,1,1,0,3,Online,25-34,F,No,Yes,0.65,1,2024-09-09 00:00:00.000000,Payment issues,1,3.33,37m+,0.8657396,1
+UK00667,2023-03-30 00:00:00.000000,London,Enterprise,Month-to-Month,79.99,33,Credit Card,5,70.4,0,1,1,7,Partner,45-54,F,No,Yes,0.25,0,,,0,15.998,25-36m,0.11666621,0
+UK00668,2021-03-17 00:00:00.000000,South West,Premium,Month-to-Month,39.99,56,Direct Debit,3,46.5,3,1,2,8,In-Store,55-64,Prefer not to say,Yes,Yes,0.29,1,2026-02-22 00:00:00.000000,Competitor offer,0,13.33,37m+,0.5539152,1
+UK00669,2020-11-05 00:00:00.000000,South East,Standard,1-Year,19.99,56,Credit Card,4,0.1,1,1,0,3,Online,55-64,F,Yes,Yes,0.44,1,2025-11-28 00:00:00.000000,Price too high,1,4.9975,37m+,0.5131039,1
+UK00670,2021-10-11 00:00:00.000000,West Midlands,Standard,2-Year,19.99,54,Credit Card,1,10.4,1,1,1,8,Online,55-64,F,No,Yes,0.02,0,,,0,19.99,37m+,0.07739295,0
+UK00671,2021-01-03 00:00:00.000000,East Midlands,Basic,Month-to-Month,9.99,43,Credit Card,1,3.6,2,1,0,10,Referral,35-44,F,No,Yes,0.41,1,2025-10-05 00:00:00.000000,Competitor offer,0,9.99,37m+,0.40265608,0
+UK00672,2021-08-03 00:00:00.000000,East of England,Premium,2-Year,39.99,23,Credit Card,3,26.2,1,0,1,9,Online,55-64,M,No,No,0.02,0,,,0,13.33,13-24m,0.028755056,0
+UK00673,2020-05-26 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,26,Credit Card,3,14.0,1,0,0,8,Phone,55-64,F,No,Yes,0.15,0,,,0,6.663333333333333,25-36m,0.122991055,0
+UK00674,2022-04-18 00:00:00.000000,London,Premium,1-Year,39.99,12,Credit Card,4,56.5,3,0,0,10,Partner,25-34,Prefer not to say,No,Yes,0.02,0,,,0,9.9975,7-12m,0.038673326,0
+UK00675,2022-10-12 00:00:00.000000,South West,Basic,1-Year,9.99,32,Direct Debit,3,3.6,0,0,0,8,Online,18-24,M,Yes,No,0.12,0,,,0,3.33,25-36m,0.06839934,0
+UK00676,2022-06-25 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,25,Direct Debit,5,24.0,1,0,2,9,Phone,65+,F,No,No,0.27,0,,,0,3.9979999999999998,25-36m,0.32842037,0
+UK00677,2020-07-31 00:00:00.000000,Scotland,Enterprise,1-Year,79.99,41,Bank Transfer,2,142.3,1,1,0,2,Referral,35-44,F,No,Yes,0.28,0,,,1,39.995,37m+,0.5258706,1
+UK00678,2020-05-09 00:00:00.000000,West Midlands,Standard,2-Year,19.99,71,Direct Debit,3,4.4,1,0,0,5,Online,65+,M,No,Yes,0.02,0,,,0,6.663333333333333,37m+,0.047658592,0
+UK00679,2024-04-05 00:00:00.000000,West Midlands,Standard,1-Year,19.99,9,PayPal,3,10.4,1,2,1,2,Online,35-44,F,No,No,0.72,1,2026-03-14 00:00:00.000000,Unknown,1,6.663333333333333,7-12m,0.85489696,1
+UK00680,2020-07-05 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,41,Direct Debit,1,1.3,2,0,0,10,In-Store,45-54,F,Yes,Yes,0.06,0,,,0,9.99,37m+,0.12783803,0
+UK00681,2021-02-01 00:00:00.000000,Scotland,Basic,Month-to-Month,9.99,16,PayPal,4,1.1,1,2,0,2,Online,25-34,M,No,No,0.85,1,2025-03-03 00:00:00.000000,Poor service quality,1,2.4975,13-24m,0.84482324,1
+UK00682,2023-06-08 00:00:00.000000,South East,Basic,Month-to-Month,9.99,11,Credit Card,5,4.3,0,2,0,9,Online,25-34,Prefer not to say,Yes,Yes,0.59,1,2025-10-01 00:00:00.000000,Price too high,0,1.998,7-12m,0.75154907,1
+UK00683,2021-03-06 00:00:00.000000,Yorkshire,Enterprise,2-Year,79.99,9,Direct Debit,5,194.6,1,0,3,4,Phone,55-64,F,Yes,Yes,0.18,0,,,0,15.998,7-12m,0.10908909,0
+UK00684,2020-06-07 00:00:00.000000,East Midlands,Standard,2-Year,19.99,69,Direct Debit,1,17.2,3,0,0,9,Phone,25-34,M,Yes,Yes,0.02,0,,,0,19.99,37m+,0.06524585,0
+UK00685,2020-05-09 00:00:00.000000,Scotland,Enterprise,2-Year,79.99,71,Credit Card,1,216.2,2,0,0,9,In-Store,35-44,F,No,Yes,0.02,0,,,0,79.99,37m+,0.018869003,0
+UK00686,2020-06-04 00:00:00.000000,East Midlands,Basic,1-Year,9.99,68,Credit Card,5,6.0,1,0,0,8,Referral,25-34,F,No,No,0.02,0,,,0,1.998,37m+,0.058966897,0
+UK00687,2022-08-23 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,42,Credit Card,3,11.2,1,1,0,8,Partner,25-34,F,Yes,No,0.02,0,,,0,6.663333333333333,37m+,0.1480007,0
+UK00688,2022-05-20 00:00:00.000000,London,Standard,Month-to-Month,19.99,39,Direct Debit,5,10.2,0,1,1,6,Referral,35-44,F,Yes,Yes,0.29,1,2024-01-24 00:00:00.000000,Payment issues,0,3.9979999999999998,37m+,0.5403498,1
+UK00689,2020-05-03 00:00:00.000000,London,Premium,1-Year,39.99,27,Bank Transfer,5,26.0,0,2,0,8,Phone,55-64,M,Yes,No,0.1,0,,,0,7.998,25-36m,0.08013152,0
+UK00690,2023-07-06 00:00:00.000000,South West,Standard,Month-to-Month,19.99,6,Direct Debit,5,0.1,2,2,0,8,Partner,25-34,Prefer not to say,No,No,0.61,0,,,0,3.9979999999999998,0-6m,0.20391957,0
+UK00691,2021-01-12 00:00:00.000000,North West,Standard,2-Year,19.99,36,Direct Debit,4,21.9,0,0,0,4,Online,45-54,M,No,Yes,0.02,0,,,0,4.9975,25-36m,0.02142831,0
+UK00692,2021-10-11 00:00:00.000000,Scotland,Standard,2-Year,19.99,33,Credit Card,4,14.7,0,0,1,8,Online,55-64,F,Yes,No,0.02,0,,,0,4.9975,25-36m,0.022444123,0
+UK00693,2020-12-04 00:00:00.000000,London,Standard,Month-to-Month,19.99,62,Direct Debit,4,12.4,0,1,1,5,In-Store,45-54,F,Yes,Yes,0.29,0,,,0,4.9975,37m+,0.24841142,0
+UK00694,2022-07-04 00:00:00.000000,London,Basic,Month-to-Month,9.99,20,Credit Card,2,5.1,1,0,0,10,Partner,35-44,M,Yes,No,0.27,0,,,0,4.995,13-24m,0.30211547,0
+UK00695,2022-08-11 00:00:00.000000,North East,Standard,2-Year,19.99,9,Direct Debit,3,20.5,1,0,2,8,Online,45-54,F,No,No,0.12,1,2025-08-19 00:00:00.000000,No longer needed,0,6.663333333333333,7-12m,0.6432588,1
+UK00696,2023-05-16 00:00:00.000000,London,Basic,2-Year,9.99,8,Credit Card,1,3.8,3,1,0,9,Phone,55-64,F,No,No,0.38,0,,,0,9.99,7-12m,0.7049105,1
+UK00697,2022-05-01 00:00:00.000000,North East,Standard,1-Year,19.99,31,Credit Card,3,17.3,5,0,0,8,Online,45-54,Prefer not to say,No,No,0.16,0,,,0,6.663333333333333,25-36m,0.083550915,0
+UK00698,2022-01-25 00:00:00.000000,London,Standard,Month-to-Month,19.99,39,Credit Card,5,8.1,3,3,0,7,Partner,35-44,M,No,No,0.47,0,,,0,3.9979999999999998,37m+,0.12325965,0
+UK00699,2021-05-01 00:00:00.000000,South East,Standard,Month-to-Month,19.99,52,Bank Transfer,2,18.2,0,0,0,7,In-Store,45-54,M,No,Yes,0.21,0,,,0,9.995,37m+,0.12532267,0
+UK00700,2020-07-13 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,58,Direct Debit,5,5.7,1,0,0,9,Partner,35-44,Prefer not to say,Yes,Yes,0.07,0,,,0,3.9979999999999998,37m+,0.12180326,0
+UK00701,2023-01-15 00:00:00.000000,South East,Premium,1-Year,39.99,20,Credit Card,2,42.2,0,0,0,8,Partner,45-54,F,Yes,Yes,0.02,0,,,0,19.995,13-24m,0.051840845,0
+UK00702,2025-01-09 00:00:00.000000,London,Basic,Month-to-Month,9.99,7,Credit Card,3,0.5,0,0,0,2,Phone,25-34,F,No,No,0.73,1,2025-10-09 00:00:00.000000,Poor service quality,0,3.33,7-12m,0.91949743,1
+UK00703,2021-09-16 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,20,Bank Transfer,5,2.6,1,0,0,3,Phone,25-34,M,Yes,Yes,0.65,0,,,0,1.998,13-24m,0.15404004,0
+UK00704,2020-07-14 00:00:00.000000,North West,Standard,1-Year,19.99,3,Bank Transfer,3,7.4,4,0,0,10,Partner,35-44,F,Yes,No,0.37,1,2026-01-10 00:00:00.000000,Competitor offer,0,6.663333333333333,0-6m,0.64153033,1
+UK00705,2023-09-10 00:00:00.000000,North East,Premium,2-Year,39.99,15,Bank Transfer,2,53.9,5,0,0,9,In-Store,45-54,F,Yes,No,0.04,0,,,0,19.995,13-24m,0.02835765,0
+UK00706,2020-07-11 00:00:00.000000,South East,Basic,2-Year,9.99,67,Credit Card,3,2.8,4,0,0,0,Partner,35-44,M,No,Yes,0.42,1,2020-11-24 00:00:00.000000,Price too high,0,3.33,37m+,0.6075647,1
+UK00707,2025-01-26 00:00:00.000000,East Midlands,Enterprise,Month-to-Month,79.99,3,Direct Debit,4,102.2,1,0,0,4,Online,65+,F,Yes,No,0.4,1,2026-01-03 00:00:00.000000,Payment issues,0,19.9975,0-6m,0.71931297,1
+UK00708,2020-07-09 00:00:00.000000,London,Enterprise,2-Year,79.99,41,Credit Card,1,68.7,3,1,0,10,Online,45-54,M,Yes,Yes,0.02,1,2022-12-07 00:00:00.000000,No longer needed,0,79.99,37m+,0.28947973,0
+UK00709,2021-02-02 00:00:00.000000,North East,Standard,Month-to-Month,19.99,10,Credit Card,4,10.4,2,0,0,8,Phone,18-24,M,Yes,Yes,0.31,0,,,0,4.9975,7-12m,0.17212325,0
+UK00710,2023-09-15 00:00:00.000000,London,Premium,Month-to-Month,39.99,11,Direct Debit,2,40.0,1,0,3,8,In-Store,45-54,F,Yes,No,0.45,1,2025-05-01 00:00:00.000000,Price too high,0,19.995,7-12m,0.7585428,1
+UK00711,2020-05-04 00:00:00.000000,South East,Enterprise,1-Year,79.99,70,Credit Card,1,39.1,2,0,0,4,Referral,25-34,M,No,Yes,0.02,0,,,0,79.99,37m+,0.03472938,0
+UK00712,2020-06-26 00:00:00.000000,West Midlands,Premium,Month-to-Month,39.99,68,Credit Card,3,108.0,0,0,0,10,Phone,45-54,F,Yes,No,0.02,1,2024-10-24 00:00:00.000000,No longer needed,0,13.33,37m+,0.39723527,0
+UK00713,2021-05-08 00:00:00.000000,East of England,Standard,1-Year,19.99,47,Direct Debit,1,5.1,1,1,0,8,Referral,25-34,Prefer not to say,Yes,Yes,0.06,0,,,0,19.99,37m+,0.17090245,0
+UK00714,2020-07-05 00:00:00.000000,South East,Basic,2-Year,9.99,60,Direct Debit,4,5.1,1,2,0,6,Online,65+,F,No,No,0.18,0,,,0,2.4975,37m+,0.066505514,0
+UK00715,2023-05-08 00:00:00.000000,North West,Standard,Month-to-Month,19.99,2,Credit Card,2,18.7,0,2,0,9,Online,35-44,M,No,Yes,0.62,1,2026-03-02 00:00:00.000000,No longer needed,0,9.995,0-6m,0.6518869,1
+UK00716,2022-12-26 00:00:00.000000,Scotland,Standard,1-Year,19.99,21,Direct Debit,3,12.7,5,0,0,8,Online,35-44,F,Yes,No,0.16,0,,,0,6.663333333333333,13-24m,0.1132342,0
+UK00717,2022-03-30 00:00:00.000000,East Midlands,Enterprise,1-Year,79.99,44,PayPal,4,88.6,2,0,0,8,Online,65+,M,No,No,0.02,0,,,0,19.9975,37m+,0.051248442,0
+UK00718,2022-03-03 00:00:00.000000,South East,Basic,2-Year,9.99,30,Direct Debit,4,4.2,3,0,0,10,Partner,65+,F,Yes,Yes,0.12,0,,,0,2.4975,25-36m,0.04173472,0
+UK00719,2023-04-18 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,3,Credit Card,4,1.0,2,0,0,9,Online,25-34,F,Yes,No,0.6,0,,,0,2.4975,0-6m,0.2560346,0
+UK00720,2025-09-30 00:00:00.000000,South East,Basic,Month-to-Month,9.99,1,Bank Transfer,4,3.1,1,1,2,9,Phone,35-44,F,Yes,Yes,0.76,1,2026-02-23 00:00:00.000000,No longer needed,0,2.4975,0-6m,0.83173984,1
+UK00721,2022-09-04 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,37,Credit Card,1,5.1,0,0,0,6,In-Store,55-64,M,No,Yes,0.27,0,,,0,9.99,37m+,0.31481364,0
+UK00722,2020-05-28 00:00:00.000000,London,Premium,1-Year,39.99,36,Credit Card,5,50.8,1,0,0,4,Referral,35-44,M,No,No,0.06,0,,,0,7.998,25-36m,0.01850552,0
+UK00723,2020-09-06 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,51,Direct Debit,1,19.0,2,0,1,8,Partner,25-34,M,Yes,Yes,0.23,1,2024-01-21 00:00:00.000000,Unknown,0,19.99,37m+,0.14378236,0
+UK00724,2023-05-21 00:00:00.000000,North West,Standard,1-Year,19.99,9,PayPal,5,13.8,1,1,0,7,Referral,35-44,M,No,Yes,0.32,1,2025-07-09 00:00:00.000000,Price too high,0,3.9979999999999998,7-12m,0.40528005,0
+UK00725,2022-07-13 00:00:00.000000,South East,Premium,Month-to-Month,39.99,6,Credit Card,2,20.7,4,0,0,9,Referral,35-44,F,No,Yes,0.39,1,2026-02-22 00:00:00.000000,Price too high,0,19.995,0-6m,0.746929,1
+UK00726,2020-09-26 00:00:00.000000,Yorkshire,Basic,1-Year,9.99,45,Direct Debit,3,4.4,1,1,0,8,Partner,45-54,M,No,No,0.16,1,2023-08-29 00:00:00.000000,No longer needed,0,3.33,37m+,0.41771522,0
+UK00727,2021-05-07 00:00:00.000000,London,Basic,Month-to-Month,9.99,34,Credit Card,4,1.5,0,0,0,8,Online,25-34,F,Yes,Yes,0.27,0,,,0,2.4975,25-36m,0.10674027,0
+UK00728,2021-09-22 00:00:00.000000,South East,Premium,2-Year,39.99,28,Credit Card,3,43.3,1,0,0,9,Online,18-24,F,No,Yes,0.02,0,,,0,13.33,25-36m,0.012628771,0
+UK00729,2020-08-29 00:00:00.000000,West Midlands,Premium,2-Year,39.99,59,Credit Card,2,54.3,4,0,0,8,Online,18-24,M,Yes,Yes,0.02,0,,,0,19.995,37m+,0.050139133,0
+UK00730,2021-07-01 00:00:00.000000,South East,Enterprise,1-Year,79.99,49,Direct Debit,1,34.6,0,0,0,10,Online,25-34,F,No,Yes,0.02,0,,,0,79.99,37m+,0.04054467,0
+UK00731,2022-11-12 00:00:00.000000,South East,Standard,Month-to-Month,19.99,27,PayPal,1,19.3,3,2,0,8,Phone,35-44,M,No,Yes,0.49,0,,,0,19.99,25-36m,0.24168523,0
+UK00732,2020-06-08 00:00:00.000000,London,Basic,Month-to-Month,9.99,49,Direct Debit,4,4.6,1,3,0,7,Partner,55-64,F,No,Yes,0.55,0,,,0,2.4975,37m+,0.28738728,0
+UK00733,2023-01-19 00:00:00.000000,South East,Basic,Month-to-Month,9.99,25,PayPal,1,4.2,5,0,0,7,Phone,45-54,M,Yes,No,0.65,1,2025-06-30 00:00:00.000000,Competitor offer,0,9.99,25-36m,0.8379964,1
+UK00734,2020-05-05 00:00:00.000000,North East,Standard,1-Year,19.99,71,PayPal,3,6.0,1,0,0,6,Online,45-54,F,No,No,0.04,0,,,0,6.663333333333333,37m+,0.12828816,0
+UK00735,2023-10-26 00:00:00.000000,South East,Basic,Month-to-Month,9.99,18,Credit Card,4,4.1,1,0,0,6,Online,45-54,F,Yes,Yes,0.43,0,,,0,2.4975,13-24m,0.2889766,0
+UK00736,2024-01-15 00:00:00.000000,South West,Standard,2-Year,19.99,15,Bank Transfer,5,8.5,0,0,2,7,Phone,45-54,F,No,Yes,0.08,0,,,0,3.9979999999999998,13-24m,0.12612563,0
+UK00737,2021-08-01 00:00:00.000000,North West,Premium,1-Year,39.99,51,Credit Card,2,61.1,1,1,0,9,Phone,45-54,F,Yes,No,0.02,0,,,0,19.995,37m+,0.07091026,0
+UK00738,2020-06-11 00:00:00.000000,Scotland,Basic,2-Year,9.99,31,Credit Card,2,2.9,1,0,1,6,Online,25-34,F,Yes,Yes,0.28,1,2024-01-05 00:00:00.000000,Poor service quality,0,4.995,25-36m,0.52773684,1
+UK00739,2021-09-09 00:00:00.000000,North West,Standard,Month-to-Month,19.99,39,Bank Transfer,3,10.7,1,0,0,6,In-Store,35-44,M,No,No,0.19,0,,,0,6.663333333333333,37m+,0.06641367,0
+UK00740,2020-07-21 00:00:00.000000,North West,Premium,2-Year,39.99,45,Direct Debit,1,40.7,1,3,1,8,In-Store,18-24,F,Yes,No,0.06,0,,,0,39.99,37m+,0.09196943,0
+UK00741,2020-05-08 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,61,Bank Transfer,4,20.3,0,0,0,6,In-Store,35-44,M,No,Yes,0.15,0,,,0,4.9975,37m+,0.03238175,0
+UK00742,2024-02-29 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,23,Credit Card,2,5.2,0,0,0,5,Referral,25-34,F,Yes,No,0.08,0,,,0,4.995,13-24m,0.1635637,0
+UK00743,2020-08-20 00:00:00.000000,North East,Premium,Month-to-Month,39.99,49,Credit Card,3,35.8,3,0,0,4,Online,45-54,Prefer not to say,Yes,No,0.21,0,,,0,13.33,37m+,0.25485897,0
+UK00744,2020-07-04 00:00:00.000000,North West,Premium,2-Year,39.99,68,Direct Debit,5,5.1,0,0,0,6,Online,18-24,F,No,No,0.02,0,,,0,7.998,37m+,0.018783279,0
+UK00745,2022-12-28 00:00:00.000000,North East,Enterprise,Month-to-Month,79.99,18,Credit Card,5,46.6,0,0,0,4,Referral,25-34,M,Yes,Yes,0.11,0,,,0,15.998,13-24m,0.061269026,0
+UK00746,2020-05-03 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,51,Credit Card,1,9.8,0,1,0,1,Referral,25-34,M,No,Yes,0.51,1,2024-09-12 00:00:00.000000,Competitor offer,1,19.99,37m+,0.8343441,1
+UK00747,2020-05-10 00:00:00.000000,London,Basic,1-Year,9.99,71,Bank Transfer,1,3.4,0,0,0,7,Online,25-34,F,No,No,0.22,0,,,0,9.99,37m+,0.16740628,0
+UK00748,2020-11-10 00:00:00.000000,North West,Premium,Month-to-Month,39.99,56,Direct Debit,4,38.5,0,1,2,6,Referral,25-34,F,No,No,0.29,0,,,0,9.9975,37m+,0.2789228,0
+UK00749,2020-05-04 00:00:00.000000,London,Premium,Month-to-Month,39.99,67,Credit Card,4,34.0,2,0,0,9,Online,35-44,F,No,No,0.05,0,,,0,9.9975,37m+,0.08334642,0
+UK00750,2021-02-11 00:00:00.000000,North East,Standard,1-Year,19.99,61,Credit Card,5,2.0,2,2,0,6,Online,45-54,Prefer not to say,Yes,No,0.38,0,,,0,3.9979999999999998,37m+,0.096573725,0
+UK00751,2020-09-03 00:00:00.000000,North East,Enterprise,Month-to-Month,79.99,66,Direct Debit,3,81.1,4,0,0,10,Online,45-54,F,Yes,Yes,0.07,0,,,0,26.66333333333333,37m+,0.25361627,0
+UK00752,2022-05-05 00:00:00.000000,London,Premium,1-Year,39.99,47,Direct Debit,2,84.5,3,0,0,7,Online,25-34,F,No,Yes,0.12,0,,,0,19.995,37m+,0.10846468,0
+UK00753,2021-05-14 00:00:00.000000,North West,Premium,1-Year,39.99,51,PayPal,5,55.4,1,0,0,5,Partner,18-24,M,No,No,0.02,0,,,0,7.998,37m+,0.010178595,0
+UK00754,2020-12-01 00:00:00.000000,East Midlands,Enterprise,1-Year,79.99,36,Direct Debit,3,133.5,0,0,3,7,Online,25-34,M,No,Yes,0.14,1,2023-08-30 00:00:00.000000,Poor service quality,0,26.66333333333333,25-36m,0.46853027,0
+UK00755,2024-05-06 00:00:00.000000,South East,Standard,2-Year,19.99,13,Credit Card,2,24.6,0,1,0,8,In-Store,25-34,F,No,No,0.02,0,,,0,9.995,13-24m,0.0875231,0
+UK00756,2020-07-26 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,41,Direct Debit,4,5.7,0,0,2,4,Phone,65+,F,Yes,Yes,0.06,0,,,0,2.4975,37m+,0.1638705,0
+UK00757,2022-06-24 00:00:00.000000,South East,Standard,2-Year,19.99,22,Direct Debit,3,4.9,0,0,0,10,Online,55-64,M,No,No,0.02,0,,,0,6.663333333333333,13-24m,0.046872303,0
+UK00758,2021-10-12 00:00:00.000000,South West,Premium,Month-to-Month,39.99,49,Credit Card,2,30.4,3,0,1,9,Online,35-44,M,No,Yes,0.21,0,,,0,19.995,37m+,0.12283188,0
+UK00759,2021-12-29 00:00:00.000000,East Midlands,Premium,Month-to-Month,39.99,49,PayPal,2,40.9,1,0,0,6,Partner,45-54,F,Yes,No,0.19,0,,,0,19.995,37m+,0.14651595,0
+UK00760,2020-12-14 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,47,Credit Card,4,4.1,4,0,0,7,Partner,25-34,M,Yes,Yes,0.47,0,,,0,2.4975,37m+,0.21847965,0
+UK00761,2021-02-23 00:00:00.000000,North West,Enterprise,Month-to-Month,79.99,30,Credit Card,1,74.5,2,0,0,10,Referral,25-34,F,Yes,No,0.13,0,,,0,79.99,25-36m,0.13163792,0
+UK00762,2021-04-02 00:00:00.000000,South East,Standard,1-Year,19.99,12,Credit Card,2,11.3,0,0,0,8,Referral,25-34,F,Yes,Yes,0.02,0,,,0,9.995,7-12m,0.15446578,0
+UK00763,2020-09-10 00:00:00.000000,Yorkshire,Premium,1-Year,39.99,60,Direct Debit,2,89.2,0,2,0,6,Online,35-44,M,Yes,Yes,0.2,1,2022-03-04 00:00:00.000000,Moved abroad,0,19.995,37m+,0.48910496,0
+UK00764,2020-10-06 00:00:00.000000,East Midlands,Basic,1-Year,9.99,48,Direct Debit,2,3.2,1,1,0,5,Referral,18-24,M,Yes,No,0.34,0,,,0,4.995,37m+,0.24903439,0
+UK00765,2021-06-12 00:00:00.000000,West Midlands,Premium,1-Year,39.99,51,PayPal,5,51.7,1,0,0,8,In-Store,35-44,F,No,Yes,0.02,0,,,0,7.998,37m+,0.011802616,0
+UK00766,2021-09-04 00:00:00.000000,East Midlands,Basic,2-Year,9.99,48,Credit Card,4,1.1,1,0,0,3,Online,35-44,F,Yes,No,0.3,0,,,0,2.4975,37m+,0.12346485,0
+UK00767,2020-11-19 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,39,Direct Debit,2,40.0,4,0,0,3,In-Store,18-24,Prefer not to say,Yes,No,0.53,1,2024-12-26 00:00:00.000000,Competitor offer,0,19.995,37m+,0.42537984,0
+UK00768,2021-07-01 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,56,Direct Debit,5,6.4,1,0,3,5,Online,25-34,F,Yes,Yes,0.37,0,,,0,3.9979999999999998,37m+,0.11896478,0
+UK00769,2022-02-21 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,35,Credit Card,5,1.9,1,0,0,7,Online,35-44,M,No,No,0.43,0,,,0,1.998,25-36m,0.12587515,0
+UK00770,2020-05-04 00:00:00.000000,West Midlands,Standard,1-Year,19.99,71,Direct Debit,1,8.4,5,0,1,7,In-Store,45-54,M,Yes,Yes,0.32,1,2024-09-12 00:00:00.000000,Poor service quality,0,19.99,37m+,0.68949336,1
+UK00771,2022-09-03 00:00:00.000000,London,Basic,2-Year,9.99,2,Credit Card,5,1.3,0,1,1,4,Online,55-64,M,No,Yes,0.51,1,2026-02-02 00:00:00.000000,Payment issues,0,1.998,0-6m,0.67739785,1
+UK00772,2021-02-03 00:00:00.000000,London,Standard,2-Year,19.99,59,Direct Debit,3,15.4,3,2,0,6,Partner,45-54,F,No,Yes,0.2,0,,,0,6.663333333333333,37m+,0.058544938,0
+UK00773,2023-02-09 00:00:00.000000,East Midlands,Premium,2-Year,39.99,36,Bank Transfer,2,32.3,0,0,0,9,Partner,18-24,F,No,Yes,0.02,0,,,0,19.995,25-36m,0.024194958,0
+UK00774,2022-08-17 00:00:00.000000,South West,Standard,2-Year,19.99,29,Direct Debit,2,18.3,4,1,0,5,In-Store,35-44,M,Yes,No,0.26,0,,,0,9.995,25-36m,0.13674308,0
+UK00775,2023-01-15 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,8,PayPal,2,31.7,1,3,0,9,In-Store,65+,F,No,No,0.47,0,,,0,19.995,7-12m,0.38863757,0
+UK00776,2020-05-11 00:00:00.000000,East Midlands,Basic,Month-to-Month,9.99,22,Credit Card,5,3.9,1,0,0,8,In-Store,55-64,F,Yes,Yes,0.31,1,2024-11-30 00:00:00.000000,Price too high,0,1.998,13-24m,0.37893397,0
+UK00777,2022-01-13 00:00:00.000000,South West,Basic,1-Year,9.99,46,Credit Card,2,0.1,3,0,0,2,Partner,55-64,F,No,Yes,0.56,1,2024-01-30 00:00:00.000000,Competitor offer,0,4.995,37m+,0.7781467,1
+UK00778,2023-02-04 00:00:00.000000,South West,Standard,Month-to-Month,19.99,37,Direct Debit,3,3.1,0,1,0,7,Phone,18-24,F,Yes,No,0.33,0,,,0,6.663333333333333,37m+,0.36507893,0
+UK00779,2020-12-26 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,38,Direct Debit,4,10.1,3,0,3,9,Phone,18-24,M,Yes,Yes,0.18,1,2025-08-15 00:00:00.000000,Price too high,0,4.9975,37m+,0.6720864,1
+UK00780,2022-03-12 00:00:00.000000,South East,Premium,1-Year,39.99,43,Direct Debit,4,63.6,1,0,0,8,Phone,65+,M,No,Yes,0.02,0,,,0,9.9975,37m+,0.012660562,0
+UK00781,2025-02-23 00:00:00.000000,South East,Standard,Month-to-Month,19.99,7,Credit Card,3,22.3,1,1,0,9,Online,35-44,Prefer not to say,No,No,0.35,0,,,0,6.663333333333333,7-12m,0.2704232,0
+UK00782,2021-02-21 00:00:00.000000,South West,Premium,Month-to-Month,39.99,24,Credit Card,3,36.8,1,0,3,9,Online,35-44,F,No,Yes,0.27,0,,,0,13.33,13-24m,0.26218864,0
+UK00783,2020-09-22 00:00:00.000000,East of England,Standard,1-Year,19.99,47,Credit Card,3,16.0,1,0,1,9,Phone,45-54,F,No,Yes,0.02,0,,,0,6.663333333333333,37m+,0.07436611,0
+UK00784,2020-10-11 00:00:00.000000,East of England,Enterprise,2-Year,79.99,59,Credit Card,3,112.3,1,1,0,8,Phone,65+,M,No,No,0.02,0,,,0,26.66333333333333,37m+,0.09511973,0
+UK00785,2021-01-09 00:00:00.000000,South East,Standard,2-Year,19.99,41,Credit Card,3,13.7,1,1,0,5,Online,25-34,M,No,Yes,0.02,0,,,0,6.663333333333333,37m+,0.014002791,0
+UK00786,2022-01-11 00:00:00.000000,Scotland,Standard,1-Year,19.99,36,PayPal,4,24.9,0,1,1,10,Phone,35-44,F,No,Yes,0.1,0,,,0,4.9975,25-36m,0.19249104,0
+UK00787,2020-09-03 00:00:00.000000,North West,Enterprise,Month-to-Month,79.99,43,Bank Transfer,1,131.6,2,0,0,8,Phone,25-34,M,No,No,0.05,0,,,0,79.99,37m+,0.12470728,0
+UK00788,2020-07-11 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,47,Bank Transfer,3,11.6,5,1,0,10,Referral,55-64,M,Yes,Yes,0.31,0,,,0,6.663333333333333,37m+,0.35948256,0
+UK00789,2023-10-04 00:00:00.000000,Scotland,Premium,Month-to-Month,39.99,23,Credit Card,1,19.3,1,1,0,7,Online,55-64,M,No,Yes,0.35,0,,,0,39.99,13-24m,0.27976725,0
+UK00790,2022-12-30 00:00:00.000000,London,Basic,2-Year,9.99,12,Bank Transfer,3,2.9,0,1,0,4,Referral,35-44,M,No,No,0.2,1,2025-12-16 00:00:00.000000,No longer needed,0,3.33,7-12m,0.47812906,0
+UK00791,2021-02-03 00:00:00.000000,London,Standard,2-Year,19.99,62,PayPal,1,21.6,5,1,1,8,Online,45-54,M,Yes,Yes,0.16,0,,,0,19.99,37m+,0.14305186,0
+UK00792,2020-07-31 00:00:00.000000,South East,Basic,1-Year,9.99,48,Direct Debit,1,1.9,5,1,0,6,Phone,25-34,M,No,No,0.5,1,2022-06-19 00:00:00.000000,No longer needed,0,9.99,37m+,0.765563,1
+UK00793,2020-06-11 00:00:00.000000,South East,Standard,2-Year,19.99,69,Bank Transfer,1,15.0,0,0,2,5,Online,55-64,Prefer not to say,No,Yes,0.06,0,,,0,19.99,37m+,0.033560563,0
+UK00794,2025-02-01 00:00:00.000000,North West,Premium,2-Year,39.99,4,Credit Card,1,58.2,3,2,0,6,Online,65+,F,No,Yes,0.53,1,2025-12-21 00:00:00.000000,Competitor offer,0,39.99,0-6m,0.6701239,1
+UK00795,2021-11-04 00:00:00.000000,London,Basic,2-Year,9.99,40,Credit Card,5,5.8,4,0,0,7,Phone,25-34,F,Yes,No,0.1,0,,,0,1.998,37m+,0.0849396,0
+UK00796,2022-12-26 00:00:00.000000,East Midlands,Standard,1-Year,19.99,35,Credit Card,1,7.2,4,0,0,3,Referral,35-44,M,Yes,Yes,0.52,1,2024-04-17 00:00:00.000000,Price too high,0,19.99,25-36m,0.6303835,1
+UK00797,2021-08-25 00:00:00.000000,West Midlands,Enterprise,1-Year,79.99,14,Bank Transfer,2,159.8,2,0,1,0,Online,35-44,M,Yes,No,0.38,0,,,0,39.995,13-24m,0.13683659,0
+UK00798,2021-12-07 00:00:00.000000,London,Basic,Month-to-Month,9.99,50,Credit Card,3,1.0,0,3,0,7,Online,55-64,M,No,No,0.51,0,,,0,3.33,37m+,0.34702227,0
+UK00799,2020-06-04 00:00:00.000000,Wales,Standard,1-Year,19.99,52,Credit Card,2,16.4,1,1,0,8,Online,18-24,M,No,Yes,0.06,0,,,0,9.995,37m+,0.08797814,0
+UK00800,2021-12-17 00:00:00.000000,London,Basic,1-Year,9.99,1,Direct Debit,1,2.8,1,0,0,8,Referral,55-64,M,No,No,0.47,0,,,0,9.99,0-6m,0.7593172,1
+UK00801,2021-11-05 00:00:00.000000,North West,Premium,2-Year,39.99,26,Direct Debit,4,31.3,1,1,1,3,Online,35-44,M,Yes,No,0.3,0,,,1,9.9975,25-36m,0.24944067,0
+UK00802,2020-09-04 00:00:00.000000,London,Basic,Month-to-Month,9.99,37,Direct Debit,4,1.5,2,0,1,5,Online,45-54,M,No,No,0.45,0,,,0,2.4975,37m+,0.18511608,0
+UK00803,2020-07-07 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,57,Credit Card,2,1.0,2,0,3,0,Phone,35-44,F,No,No,0.58,0,,,0,4.995,37m+,0.6058656,1
+UK00804,2023-10-02 00:00:00.000000,Yorkshire,Basic,Month-to-Month,9.99,14,Direct Debit,2,2.3,2,1,0,5,Partner,65+,F,Yes,Yes,0.61,0,,,0,4.995,13-24m,0.4911175,0
+UK00805,2020-05-19 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,71,Credit Card,4,12.4,0,0,0,6,Online,35-44,F,No,Yes,0.15,0,,,0,4.9975,37m+,0.041718498,0
+UK00806,2021-07-09 00:00:00.000000,North East,Standard,Month-to-Month,19.99,42,Bank Transfer,4,7.5,2,0,0,6,Online,18-24,F,Yes,Yes,0.23,0,,,0,4.9975,37m+,0.087717816,0
+UK00807,2020-05-26 00:00:00.000000,North West,Basic,2-Year,9.99,69,Credit Card,5,3.1,1,0,1,2,Phone,25-34,M,No,Yes,0.36,1,2023-03-19 00:00:00.000000,Competitor offer,0,1.998,37m+,0.36210287,0
+UK00808,2020-07-17 00:00:00.000000,South East,Basic,1-Year,9.99,69,PayPal,2,3.7,0,1,0,10,Phone,65+,F,Yes,No,0.18,0,,,0,4.995,37m+,0.311291,0
+UK00809,2020-11-09 00:00:00.000000,Yorkshire,Basic,2-Year,9.99,30,Bank Transfer,4,2.2,2,2,1,5,Phone,45-54,M,Yes,Yes,0.46,0,,,0,2.4975,25-36m,0.06574782,0
+UK00810,2020-12-21 00:00:00.000000,London,Premium,Month-to-Month,39.99,27,Direct Debit,1,40.3,2,0,0,5,Phone,35-44,F,No,No,0.31,1,2024-03-08 00:00:00.000000,Moved abroad,0,39.99,25-36m,0.34792674,0
+UK00811,2021-08-06 00:00:00.000000,North West,Basic,Month-to-Month,9.99,22,Direct Debit,4,3.4,0,1,0,7,Online,45-54,F,No,No,0.47,1,2026-01-31 00:00:00.000000,Competitor offer,0,2.4975,13-24m,0.66386557,1
+UK00812,2021-05-04 00:00:00.000000,Scotland,Standard,Month-to-Month,19.99,55,PayPal,4,14.4,0,0,0,9,Referral,25-34,M,No,Yes,0.03,0,,,0,4.9975,37m+,0.050401036,0
+UK00813,2020-08-10 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,7,Direct Debit,1,2.4,1,0,0,8,In-Store,25-34,M,Yes,Yes,0.49,1,2026-01-14 00:00:00.000000,Price too high,0,9.99,7-12m,0.41291255,0
+UK00814,2021-02-04 00:00:00.000000,London,Standard,Month-to-Month,19.99,34,PayPal,2,1.3,0,0,1,3,Online,45-54,F,No,Yes,0.67,1,2025-03-18 00:00:00.000000,Competitor offer,0,9.995,25-36m,0.83459604,1
+UK00815,2024-05-13 00:00:00.000000,South East,Premium,1-Year,39.99,22,Credit Card,3,50.5,0,1,1,10,Online,45-54,F,Yes,Yes,0.04,0,,,0,13.33,13-24m,0.066311106,0
+UK00816,2020-05-07 00:00:00.000000,East of England,Standard,2-Year,19.99,57,Direct Debit,3,2.9,0,0,2,7,Partner,25-34,F,No,No,0.1,0,,,0,6.663333333333333,37m+,0.15734765,0
+UK00817,2020-05-18 00:00:00.000000,South West,Basic,1-Year,9.99,70,Direct Debit,1,2.7,0,1,0,7,In-Store,35-44,M,Yes,Yes,0.3,0,,,0,9.99,37m+,0.17140166,0
+UK00818,2020-12-21 00:00:00.000000,North West,Premium,Month-to-Month,39.99,44,Direct Debit,3,40.4,1,0,0,8,Referral,35-44,Prefer not to say,No,Yes,0.02,0,,,0,13.33,37m+,0.08210706,0
+UK00819,2021-11-16 00:00:00.000000,East of England,Premium,1-Year,39.99,49,Direct Debit,1,7.6,2,0,0,7,Online,65+,F,Yes,Yes,0.08,1,2023-09-14 00:00:00.000000,Moved abroad,0,39.99,37m+,0.38127804,0
+UK00820,2021-10-05 00:00:00.000000,South West,Enterprise,2-Year,79.99,33,Bank Transfer,5,183.2,4,1,0,3,Phone,35-44,F,Yes,Yes,0.3,0,,,1,15.998,25-36m,0.13954651,0
+UK00821,2023-12-06 00:00:00.000000,Yorkshire,Premium,Month-to-Month,39.99,9,Direct Debit,1,40.9,0,0,0,5,Phone,35-44,M,Yes,No,0.35,0,,,0,39.99,7-12m,0.11484377,0
+UK00822,2020-05-31 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,68,Bank Transfer,3,1.2,0,2,1,3,Phone,25-34,Prefer not to say,No,No,0.79,0,,,1,3.33,37m+,0.24073568,0
+UK00823,2020-10-14 00:00:00.000000,North West,Basic,1-Year,9.99,30,Direct Debit,5,3.3,2,0,2,6,Online,55-64,F,Yes,Yes,0.44,0,,,0,1.998,25-36m,0.12742767,0
+UK00824,2020-10-19 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,65,Credit Card,3,11.3,1,3,0,9,Phone,18-24,F,Yes,No,0.12,0,,,0,6.663333333333333,37m+,0.17177436,0
+UK00825,2020-08-06 00:00:00.000000,London,Enterprise,Month-to-Month,79.99,46,Credit Card,5,125.8,1,1,0,7,Phone,35-44,M,Yes,Yes,0.15,0,,,0,15.998,37m+,0.136736,0
+UK00826,2020-07-04 00:00:00.000000,East Midlands,Basic,1-Year,9.99,26,Direct Debit,3,3.8,5,0,0,3,Partner,55-64,F,No,No,0.66,0,,,0,3.33,25-36m,0.22878273,0
+UK00827,2020-05-24 00:00:00.000000,Scotland,Basic,2-Year,9.99,53,Direct Debit,5,5.2,3,0,0,8,Online,35-44,F,Yes,Yes,0.02,0,,,0,1.998,37m+,0.040810794,0
+UK00828,2020-04-24 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,64,PayPal,5,0.1,0,1,0,5,Phone,35-44,F,No,Yes,0.33,0,,,0,3.9979999999999998,37m+,0.18513426,0
+UK00829,2020-06-17 00:00:00.000000,East Midlands,Basic,2-Year,9.99,16,Direct Debit,5,1.6,0,0,0,8,Referral,35-44,M,Yes,Yes,0.02,0,,,0,1.998,13-24m,0.05866898,0
+UK00830,2021-05-03 00:00:00.000000,London,Standard,Month-to-Month,19.99,58,Credit Card,1,16.1,0,2,0,6,In-Store,35-44,F,No,Yes,0.41,0,,,0,19.99,37m+,0.14277244,0
+UK00831,2020-06-06 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,51,Bank Transfer,1,1.6,1,0,1,10,Referral,18-24,F,No,No,0.29,0,,,0,19.99,37m+,0.06986942,0
+UK00832,2021-04-18 00:00:00.000000,South West,Standard,Month-to-Month,19.99,4,PayPal,1,17.2,1,1,0,8,Online,35-44,M,No,Yes,0.54,1,2025-12-07 00:00:00.000000,Competitor offer,0,19.99,0-6m,0.810166,1
+UK00833,2020-04-24 00:00:00.000000,North West,Premium,1-Year,39.99,72,PayPal,2,55.9,5,1,0,3,Online,35-44,M,Yes,No,0.5,1,2025-08-29 00:00:00.000000,Payment issues,1,19.995,37m+,0.8107427,1
+UK00834,2020-05-07 00:00:00.000000,West Midlands,Enterprise,Month-to-Month,79.99,68,Direct Debit,2,113.2,2,0,0,1,In-Store,45-54,F,Yes,No,0.39,0,,,0,39.995,37m+,0.3214415,0
+UK00835,2021-12-27 00:00:00.000000,London,Standard,Month-to-Month,19.99,38,Direct Debit,1,14.1,2,0,0,4,Phone,45-54,F,No,No,0.29,0,,,0,19.99,37m+,0.18768127,0
+UK00836,2021-02-09 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,59,Credit Card,2,6.3,1,0,0,7,Online,25-34,M,No,Yes,0.25,0,,,0,9.995,37m+,0.20197907,0
+UK00837,2023-06-10 00:00:00.000000,London,Premium,Month-to-Month,39.99,29,Direct Debit,4,15.8,1,0,2,3,Online,25-34,F,Yes,No,0.55,1,2024-06-13 00:00:00.000000,Poor service quality,0,9.9975,25-36m,0.66898507,1
+UK00838,2020-09-04 00:00:00.000000,West Midlands,Enterprise,1-Year,79.99,67,Credit Card,5,170.9,4,1,2,6,Referral,45-54,F,No,Yes,0.24,0,,,0,15.998,37m+,0.23267558,0
+UK00839,2023-08-16 00:00:00.000000,North East,Enterprise,2-Year,79.99,16,PayPal,5,139.7,2,0,0,10,In-Store,25-34,F,Yes,No,0.02,0,,,0,15.998,13-24m,0.006669936,0
+UK00840,2021-05-18 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,28,PayPal,4,9.2,0,1,1,7,Online,35-44,F,Yes,No,0.37,0,,,0,4.9975,25-36m,0.2757131,0
+UK00841,2021-03-26 00:00:00.000000,North West,Premium,Month-to-Month,39.99,20,Direct Debit,3,71.0,3,0,2,9,Online,18-24,F,No,No,0.29,0,,,0,13.33,13-24m,0.15849835,0
+UK00842,2023-09-29 00:00:00.000000,Wales,Standard,2-Year,19.99,15,Credit Card,5,3.0,0,0,0,9,Partner,55-64,M,Yes,No,0.02,0,,,0,3.9979999999999998,13-24m,0.044507716,0
+UK00843,2021-12-11 00:00:00.000000,South East,Standard,1-Year,19.99,38,Bank Transfer,3,9.3,0,0,0,2,Phone,45-54,M,No,Yes,0.22,0,,,0,6.663333333333333,37m+,0.20665191,0
+UK00844,2021-04-30 00:00:00.000000,North East,Basic,Month-to-Month,9.99,57,Direct Debit,2,2.3,0,2,1,5,Referral,45-54,F,No,Yes,0.63,1,2022-01-22 00:00:00.000000,No longer needed,0,4.995,37m+,0.75326425,1
+UK00845,2021-01-17 00:00:00.000000,East Midlands,Standard,2-Year,19.99,61,Direct Debit,2,12.2,1,2,0,10,Online,65+,M,No,Yes,0.06,0,,,0,9.995,37m+,0.03172909,0
+UK00846,2020-07-14 00:00:00.000000,Scotland,Basic,1-Year,9.99,46,Direct Debit,3,2.7,4,0,0,4,Online,65+,F,Yes,Yes,0.32,0,,,0,3.33,37m+,0.34572256,0
+UK00847,2020-08-13 00:00:00.000000,London,Basic,Month-to-Month,9.99,55,Direct Debit,3,2.6,0,0,0,7,Referral,35-44,M,Yes,Yes,0.31,0,,,0,3.33,37m+,0.21399096,0
+UK00848,2021-07-30 00:00:00.000000,London,Standard,Month-to-Month,19.99,51,Credit Card,1,14.5,1,0,0,1,Online,25-34,F,Yes,Yes,0.47,0,,,0,19.99,37m+,0.23783068,0
+UK00849,2020-06-09 00:00:00.000000,Yorkshire,Premium,Month-to-Month,39.99,66,Credit Card,1,68.6,3,0,1,4,Online,35-44,Prefer not to say,Yes,No,0.33,0,,,0,39.99,37m+,0.20177568,0
+UK00850,2021-07-02 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,57,Direct Debit,2,7.1,3,0,1,7,In-Store,65+,M,No,Yes,0.39,0,,,0,9.995,37m+,0.6433258,1
+UK00851,2020-11-30 00:00:00.000000,West Midlands,Standard,2-Year,19.99,64,Bank Transfer,4,9.9,1,2,0,8,Online,35-44,F,Yes,Yes,0.02,0,,,0,4.9975,37m+,0.019672208,0
+UK00852,2022-07-08 00:00:00.000000,Yorkshire,Basic,1-Year,9.99,11,Direct Debit,2,3.1,2,0,0,4,Phone,18-24,M,No,Yes,0.5,0,,,0,4.995,7-12m,0.19200931,0
+UK00853,2023-08-23 00:00:00.000000,London,Standard,1-Year,19.99,10,Bank Transfer,2,6.7,0,0,0,9,Phone,35-44,F,Yes,No,0.14,0,,,0,9.995,7-12m,0.5141655,1
+UK00854,2022-11-21 00:00:00.000000,East of England,Standard,2-Year,19.99,3,Direct Debit,1,16.0,3,1,2,3,In-Store,65+,F,No,No,0.81,1,2026-01-31 00:00:00.000000,Payment issues,1,19.99,0-6m,0.83331674,1
+UK00855,2020-05-03 00:00:00.000000,West Midlands,Standard,1-Year,19.99,66,Direct Debit,1,1.4,0,0,0,2,In-Store,35-44,M,No,No,0.38,0,,,0,19.99,37m+,0.07044473,0
+UK00856,2023-10-31 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,24,Direct Debit,3,3.7,1,0,0,8,In-Store,45-54,F,Yes,No,0.31,0,,,0,3.33,13-24m,0.3573448,0
+UK00857,2022-07-19 00:00:00.000000,London,Premium,Month-to-Month,39.99,17,Direct Debit,4,33.6,5,0,0,8,Phone,55-64,M,No,Yes,0.25,0,,,0,9.9975,13-24m,0.086309806,0
+UK00858,2021-02-04 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,50,PayPal,4,69.9,1,0,0,8,Online,45-54,F,No,No,0.02,0,,,0,9.9975,37m+,0.07282388,0
+UK00859,2021-12-04 00:00:00.000000,North West,Standard,Month-to-Month,19.99,51,PayPal,5,17.0,0,0,0,6,Referral,55-64,M,Yes,Yes,0.15,0,,,0,3.9979999999999998,37m+,0.09689321,0
+UK00860,2021-12-04 00:00:00.000000,London,Basic,Month-to-Month,9.99,42,Credit Card,4,4.4,0,2,0,9,Partner,25-34,F,No,No,0.39,1,2025-08-09 00:00:00.000000,Price too high,0,2.4975,37m+,0.44585004,0
+UK00861,2023-01-17 00:00:00.000000,North West,Premium,2-Year,39.99,4,PayPal,3,64.7,4,2,0,7,Online,25-34,M,No,Yes,0.51,0,,,0,13.33,0-6m,0.15153994,0
+UK00862,2024-12-25 00:00:00.000000,South West,Premium,2-Year,39.99,10,Direct Debit,4,46.9,2,0,0,3,Phone,25-34,M,No,Yes,0.32,0,,,0,9.9975,7-12m,0.033673216,0
+UK00863,2024-05-23 00:00:00.000000,South East,Basic,Month-to-Month,9.99,14,PayPal,1,3.3,0,0,0,6,In-Store,25-34,M,No,Yes,0.45,1,2025-12-11 00:00:00.000000,Poor service quality,0,9.99,13-24m,0.3945226,0
+UK00864,2023-10-06 00:00:00.000000,West Midlands,Premium,Month-to-Month,39.99,14,Direct Debit,1,67.9,0,0,0,9,Partner,45-54,F,Yes,Yes,0.11,0,,,0,39.99,13-24m,0.10286176,0
+UK00865,2022-09-17 00:00:00.000000,North West,Basic,2-Year,9.99,31,Direct Debit,3,0.1,1,2,2,7,Partner,55-64,F,No,No,0.48,0,,,0,3.33,25-36m,0.22515483,0
+UK00866,2023-11-09 00:00:00.000000,South West,Basic,1-Year,9.99,18,Credit Card,3,1.8,5,2,0,6,Phone,65+,F,No,No,0.64,1,2025-02-08 00:00:00.000000,Poor service quality,0,3.33,13-24m,0.5144437,1
+UK00867,2022-01-12 00:00:00.000000,London,Standard,2-Year,19.99,11,Credit Card,3,15.4,0,2,0,7,Online,45-54,M,Yes,Yes,0.28,0,,,0,6.663333333333333,7-12m,0.17797899,0
+UK00868,2023-03-28 00:00:00.000000,Wales,Premium,2-Year,39.99,15,Credit Card,1,48.2,0,0,0,9,Phone,35-44,M,Yes,No,0.02,0,,,0,39.99,13-24m,0.017868485,0
+UK00869,2022-02-05 00:00:00.000000,Yorkshire,Premium,Month-to-Month,39.99,50,PayPal,4,66.8,0,3,0,8,Phone,25-34,M,Yes,Yes,0.17,0,,,0,9.9975,37m+,0.1808985,0
+UK00870,2023-05-11 00:00:00.000000,West Midlands,Standard,2-Year,19.99,22,PayPal,1,9.6,1,1,0,5,Online,25-34,F,Yes,Yes,0.14,0,,,0,19.99,13-24m,0.072015844,0
+UK00871,2021-11-11 00:00:00.000000,East Midlands,Premium,1-Year,39.99,40,Direct Debit,1,29.8,3,0,0,1,Online,25-34,F,Yes,No,0.34,1,2023-12-15 00:00:00.000000,Payment issues,0,39.99,37m+,0.61583024,1
+UK00872,2021-03-23 00:00:00.000000,South East,Standard,1-Year,19.99,47,Credit Card,2,12.3,1,1,2,5,Online,55-64,F,No,No,0.3,0,,,0,9.995,37m+,0.28639948,0
+UK00873,2021-07-21 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,51,PayPal,4,8.0,5,0,0,9,Phone,65+,F,Yes,Yes,0.23,0,,,0,4.9975,37m+,0.30873367,0
+UK00874,2023-08-05 00:00:00.000000,Yorkshire,Basic,1-Year,9.99,28,Credit Card,1,3.3,2,1,0,9,Online,35-44,M,Yes,No,0.34,0,,,0,9.99,25-36m,0.21186076,0
+UK00875,2020-05-25 00:00:00.000000,South East,Premium,Month-to-Month,39.99,70,Credit Card,3,8.9,0,0,1,7,Referral,25-34,Prefer not to say,No,No,0.15,0,,,0,13.33,37m+,0.11794328,0
+UK00876,2020-09-20 00:00:00.000000,Scotland,Standard,1-Year,19.99,64,Direct Debit,2,14.3,3,0,1,8,Online,25-34,M,Yes,No,0.12,0,,,0,9.995,37m+,0.20181403,0
+UK00877,2020-08-19 00:00:00.000000,North West,Enterprise,2-Year,79.99,68,Direct Debit,2,52.7,1,2,0,8,Online,18-24,F,Yes,Yes,0.02,0,,,0,39.995,37m+,0.10248997,0
+UK00878,2025-07-31 00:00:00.000000,East of England,Standard,1-Year,19.99,7,Direct Debit,1,8.3,0,0,0,4,In-Store,35-44,F,No,No,0.26,0,,,0,19.99,7-12m,0.22439484,0
+UK00879,2020-06-04 00:00:00.000000,West Midlands,Premium,1-Year,39.99,48,Credit Card,2,64.7,2,0,0,6,Online,25-34,F,Yes,No,0.08,0,,,0,19.995,37m+,0.07637934,0
+UK00880,2021-02-23 00:00:00.000000,South West,Basic,2-Year,9.99,21,Direct Debit,5,0.9,3,1,0,9,Online,65+,Prefer not to say,No,Yes,0.2,1,2025-01-21 00:00:00.000000,Competitor offer,0,1.998,13-24m,0.5668657,1
+UK00881,2023-09-22 00:00:00.000000,West Midlands,Premium,Month-to-Month,39.99,25,Bank Transfer,1,34.8,1,3,0,9,Online,18-24,M,Yes,Yes,0.35,1,2024-07-02 00:00:00.000000,Payment issues,0,39.99,25-36m,0.40514946,0
+UK00882,2020-08-20 00:00:00.000000,Scotland,Enterprise,1-Year,79.99,53,Credit Card,1,54.9,0,1,0,8,In-Store,25-34,M,Yes,Yes,0.02,0,,,0,79.99,37m+,0.066701934,0
+UK00883,2020-06-11 00:00:00.000000,West Midlands,Premium,2-Year,39.99,68,Credit Card,2,41.0,4,1,0,10,In-Store,45-54,M,No,Yes,0.02,0,,,0,19.995,37m+,0.044000223,0
+UK00884,2020-05-11 00:00:00.000000,London,Premium,Month-to-Month,39.99,12,Direct Debit,4,59.2,2,0,0,9,Online,25-34,F,No,Yes,0.13,1,2026-01-25 00:00:00.000000,Price too high,0,9.9975,7-12m,0.28755322,0
+UK00885,2021-11-27 00:00:00.000000,Wales,Premium,1-Year,39.99,45,Direct Debit,1,77.4,3,1,0,9,Online,45-54,F,Yes,Yes,0.08,0,,,0,39.99,37m+,0.2759284,0
+UK00886,2021-01-15 00:00:00.000000,London,Standard,Month-to-Month,19.99,25,Credit Card,3,8.0,1,0,1,6,Online,65+,F,Yes,Yes,0.33,1,2025-07-10 00:00:00.000000,Unknown,0,6.663333333333333,25-36m,0.36339894,0
+UK00887,2022-09-24 00:00:00.000000,North West,Standard,1-Year,19.99,21,Direct Debit,3,9.0,0,0,0,7,Phone,35-44,M,No,Yes,0.08,0,,,0,6.663333333333333,13-24m,0.053320456,0
+UK00888,2024-05-20 00:00:00.000000,South West,Basic,Month-to-Month,9.99,1,Bank Transfer,3,0.1,0,0,0,8,In-Store,35-44,F,No,No,0.52,1,2026-03-03 00:00:00.000000,Competitor offer,0,3.33,0-6m,0.71230567,1
+UK00889,2021-08-09 00:00:00.000000,East Midlands,Standard,Month-to-Month,19.99,45,Direct Debit,2,19.1,4,0,1,7,Online,35-44,F,Yes,Yes,0.43,1,2024-11-03 00:00:00.000000,Competitor offer,0,9.995,37m+,0.37132916,0
+UK00890,2024-01-26 00:00:00.000000,North West,Basic,1-Year,9.99,12,Credit Card,1,5.1,1,0,1,7,Online,45-54,F,Yes,No,0.3,0,,,0,9.99,7-12m,0.80888927,1
+UK00891,2022-05-03 00:00:00.000000,London,Standard,Month-to-Month,19.99,6,Bank Transfer,1,23.6,1,0,0,3,Partner,35-44,M,No,Yes,0.67,1,2025-11-14 00:00:00.000000,Price too high,0,19.99,0-6m,0.77789724,1
+UK00892,2020-04-27 00:00:00.000000,London,Standard,2-Year,19.99,69,Credit Card,4,15.6,1,0,0,8,Phone,35-44,Prefer not to say,Yes,No,0.02,0,,,0,4.9975,37m+,0.011691367,0
+UK00893,2022-12-22 00:00:00.000000,Scotland,Premium,2-Year,39.99,33,Credit Card,4,3.1,3,0,0,9,Online,25-34,M,Yes,No,0.02,0,,,0,9.9975,25-36m,0.04495721,0
+UK00894,2020-07-09 00:00:00.000000,London,Standard,2-Year,19.99,9,Credit Card,5,10.3,1,0,2,1,Phone,45-54,F,Yes,No,0.46,0,,,0,3.9979999999999998,7-12m,0.6130982,1
+UK00895,2024-12-01 00:00:00.000000,West Midlands,Standard,Month-to-Month,19.99,9,Direct Debit,3,8.7,2,0,1,4,Partner,55-64,F,No,Yes,0.49,0,,,0,6.663333333333333,7-12m,0.186716,0
+UK00896,2020-11-13 00:00:00.000000,East Midlands,Basic,2-Year,9.99,16,Credit Card,5,5.7,2,0,2,6,In-Store,65+,F,No,Yes,0.22,0,,,0,1.998,13-24m,0.14524232,0
+UK00897,2022-10-24 00:00:00.000000,South East,Basic,Month-to-Month,9.99,24,PayPal,5,7.2,2,0,0,8,Online,55-64,M,No,Yes,0.25,1,2025-07-25 00:00:00.000000,Price too high,0,1.998,13-24m,0.17880459,0
+UK00898,2024-01-06 00:00:00.000000,North East,Standard,Month-to-Month,19.99,22,Direct Debit,2,1.6,2,1,0,6,Online,65+,F,Yes,Yes,0.55,1,2026-02-21 00:00:00.000000,Competitor offer,0,9.995,13-24m,0.79198104,1
+UK00899,2020-09-19 00:00:00.000000,North East,Standard,2-Year,19.99,58,Bank Transfer,1,3.8,5,3,1,10,In-Store,55-64,F,No,No,0.38,1,2022-03-28 00:00:00.000000,Price too high,0,19.99,37m+,0.17807116,0
+UK00900,2021-07-16 00:00:00.000000,Scotland,Basic,1-Year,9.99,46,Bank Transfer,2,2.5,1,0,0,8,In-Store,18-24,M,Yes,No,0.14,0,,,0,4.995,37m+,0.11578402,0
+UK00901,2023-03-06 00:00:00.000000,London,Standard,2-Year,19.99,24,PayPal,1,5.1,0,0,1,6,Phone,45-54,F,No,Yes,0.08,0,,,0,19.99,13-24m,0.20702338,0
+UK00902,2020-06-08 00:00:00.000000,Yorkshire,Premium,1-Year,39.99,62,PayPal,1,0.1,2,0,0,1,In-Store,35-44,M,Yes,Yes,0.4,0,,,0,39.99,37m+,0.15490764,0
+UK00903,2020-05-15 00:00:00.000000,East of England,Premium,1-Year,39.99,71,Direct Debit,4,57.0,1,1,0,6,Online,45-54,F,No,No,0.06,0,,,0,9.9975,37m+,0.04759602,0
+UK00904,2020-05-17 00:00:00.000000,Yorkshire,Standard,2-Year,19.99,34,Credit Card,3,1.6,1,0,0,7,Online,35-44,M,No,Yes,0.1,0,,,0,6.663333333333333,25-36m,0.034348235,0
+UK00905,2022-10-03 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,17,Credit Card,2,12.2,0,0,0,10,Online,35-44,Prefer not to say,No,Yes,0.17,0,,,0,9.995,13-24m,0.057453007,0
+UK00906,2021-04-25 00:00:00.000000,London,Standard,Month-to-Month,19.99,39,Direct Debit,1,13.7,2,1,1,10,Partner,45-54,M,Yes,No,0.31,1,2024-03-20 00:00:00.000000,Competitor offer,0,19.99,37m+,0.18679352,0
+UK00907,2021-03-29 00:00:00.000000,London,Standard,2-Year,19.99,24,Credit Card,3,13.7,1,0,0,1,Partner,45-54,F,No,Yes,0.22,0,,,0,6.663333333333333,13-24m,0.07999921,0
+UK00908,2023-01-10 00:00:00.000000,East Midlands,Standard,1-Year,19.99,25,PayPal,5,2.8,1,1,0,5,Partner,18-24,F,No,Yes,0.3,0,,,0,3.9979999999999998,25-36m,0.061514188,0
+UK00909,2020-12-11 00:00:00.000000,West Midlands,Enterprise,1-Year,79.99,52,PayPal,1,136.3,0,0,0,7,Phone,55-64,F,No,No,0.02,0,,,0,79.99,37m+,0.061364647,0
+UK00910,2023-06-29 00:00:00.000000,East of England,Standard,1-Year,19.99,32,Credit Card,5,9.7,1,0,0,8,Referral,18-24,M,No,No,0.02,0,,,0,3.9979999999999998,25-36m,0.024353435,0
+UK00911,2024-03-16 00:00:00.000000,London,Basic,1-Year,9.99,18,Credit Card,1,3.1,3,1,3,8,Online,35-44,M,Yes,Yes,0.56,0,,,0,9.99,13-24m,0.37460172,0
+UK00912,2021-12-08 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,51,Credit Card,4,25.8,5,0,0,6,Online,18-24,F,Yes,Yes,0.35,0,,,0,4.9975,37m+,0.098907016,0
+UK00913,2024-09-18 00:00:00.000000,South East,Premium,Month-to-Month,39.99,18,Bank Transfer,3,13.1,0,0,0,10,Referral,45-54,M,No,Yes,0.05,0,,,0,13.33,13-24m,0.06573754,0
+UK00914,2021-11-29 00:00:00.000000,London,Standard,Month-to-Month,19.99,40,Direct Debit,4,20.5,2,0,2,9,Partner,45-54,Prefer not to say,Yes,Yes,0.23,0,,,0,4.9975,37m+,0.1452076,0
+UK00915,2022-07-15 00:00:00.000000,East of England,Basic,2-Year,9.99,34,Direct Debit,2,2.8,3,0,0,9,Phone,35-44,F,Yes,No,0.18,1,2023-12-16 00:00:00.000000,Price too high,0,4.995,25-36m,0.5480954,1
+UK00916,2020-05-28 00:00:00.000000,London,Basic,Month-to-Month,9.99,58,Credit Card,4,2.5,1,0,0,9,Online,25-34,F,Yes,Yes,0.23,0,,,0,2.4975,37m+,0.14869481,0
+UK00917,2023-03-17 00:00:00.000000,Yorkshire,Enterprise,1-Year,79.99,33,Bank Transfer,4,92.0,5,0,2,7,In-Store,35-44,F,Yes,Yes,0.28,1,2025-03-08 00:00:00.000000,Payment issues,0,19.9975,25-36m,0.762725,1
+UK00918,2022-02-25 00:00:00.000000,Scotland,Standard,2-Year,19.99,2,Direct Debit,2,11.3,5,0,0,5,In-Store,25-34,M,Yes,Yes,0.47,1,2026-02-08 00:00:00.000000,Price too high,0,9.995,0-6m,0.74257207,1
+UK00919,2021-04-04 00:00:00.000000,North West,Premium,Month-to-Month,39.99,30,Credit Card,4,20.5,3,0,0,8,Online,35-44,M,Yes,Yes,0.17,0,,,0,9.9975,25-36m,0.048729703,0
+UK00920,2022-12-06 00:00:00.000000,North West,Premium,Month-to-Month,39.99,35,Credit Card,4,78.6,0,1,0,8,Online,25-34,F,Yes,Yes,0.13,0,,,0,9.9975,25-36m,0.1135988,0
+UK00921,2021-05-25 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,58,Credit Card,4,4.4,2,0,1,7,Online,45-54,F,Yes,No,0.45,1,2022-07-15 00:00:00.000000,Payment issues,0,2.4975,37m+,0.24622798,0
+UK00922,2020-09-08 00:00:00.000000,North West,Standard,2-Year,19.99,22,Direct Debit,3,15.3,2,1,0,10,Online,25-34,M,No,Yes,0.02,0,,,0,6.663333333333333,13-24m,0.028064337,0
+UK00923,2020-07-06 00:00:00.000000,East of England,Standard,Month-to-Month,19.99,30,PayPal,2,12.7,0,2,0,7,Referral,55-64,F,Yes,No,0.49,1,2025-03-06 00:00:00.000000,Poor service quality,0,9.995,25-36m,0.6270223,1
+UK00924,2021-07-05 00:00:00.000000,South West,Enterprise,2-Year,79.99,45,Credit Card,3,170.8,4,2,0,5,In-Store,55-64,F,Yes,No,0.12,0,,,0,26.66333333333333,37m+,0.074774645,0
+UK00925,2020-05-15 00:00:00.000000,West Midlands,Basic,Month-to-Month,9.99,71,Credit Card,3,1.3,0,0,0,8,In-Store,35-44,F,No,Yes,0.19,0,,,0,3.33,37m+,0.11375272,0
+UK00926,2022-08-31 00:00:00.000000,East Midlands,Premium,2-Year,39.99,40,Direct Debit,5,52.2,2,1,0,6,Online,35-44,M,Yes,No,0.02,0,,,0,7.998,37m+,0.02836912,0
+UK00927,2020-12-10 00:00:00.000000,London,Basic,2-Year,9.99,27,Bank Transfer,5,3.2,1,0,0,8,Phone,35-44,M,Yes,Yes,0.04,0,,,0,1.998,25-36m,0.032343585,0
+UK00928,2020-05-24 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,7,Credit Card,2,8.7,0,0,1,7,Online,18-24,M,No,No,0.32,0,,,0,9.995,7-12m,0.22813997,0
+UK00929,2020-07-08 00:00:00.000000,North East,Basic,2-Year,9.99,66,Credit Card,5,4.4,4,1,0,8,Online,18-24,M,Yes,No,0.16,0,,,0,1.998,37m+,0.13539724,0
+UK00930,2023-05-26 00:00:00.000000,East Midlands,Standard,1-Year,19.99,11,Direct Debit,4,17.2,0,1,1,9,Online,25-34,F,No,Yes,0.22,1,2025-08-07 00:00:00.000000,No longer needed,0,4.9975,7-12m,0.73268193,1
+UK00931,2020-05-14 00:00:00.000000,North West,Enterprise,2-Year,79.99,52,Bank Transfer,3,98.2,4,2,0,0,Online,35-44,F,No,No,0.34,1,2022-05-15 00:00:00.000000,Price too high,1,26.66333333333333,37m+,0.7784662,1
+UK00932,2021-03-21 00:00:00.000000,North East,Standard,2-Year,19.99,39,Credit Card,2,12.9,5,0,0,8,Phone,65+,F,No,Yes,0.02,0,,,0,9.995,37m+,0.08853552,0
+UK00933,2022-06-28 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,25,Direct Debit,3,1.6,1,0,1,7,Referral,35-44,F,Yes,No,0.49,0,,,0,3.33,25-36m,0.3641284,0
+UK00934,2023-07-04 00:00:00.000000,East Midlands,Premium,Month-to-Month,39.99,10,Direct Debit,5,35.9,1,0,1,6,Online,45-54,M,Yes,Yes,0.39,1,2025-11-27 00:00:00.000000,Competitor offer,0,7.998,7-12m,0.42730677,0
+UK00935,2020-04-24 00:00:00.000000,Yorkshire,Enterprise,2-Year,79.99,72,Bank Transfer,1,131.7,1,0,1,4,Partner,55-64,M,No,Yes,0.02,0,,,0,79.99,37m+,0.047656603,0
+UK00936,2023-12-05 00:00:00.000000,West Midlands,Standard,1-Year,19.99,18,Direct Debit,2,0.1,3,0,0,6,Online,45-54,F,Yes,No,0.36,1,2025-03-15 00:00:00.000000,Price too high,0,9.995,13-24m,0.6535547,1
+UK00937,2024-02-17 00:00:00.000000,South East,Enterprise,Month-to-Month,79.99,10,Credit Card,3,180.1,2,0,2,9,In-Store,55-64,M,Yes,Yes,0.31,0,,,0,26.66333333333333,7-12m,0.10846192,0
+UK00938,2021-06-06 00:00:00.000000,South West,Basic,1-Year,9.99,47,Credit Card,5,4.2,0,1,0,0,Phone,35-44,M,Yes,No,0.46,1,2023-02-16 00:00:00.000000,Poor service quality,1,1.998,37m+,0.7398166,1
+UK00939,2020-10-07 00:00:00.000000,Wales,Premium,Month-to-Month,39.99,65,Bank Transfer,3,69.2,3,2,0,7,Referral,25-34,F,No,Yes,0.41,1,2023-03-29 00:00:00.000000,Price too high,0,13.33,37m+,0.42204478,0
+UK00940,2020-06-23 00:00:00.000000,Yorkshire,Enterprise,Month-to-Month,79.99,48,Credit Card,3,144.8,4,0,1,2,Phone,65+,F,No,Yes,0.47,0,,,0,26.66333333333333,37m+,0.1083957,0
+UK00941,2020-08-04 00:00:00.000000,South East,Premium,Month-to-Month,39.99,55,Credit Card,3,72.6,0,1,1,9,In-Store,55-64,F,Yes,Yes,0.11,0,,,0,13.33,37m+,0.16238523,0
+UK00942,2024-11-09 00:00:00.000000,West Midlands,Basic,2-Year,9.99,12,Direct Debit,3,3.6,1,0,0,8,Referral,35-44,M,Yes,No,0.04,0,,,0,3.33,7-12m,0.109524526,0
+UK00943,2020-09-30 00:00:00.000000,South East,Standard,2-Year,19.99,61,PayPal,1,16.3,4,1,0,6,Online,55-64,F,Yes,Yes,0.18,0,,,0,19.99,37m+,0.13857584,0
+UK00944,2020-04-24 00:00:00.000000,South East,Basic,1-Year,9.99,72,Direct Debit,2,4.3,0,2,0,6,In-Store,55-64,M,Yes,No,0.42,0,,,0,4.995,37m+,0.3556069,0
+UK00945,2020-06-22 00:00:00.000000,South East,Standard,Month-to-Month,19.99,70,Direct Debit,4,24.6,0,0,3,8,Online,25-34,M,Yes,No,0.21,0,,,0,4.9975,37m+,0.14050409,0
+UK00946,2022-11-29 00:00:00.000000,East Midlands,Premium,Month-to-Month,39.99,39,Credit Card,1,43.9,1,0,1,3,Online,35-44,F,No,Yes,0.47,1,2025-04-01 00:00:00.000000,Price too high,0,39.99,37m+,0.58729655,1
+UK00947,2020-08-14 00:00:00.000000,West Midlands,Standard,1-Year,19.99,2,Direct Debit,3,8.4,4,0,0,7,Phone,55-64,M,Yes,Yes,0.49,1,2026-02-24 00:00:00.000000,Unknown,0,6.663333333333333,0-6m,0.9117405,1
+UK00948,2022-03-13 00:00:00.000000,Wales,Basic,Month-to-Month,9.99,3,Direct Debit,4,2.1,2,0,0,9,In-Store,45-54,F,No,No,0.6,0,,,0,2.4975,0-6m,0.22526965,0
+UK00949,2020-12-23 00:00:00.000000,London,Basic,2-Year,9.99,1,Credit Card,2,0.2,1,0,1,8,Referral,45-54,F,Yes,Yes,0.41,1,2026-03-04 00:00:00.000000,Price too high,0,4.995,0-6m,0.8906962,1
+UK00950,2020-05-26 00:00:00.000000,London,Premium,2-Year,39.99,45,Direct Debit,5,26.6,0,0,0,8,Online,55-64,M,No,Yes,0.02,0,,,0,7.998,37m+,0.010374744,0
+UK00951,2021-05-31 00:00:00.000000,Yorkshire,Standard,1-Year,19.99,46,Credit Card,3,12.9,2,2,0,8,Phone,25-34,M,Yes,Yes,0.16,0,,,0,6.663333333333333,37m+,0.10291264,0
+UK00952,2022-06-11 00:00:00.000000,London,Standard,Month-to-Month,19.99,45,Credit Card,2,10.3,1,0,0,1,Online,25-34,F,Yes,Yes,0.47,0,,,0,9.995,37m+,0.37448215,0
+UK00953,2020-07-01 00:00:00.000000,East Midlands,Standard,2-Year,19.99,23,Credit Card,2,17.7,4,1,0,6,Partner,35-44,F,Yes,No,0.26,0,,,0,9.995,13-24m,0.19723296,0
+UK00954,2020-05-01 00:00:00.000000,North East,Enterprise,Month-to-Month,79.99,71,Bank Transfer,4,136.8,1,0,0,7,In-Store,45-54,M,Yes,Yes,0.07,0,,,0,19.9975,37m+,0.030445786,0
+UK00955,2020-12-03 00:00:00.000000,East Midlands,Basic,2-Year,9.99,48,Credit Card,4,3.7,1,0,1,0,Online,18-24,F,No,No,0.36,1,2024-06-23 00:00:00.000000,Price too high,0,2.4975,37m+,0.45289645,0
+UK00956,2022-01-14 00:00:00.000000,Yorkshire,Basic,1-Year,9.99,24,Credit Card,5,4.1,2,0,1,8,Online,18-24,F,Yes,No,0.26,0,,,0,1.998,13-24m,0.20879452,0
+UK00957,2020-05-08 00:00:00.000000,South East,Basic,1-Year,9.99,70,PayPal,3,4.3,0,0,2,6,Phone,18-24,F,No,No,0.28,0,,,0,3.33,37m+,0.1826808,0
+UK00958,2020-05-21 00:00:00.000000,Yorkshire,Premium,1-Year,39.99,70,Credit Card,2,56.8,0,0,0,9,Online,25-34,F,No,Yes,0.02,0,,,0,19.995,37m+,0.032056876,0
+UK00959,2021-07-23 00:00:00.000000,London,Premium,Month-to-Month,39.99,48,Credit Card,3,44.1,1,0,0,4,Referral,55-64,M,Yes,Yes,0.13,0,,,0,13.33,37m+,0.13353266,0
+UK00960,2024-05-13 00:00:00.000000,London,Premium,Month-to-Month,39.99,22,Credit Card,5,44.4,3,0,2,10,Online,18-24,M,Yes,No,0.29,1,2025-06-17 00:00:00.000000,Poor service quality,0,7.998,13-24m,0.41092885,0
+UK00961,2022-06-01 00:00:00.000000,West Midlands,Standard,1-Year,19.99,41,Bank Transfer,4,2.6,0,1,0,7,Online,25-34,F,Yes,Yes,0.18,0,,,0,4.9975,37m+,0.051470365,0
+UK00962,2020-07-12 00:00:00.000000,Scotland,Standard,2-Year,19.99,66,PayPal,2,11.0,3,0,2,7,Phone,65+,M,No,Yes,0.18,1,2021-10-19 00:00:00.000000,Competitor offer,0,9.995,37m+,0.6203696,1
+UK00963,2021-01-18 00:00:00.000000,Yorkshire,Standard,Month-to-Month,19.99,30,Bank Transfer,1,11.3,0,0,0,10,Referral,45-54,M,No,Yes,0.17,0,,,0,19.99,25-36m,0.051339053,0
+UK00964,2021-10-13 00:00:00.000000,West Midlands,Premium,Month-to-Month,39.99,2,Credit Card,1,60.3,0,1,0,8,In-Store,35-44,F,Yes,Yes,0.44,1,2026-02-04 00:00:00.000000,Price too high,0,39.99,0-6m,0.8443284,1
+UK00965,2024-10-04 00:00:00.000000,London,Premium,Month-to-Month,39.99,12,Direct Debit,4,54.4,0,0,0,9,Partner,35-44,M,No,Yes,0.05,0,,,0,9.9975,7-12m,0.12191684,0
+UK00966,2021-02-21 00:00:00.000000,East of England,Basic,1-Year,9.99,3,Direct Debit,1,1.8,1,2,0,10,Online,45-54,F,Yes,Yes,0.67,1,2025-12-27 00:00:00.000000,Poor service quality,0,9.99,0-6m,0.80207783,1
+UK00967,2020-05-22 00:00:00.000000,East of England,Premium,Month-to-Month,39.99,36,Direct Debit,2,66.8,0,0,1,6,Online,35-44,M,No,No,0.29,0,,,0,19.995,25-36m,0.13707179,0
+UK00968,2021-04-29 00:00:00.000000,North East,Premium,Month-to-Month,39.99,50,Credit Card,2,36.2,0,0,0,6,Phone,55-64,F,No,Yes,0.15,0,,,0,19.995,37m+,0.16351913,0
+UK00969,2020-11-04 00:00:00.000000,Wales,Standard,1-Year,19.99,40,Credit Card,2,9.1,1,0,0,4,Online,25-34,F,Yes,Yes,0.1,0,,,0,9.995,37m+,0.073182136,0
+UK00970,2020-09-25 00:00:00.000000,London,Basic,1-Year,9.99,53,Credit Card,3,2.4,4,0,0,10,In-Store,35-44,F,Yes,No,0.2,0,,,0,3.33,37m+,0.14304508,0
+UK00971,2023-07-07 00:00:00.000000,West Midlands,Standard,1-Year,19.99,13,Direct Debit,2,9.9,2,1,2,10,Online,25-34,M,Yes,Yes,0.3,0,,,0,9.995,13-24m,0.34482673,0
+UK00972,2020-08-27 00:00:00.000000,South East,Enterprise,2-Year,79.99,59,Credit Card,3,34.7,2,0,0,4,Online,55-64,F,Yes,Yes,0.02,0,,,0,26.66333333333333,37m+,0.027067248,0
+UK00973,2020-05-28 00:00:00.000000,South West,Premium,1-Year,39.99,68,Direct Debit,3,70.0,1,0,1,0,Referral,35-44,F,No,No,0.26,0,,,0,13.33,37m+,0.096071154,0
+UK00974,2021-09-20 00:00:00.000000,South East,Standard,1-Year,19.99,48,Credit Card,3,8.1,1,2,0,10,Referral,35-44,F,Yes,Yes,0.12,0,,,0,6.663333333333333,37m+,0.093501896,0
+UK00975,2021-11-29 00:00:00.000000,London,Basic,1-Year,9.99,2,Credit Card,5,1.6,4,0,0,10,Partner,45-54,M,No,Yes,0.53,1,2026-02-07 00:00:00.000000,Price too high,0,1.998,0-6m,0.6880317,1
+UK00976,2021-11-30 00:00:00.000000,South East,Premium,Month-to-Month,39.99,31,Credit Card,1,76.9,0,0,2,8,Phone,25-34,F,Yes,Yes,0.23,0,,,0,39.99,25-36m,0.2068728,0
+UK00977,2022-11-17 00:00:00.000000,North West,Basic,Month-to-Month,9.99,15,Credit Card,3,1.1,0,1,0,6,Partner,45-54,M,Yes,No,0.47,0,,,0,3.33,13-24m,0.46022138,0
+UK00978,2022-02-04 00:00:00.000000,North East,Premium,2-Year,39.99,19,Credit Card,5,62.2,1,2,0,2,Online,65+,M,Yes,No,0.36,0,,,1,7.998,13-24m,0.10564129,0
+UK00979,2020-06-14 00:00:00.000000,North West,Standard,2-Year,19.99,35,Direct Debit,4,16.5,0,0,0,8,In-Store,35-44,F,Yes,Yes,0.02,0,,,0,4.9975,25-36m,0.008428207,0
+UK00980,2020-05-25 00:00:00.000000,London,Standard,Month-to-Month,19.99,56,Direct Debit,2,19.4,0,0,0,6,Online,45-54,F,Yes,No,0.21,0,,,0,9.995,37m+,0.3632123,0
+UK00981,2020-06-30 00:00:00.000000,Scotland,Basic,Month-to-Month,9.99,48,Credit Card,1,2.0,0,2,0,7,Online,45-54,Prefer not to say,Yes,No,0.57,1,2023-12-21 00:00:00.000000,Price too high,0,9.99,37m+,0.7285803,1
+UK00982,2020-12-29 00:00:00.000000,East of England,Standard,2-Year,19.99,28,Credit Card,1,3.2,1,0,0,7,Phone,35-44,M,No,Yes,0.16,0,,,0,19.99,25-36m,0.047907773,0
+UK00983,2020-08-22 00:00:00.000000,East Midlands,Basic,2-Year,9.99,63,Credit Card,3,2.4,5,0,2,6,Online,45-54,F,Yes,Yes,0.36,0,,,0,3.33,37m+,0.22007261,0
+UK00984,2022-09-15 00:00:00.000000,London,Standard,Month-to-Month,19.99,37,Credit Card,2,8.5,3,0,0,7,Online,18-24,M,Yes,No,0.33,1,2024-03-27 00:00:00.000000,Poor service quality,0,9.995,37m+,0.7189425,1
+UK00985,2020-10-06 00:00:00.000000,Scotland,Standard,2-Year,19.99,65,PayPal,2,13.5,1,0,0,9,Referral,35-44,F,Yes,Yes,0.02,0,,,0,9.995,37m+,0.031713486,0
+UK00986,2020-10-07 00:00:00.000000,East of England,Standard,2-Year,19.99,56,Direct Debit,5,14.3,3,1,0,9,Online,25-34,Prefer not to say,Yes,Yes,0.02,0,,,0,3.9979999999999998,37m+,0.04183722,0
+UK00987,2022-01-15 00:00:00.000000,West Midlands,Basic,1-Year,9.99,3,Direct Debit,3,1.8,0,0,0,9,Phone,45-54,F,Yes,No,0.37,0,,,0,3.33,0-6m,0.2282416,0
+UK00988,2021-08-27 00:00:00.000000,South West,Standard,Month-to-Month,19.99,44,PayPal,4,3.4,0,2,1,8,Online,55-64,M,Yes,No,0.39,0,,,0,4.9975,37m+,0.34467128,0
+UK00989,2020-05-21 00:00:00.000000,South East,Premium,Month-to-Month,39.99,31,PayPal,2,33.6,3,2,1,8,Online,55-64,M,Yes,No,0.49,0,,,0,19.995,25-36m,0.5003676,1
+UK00990,2020-10-04 00:00:00.000000,South West,Basic,1-Year,9.99,61,Credit Card,3,1.9,2,1,0,6,Online,25-34,F,Yes,No,0.32,1,2025-04-03 00:00:00.000000,Poor service quality,0,3.33,37m+,0.34373045,0
+UK00991,2021-03-18 00:00:00.000000,East of England,Basic,Month-to-Month,9.99,44,Direct Debit,5,2.1,4,0,1,5,In-Store,55-64,M,Yes,Yes,0.53,1,2023-07-23 00:00:00.000000,Poor service quality,0,1.998,37m+,0.37739053,0
+UK00992,2020-06-25 00:00:00.000000,London,Basic,Month-to-Month,9.99,64,PayPal,1,2.4,0,0,0,8,In-Store,65+,M,No,No,0.25,1,2023-11-26 00:00:00.000000,Competitor offer,0,9.99,37m+,0.49107984,0
+UK00993,2021-02-13 00:00:00.000000,North West,Basic,Month-to-Month,9.99,62,Bank Transfer,2,6.7,0,1,0,9,In-Store,35-44,F,No,Yes,0.23,0,,,0,4.995,37m+,0.19631425,0
+UK00994,2022-03-13 00:00:00.000000,Scotland,Enterprise,Month-to-Month,79.99,40,Direct Debit,4,146.9,1,0,2,8,Phone,35-44,M,Yes,Yes,0.07,0,,,0,19.9975,37m+,0.053285904,0
+UK00995,2020-05-08 00:00:00.000000,South East,Standard,2-Year,19.99,4,Direct Debit,4,13.5,0,0,0,7,Online,35-44,F,No,No,0.21,0,,,0,4.9975,0-6m,0.08063225,0
+UK00996,2020-11-16 00:00:00.000000,North West,Premium,Month-to-Month,39.99,52,Credit Card,4,27.5,4,2,0,7,Online,45-54,M,No,Yes,0.45,1,2023-04-29 00:00:00.000000,Poor service quality,0,9.9975,37m+,0.31626478,0
+UK00997,2023-11-15 00:00:00.000000,North West,Premium,1-Year,39.99,5,Direct Debit,3,34.9,1,0,2,6,Online,35-44,M,No,Yes,0.43,1,2026-01-27 00:00:00.000000,Competitor offer,0,13.33,0-6m,0.4565372,0
+UK00998,2020-07-13 00:00:00.000000,London,Premium,Month-to-Month,39.99,45,PayPal,4,48.9,1,0,0,7,Phone,55-64,F,No,No,0.13,0,,,0,9.9975,37m+,0.12391833,0
+UK00999,2020-09-20 00:00:00.000000,East Midlands,Basic,Month-to-Month,9.99,32,PayPal,3,3.4,3,2,0,6,Online,25-34,F,Yes,Yes,0.71,0,,,0,3.33,25-36m,0.3518184,0
+UK01000,2021-04-05 00:00:00.000000,South East,Enterprise,Month-to-Month,79.99,58,PayPal,3,212.8,3,0,0,8,Phone,25-34,M,No,No,0.03,0,,,0,26.66333333333333,37m+,0.084316224,0
