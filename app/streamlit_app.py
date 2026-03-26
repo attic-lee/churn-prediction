@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 st.set_page_config(
     page_title="Churn Analytics Dashboard",
@@ -12,7 +15,9 @@ st.set_page_config(
 # ── Load data ──────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    df = pd.read_csv('C:/Users/Attic/code/churn-prediction/outputs/customers_scored.csv')
+    st.write("BASE_DIR:", BASE_DIR)
+    st.write("Files in BASE_DIR:", os.listdir(BASE_DIR))
+    df = pd.read_csv(os.path.join(BASE_DIR, 'outputs', 'customers_scored.csv'))
     return df
 
 df = load_data()
@@ -238,11 +243,11 @@ elif page == "Model Insights":
 
     with col_a:
         st.subheader("Top Churn Predictors")
-        st.image('C:/Users/Attic/code/churn-prediction/outputs/07_feature_importance.png')
+        st.image(os.path.join(BASE_DIR, 'outputs', '07_feature_importance.png'))
 
     with col_b:
         st.subheader("Confusion Matrix")
-        st.image('C:/Users/Attic/code/churn-prediction/outputs/06_confusion_matrix.png')
+        st.image(os.path.join(BASE_DIR, 'outputs', '06_confusion_matrix.png'))
 
     st.divider()
     st.subheader("Key Findings")
