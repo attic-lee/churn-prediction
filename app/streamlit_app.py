@@ -3,8 +3,10 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import os
+from pathlib import Path
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Works on both Windows and Linux
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 st.set_page_config(
     page_title="Churn Analytics Dashboard",
@@ -12,12 +14,9 @@ st.set_page_config(
     layout="wide"
 )
 
-# ── Load data ──────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    st.write("BASE_DIR:", BASE_DIR)
-    st.write("Files in BASE_DIR:", os.listdir(BASE_DIR))
-    df = pd.read_csv(os.path.join(BASE_DIR, 'outputs', 'customers_scored.csv'))
+    df = pd.read_csv(BASE_DIR / 'outputs' / 'customers_scored.csv')
     return df
 
 df = load_data()
@@ -87,7 +86,7 @@ if page == "Overview":
     fig.update_traces(textposition='outside')
     fig.update_layout(showlegend=False, coloraxis_showscale=False,
                       plot_bgcolor='white', yaxis_title="Churn Rate (%)")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
     col_a, col_b = st.columns(2)
 
@@ -104,7 +103,7 @@ if page == "Overview":
         fig2.update_traces(textposition='outside')
         fig2.update_layout(showlegend=False, coloraxis_showscale=False,
                            plot_bgcolor='white', yaxis_title="Churn Rate (%)")
-        st.plotly_chart(fig2, use_container_width=True)
+        st.plotly_chart(fig2, width='stretch')
 
     with col_b:
         st.subheader("Churn by Region")
@@ -119,7 +118,7 @@ if page == "Overview":
                       color_continuous_scale=['#16A34A','#D97706','#DC2626'])
         fig3.update_layout(showlegend=False, coloraxis_showscale=False,
                            plot_bgcolor='white', xaxis_title="Churn Rate (%)")
-        st.plotly_chart(fig3, use_container_width=True)
+        st.plotly_chart(fig3, width='stretch')
 
 # ══════════════════════════════════════════════════════════════════════════
 # PAGE 2 — SEGMENT EXPLORER
@@ -161,7 +160,7 @@ elif page == "Segment Explorer":
     fig4.update_traces(textposition='outside')
     fig4.update_layout(showlegend=False, coloraxis_showscale=False,
                        plot_bgcolor='white', yaxis_title=y_label)
-    st.plotly_chart(fig4, use_container_width=True)
+    st.plotly_chart(fig4, width='stretch')
 
     st.subheader("Filtered Customer Data")
     st.dataframe(
@@ -170,7 +169,7 @@ elif page == "Segment Explorer":
                   'predicted_churn_prob','churned_1yes']]
         .sort_values('predicted_churn_prob', ascending=False)
         .style.format({'predicted_churn_prob': '{:.1%}'}),
-        use_container_width=True, height=400
+        width='stretch', height=400
     )
 
 # ══════════════════════════════════════════════════════════════════════════
@@ -214,7 +213,7 @@ elif page == "High-Risk Customers":
             subset=['Churn Probability'], 
             cmap='RdYlGn_r'
         ),
-        use_container_width=True, height=450
+        width='stretch', height=450
     )
 
     csv = display_df.to_csv(index=False).encode('utf-8')
@@ -243,11 +242,11 @@ elif page == "Model Insights":
 
     with col_a:
         st.subheader("Top Churn Predictors")
-        st.image(os.path.join(BASE_DIR, 'outputs', '07_feature_importance.png'))
+        st.image(str(BASE_DIR / 'outputs' / '07_feature_importance.png'))
 
     with col_b:
         st.subheader("Confusion Matrix")
-        st.image(os.path.join(BASE_DIR, 'outputs', '06_confusion_matrix.png'))
+        st.image(str(BASE_DIR / 'outputs' / '06_confusion_matrix.png'))
 
     st.divider()
     st.subheader("Key Findings")
